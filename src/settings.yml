@@ -1,0 +1,55 @@
+---
+strategy: polling
+no_screen_padding: 'no'
+dark_mode: 'no'
+static_data: "{}"
+polling_verb: get
+framework_version: 3.3.1
+serverless_language: node
+polling_url: https://raw.githubusercontent.com/michaelkurath/Never-Built/main/data/trmnl.json
+polling_headers: ''
+polling_body: ''
+oauth_enabled: 'false'
+oauth_pkce_enabled: 'no'
+oauth_authorize_url: ''
+oauth_token_url: ''
+oauth_scopes: ''
+oauth_scope_separator: ''
+oauth_refresh_url: ''
+oauth_auth_params: ''
+oauth_token_headers: ''
+oauth_token_site: ''
+oauth_token_params: ''
+oauth_token_request_auth_method: ''
+oauth_body_format: ''
+oauth_token_response_metadata: ''
+oauth_authorization_method: ''
+oauth_refresh_params: ''
+oauth_token_field_name: ''
+oauth_expiry_field_name: ''
+oauth_expiry_strategy: ''
+oauth_fixed_expiry_ms: ''
+custom_fields:
+- keyname: author_bio
+  field_type: author_bio
+  name: About NEVER BUILT
+  category: custom,education
+  description: A rotating museum of real proposals for buildings, vehicles, and inventions that never became reality.
+  github_url: https://github.com/michaelkurath/Never-Built
+- keyname: category
+  name: Category
+  field_type: select
+  options:
+  - All categories: all
+  - Technology: technology
+  - Architecture: architecture
+  - Transport: transport
+  - Space: space
+  - Infrastructure: infrastructure
+  default: all
+  description: Choose from all entries or one category. Every entry is shown once before the rotation repeats.
+  optional: true
+name: NEVER BUILT
+description: One unrealised future, every refresh.
+refresh_interval: 15
+

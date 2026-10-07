@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "review_process_version": 1,
+  "candidates": [
+    {
+      "id": "boeing-2707",
+      "name": "BOEING 2707",
+      "proposal_period": "1966–1971*",
+      "proposal_year": "1966",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Mock-up",
+      "caption": "America wanted its own supersonic future. The prototype never reached the runway.",
+      "why_unbuilt": "US government funding ended in 1971 before the flight prototype was completed.",
+      "what_remains": "Mock-up sections and engineering records preserve the proposed supersonic airliner.",
+      "source_name": "Boeing historical product record",
+      "source_url": "https://www.boeing.com/content/dam/boeing/boeingdotcom/history/pdf/Boeing_Products.pdf",
+      "note": "*1966 marks selection of Boeing for the US SST prototype programme, not the start of all design work. The 2707 changed configuration; distinguish the early swing-wing and later fixed-wing versions when creating artwork.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Sources gathered; promotion requires full verification, text review, artwork, and device QA."
+      }
+    },
+    {
+      "id": "tatlins-tower",
+      "name": "TATLIN'S TOWER",
+      "proposal_period": "1919–1920",
+      "proposal_year": "1919",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Scale model",
+      "caption": "A revolution imagined in iron and glass. Its headquarters remained a model.",
+      "why_unbuilt": "The monumental design remained unrealised; its precise construction barriers need further source review.",
+      "what_remains": "Drawings, photographs, and reconstructed models preserve its intertwined spirals and suspended volumes.",
+      "source_name": "Centre Pompidou",
+      "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cqGrB5n",
+      "note": "Monument to the Third International. The museum confirms the full structure was never built and describes its 1979 reconstruction. Do not present the reconstructed model as the original. Verify cost/material explanations before promotion.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 4,
+        "catalogue_fit": 5,
+        "total": 21,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Sources gathered; promotion requires full verification, text review, artwork, and device QA."
+      }
+    },
+    {
+      "id": "project-daedalus",
+      "name": "PROJECT DAEDALUS",
+      "proposal_period": "1973–1978",
+      "proposal_year": "1973",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Design study",
+      "caption": "A starship designed to cross the distance. Its first journey was through an engineering report.",
+      "why_unbuilt": "Daedalus was a volunteer feasibility study, not a funded spacecraft construction programme.",
+      "what_remains": "The 1978 report and later interstellar studies retain its two-stage fusion-probe concept.",
+      "source_name": "British Interplanetary Society",
+      "source_url": "https://www.bis-space.com/technical-projects/",
+      "note": "The BIS describes a 1973–1978 volunteer study targeting a flyby of Barnard’s Star. The study was completed, not cancelled; do not confuse an unbuilt vehicle with a failed research programme.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 22,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Sources gathered; promotion requires full verification, text review, artwork, and device QA."
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "the-illinois",
+      "exhibit": "001",
+      "name": "THE ILLINOIS",
+      "proposal_period": "1956",
+      "proposal_year": "1956",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Proposal",
+      "caption": "A city in the sky. A mile above Chicago. Still only on paper.",
+      "why_unbuilt": "Wright had no secured site, client, or budget for his mile-high tower.",
+      "what_remains": "Drawings and later visualisations preserve the ambition of a vertical city.",
+      "source_name": "Frank Lloyd Wright Foundation",
+      "source_url": "https://franklloydwright.org/frank-lloyd-wrights-unbuilt-skyscrapers-come-to-life-with-never-before-seen-3d-imagery/",
+      "note": "Announced in 1956 as a 528-storey, mile-high tower. It was a conceptual proposal, not a funded construction project. Artwork is an AI-generated interpretation; skyline and details are illustrative.",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-illinois-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-illinois-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-illinois-master-2x1.jpg",
+      "image_alt": "Artistic reconstruction of THE ILLINOIS in monochrome engraving style.",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-07"
+    },
+    {
+      "id": "ford-nucleon",
+      "exhibit": "002",
+      "name": "FORD NUCLEON",
+      "proposal_period": "1958",
+      "proposal_year": "1958",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Scale model",
+      "caption": "The car of tomorrow had a reactor in the back. Tomorrow never arrived.",
+      "why_unbuilt": "The concept depended on nuclear reactors becoming small, light, and safe enough for an everyday car.",
+      "what_remains": "A non-working 3/8-scale model and Ford brochures preserve this atomic-age vision.",
+      "source_name": "The Henry Ford",
+      "source_url": "https://www.thehenryford.org/collections/explore/artifact/403679",
+      "note": "The museum describes the Nucleon as more a public-relations exercise than serious development. Only a non-functional model was built; there was no running nuclear car. Artwork interprets the styling concept.",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/ford-nucleon-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/ford-nucleon-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/ford-nucleon-master-2x1.jpg",
+      "image_alt": "Artistic reconstruction of FORD NUCLEON in monochrome engraving style.",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-07"
+    },
+    {
+      "id": "project-orion",
+      "exhibit": "003",
+      "name": "PROJECT ORION",
+      "proposal_period": "1958–1965*",
+      "proposal_year": "1958",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Test hardware",
+      "caption": "A spaceship riding nuclear explosions. The future had a fallout problem.",
+      "why_unbuilt": "Nuclear-test restrictions, fallout concerns, and withdrawn government support ended the programme.",
+      "what_remains": "Design studies and a conventional-explosive test model survive; the nuclear spacecraft was never built.",
+      "source_name": "NASA Goddard",
+      "source_url": "https://pwg.gsfc.nasa.gov/stargaze/Snucfly.htm",
+      "note": "*Period refers to the research programme. A December 1964 memo records support ending on 31 December; Smithsonian dates cancellation to 1965. Small models used conventional explosives. Artwork is a conceptual interpretation, not a specific final design.",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-orion-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-orion-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-orion-master-2x1.jpg",
+      "image_alt": "Artistic reconstruction of PROJECT ORION in monochrome engraving style.",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-07",
+      "additional_sources": [
+        {
+          "name": "US Department of State, 8 December 1964 memorandum",
+          "url": "https://history.state.gov/historicaldocuments/frus1964-68v34/d28"
+        },
+        {
+          "name": "Smithsonian National Air and Space Museum",
+          "url": "https://airandspace.si.edu/collection-objects/propulsion-test-vehicle-project-orion/nasm_A19721008000"
+        }
+      ]
+    }
+  ]
+}

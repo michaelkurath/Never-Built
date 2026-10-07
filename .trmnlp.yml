@@ -1,0 +1,15 @@
+---
+watch:
+  - .trmnlp.yml
+  - src
+  - data/trmnl.json
+
+custom_fields:
+  category: all
+
+time_zone: UTC
+transform_runtime: enabled
+
+variables:
+  trmnl: {}
+
