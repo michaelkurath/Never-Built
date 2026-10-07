@@ -363,6 +363,139 @@
         "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
       },
       "researched_on": "2026-10-07"
+    },
+    {
+      "id": "owl-100-metre-telescope",
+      "name": "OWL 100-METRE TELESCOPE",
+      "proposal_period": "1998–2005",
+      "proposal_year": "1998",
+      "category": "Technology",
+      "category_key": "technology",
+      "stage": "Design study",
+      "caption": "A mirror a hundred metres wide. The giant telescope became a study for a smaller successor.",
+      "why_unbuilt": "A 2005 review recommended a smaller telescope because of substantial technical risks.",
+      "what_remains": "The OWL Blue Book, concept drawings, and research that informed ESO's ELT.",
+      "source_name": "European Southern Observatory",
+      "source_url": "https://elt.eso.org/about/road/",
+      "note": "ESO dates the concept study to 1998–2005. The study was completed, not a failed construction programme. Its proposed 100-metre telescope was not built; do not conflate OWL with the separate 39-metre ELT. The review also identified cost and schedule risks. Verify a specific OWL configuration against original drawings before artwork.",
+      "sources": [
+        {
+          "name": "ESO OWL archive",
+          "url": "https://www.eso.org/sci/facilities/eelt/owl/index_3.html",
+          "supports": "Completed study, review and recommendation for a less risky 30–60-metre telescope."
+        },
+        {
+          "name": "ESO FAQ",
+          "url": "https://elt.eso.org/about/faq/",
+          "supports": "OWL was a concept study; no current plan to build a 100-metre optical telescope."
+        }
+      ],
+      "visual_brief": "Broad segmented mirror and exposed telescope support structure, using OWL drawings rather than the ELT dome; retain scale cues.",
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 21,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Primary sources researched; scope qualifications are recorded in note. Artwork and final review remain pending."
+      },
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "superconducting-super-collider",
+      "name": "SUPERCONDUCTING SUPER COLLIDER",
+      "proposal_period": "1983–1993*",
+      "proposal_year": "1983",
+      "category": "Infrastructure",
+      "category_key": "infrastructure",
+      "stage": "Partial build",
+      "caption": "An accelerator to probe matter's deepest secrets. Construction stopped before it could collide.",
+      "why_unbuilt": "Congress terminated the project in October 1993 after rising cost estimates and management problems.",
+      "what_remains": "DOE audit reports and project records document the unfinished accelerator and its closure.",
+      "source_name": "US Department of Energy",
+      "source_url": "https://www.energy.gov/sites/prod/files/2015/09/f26/DOE-OIG-0389.pdf",
+      "note": "*1983 marks the High Energy Physics Advisory Panel recommendation, not groundbreaking. Congress terminated the project on 28 October 1993. DOE's audit records escalating estimates and multiple internal/external factors; do not reduce cancellation to one cause. Partly constructed hardware existed: the candidate is the never-completed collider, not a claim that nothing was built. No current physical-site condition or successful medical reuse is asserted.",
+      "sources": [
+        {
+          "name": "DOE environmental decision, 1995",
+          "url": "https://www.energy.gov/index.php/nepa/articles/ea-1090-finding-no-significant-impact",
+          "supports": "Law mandated termination of construction; partially constructed linear accelerator existed."
+        }
+      ],
+      "visual_brief": "Planned collider ring in a restrained cutaway or map, checked against original project plans; distinguish the planned facility from completed hardware.",
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 3,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 21,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Primary sources researched; scope qualifications are recorded in note. Artwork and final review remain pending."
+      },
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "hl-20-personnel-launch-system",
+      "name": "HL-20 PERSONNEL LAUNCH SYSTEM",
+      "proposal_period": "1989–1993*",
+      "proposal_year": "1989",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Full-size mockup",
+      "caption": "A small lifting body for trips to a space station. Its cabin was tested; its spacecraft never flew.",
+      "why_unbuilt": "The HL-20 remained a research study; no flight hardware was built during the 1989–1993 programme.",
+      "what_remains": "NASA reports and photographs document the mockup; the concept later informed Dream Chaser.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/image-article/hl-20/",
+      "note": "*1989–1993 is NASA's stated study period, not the start of lifting-body research. A full-scale mockup was built in 1990 for human-factors tests, so never say no model or prototype existed without qualifying flight hardware. NASA describes HL-20 as an archived study. No specific funding or technical failure is inferred here. HL-42 and Dream Chaser are distinct later designs, not built HL-20 vehicles.",
+      "sources": [
+        {
+          "name": "NASA Langley HL-20 overview",
+          "url": "https://www.nasa.gov/hl-20-2/",
+          "supports": "Full-scale mockup, human-factors testing, archived study and later design transfer."
+        },
+        {
+          "name": "NASA research-model report",
+          "url": "https://ntrs.nasa.gov/citations/19910006695",
+          "supports": "Construction of the full-scale engineering model for systems and human-factors evaluation."
+        }
+      ],
+      "visual_brief": "Compact HL-20 lifting body with its documented fins, derived from original NASA concept art; label reconstruction and avoid modern Dream Chaser details.",
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 21,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Primary sources researched; scope qualifications are recorded in note. Artwork and final review remain pending."
+      },
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "researched_on": "2026-10-07"
     }
   ]
 }
