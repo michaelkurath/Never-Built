@@ -26,7 +26,18 @@ artistic-reconstruction metadata used by the website and alt text.
 
 ## Device review
 
-Pending both sets of 12 pull-request previews and final approval.
+Both exhibits passed all four layouts on OG (800×480, 1-bit), X landscape
+(1040×780, 4-bit) and X portrait (780×1040, 4-bit): 24 previews total.
+Whole silhouettes are retained, titles and captions fit, and quadrant text
+does not overlap. Extended notes use the existing responsive clamp.
+
+[Actions run 37681566655](https://github.com/michaelkurath/Never-Built/actions/runs/37681566655),
+commit `adf0a56426ce8360aed84bc1a8c717d62eed3307`, passed both matrix jobs,
+including validation, website build, plugin lint and render. Reviewed artifacts:
+`never-built-render-previews-0` (11510250142, Daedalus) and
+`never-built-render-previews-1` (11510050221, Fun Palace). Image review and
+final approval are approved for both exhibits. A subsequent metadata-only commit
+records approval; artwork, display text and runtime code are unchanged.
 
 ## Candidate replenishment
 
