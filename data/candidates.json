@@ -97,6 +97,272 @@
         "rated_on": "2026-10-07",
         "note": "Editorial score out of 25. Sources gathered; promotion requires full verification, text review, artwork, and device QA."
       }
+    },
+    {
+      "id": "venturestar",
+      "name": "VENTURESTAR",
+      "proposal_period": "1997–2001*",
+      "proposal_year": "1997",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Design study",
+      "caption": "A reusable spaceship without disposable stages. Its future depended on a smaller test vehicle.",
+      "why_unbuilt": "The VentureStar effort ended when its X-33 technology demonstrator programme was cancelled in 2001.",
+      "what_remains": "NASA concept artwork, technical reports, and records of the related X-33 technology programme.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/image-article/artists-concept-x-33-venturestar/",
+      "note": "*1997 dates the cited NASA concept image, not the first proposal. VentureStar was the proposed full-size orbital vehicle; the partly built X-33 was a separate subscale demonstrator. NASA sources differ in shorthand February cancellation versus March funding/agreement dates: use 2001 in display copy. Never depict X-33 hardware as a built VentureStar.",
+      "sources": [
+        {
+          "name": "NASA programme history",
+          "url": "https://www.nasa.gov/aeronautics/nasa-aircraft/x-33-demonstrator/",
+          "supports": "Technology challenges; March 2001 funding decision and agreement expiry."
+        }
+      ],
+      "visual_brief": "Broad wedge-shaped lifting body on a launch pad; distinguish full-size VentureStar from X-33 using NASA reference artwork.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "fun-palace",
+      "name": "FUN PALACE",
+      "proposal_period": "1961–1974",
+      "proposal_year": "1961",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Proposal",
+      "caption": "A palace that could rearrange itself around its visitors. London never agreed where to put it.",
+      "why_unbuilt": "Restrictive policies and community concerns obstructed site selection; a site was never agreed upon.",
+      "what_remains": "Cedric Price's drawings, correspondence, planning records, and models document the adaptable structure.",
+      "source_name": "Canadian Centre for Architecture",
+      "source_url": "https://www.cca.qc.ca/en/articles/91951/dangerous-immoral-ahead-of-its-time",
+      "note": "CCA identifies Joan Littlewood and Cedric Price's project as 1961–74 and documents multiple potential London sites. MoMA dates an early storyboard 1959–1961; those object dates do not replace the CCA project period. Intended for actual construction and temporary use, unlike a purely imaginary city. Avoid implying that today's Fun Palaces community events are the original building.",
+      "sources": [
+        {
+          "name": "MoMA storyboard collection record",
+          "url": "https://www.moma.org/collection/works/846",
+          "supports": "Commission, adaptable programme, intended construction and unrealised status."
+        },
+        {
+          "name": "CCA project archive",
+          "url": "https://www.cca.qc.ca/en/archives/380477/cedric-price-fonds/396839/projects/399301/fun-palace-project",
+          "supports": "Surviving project documentation."
+        }
+      ],
+      "visual_brief": "Open steel gantry frame with cranes and movable platforms; use one documented site/version rather than a generic amusement park.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 22,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "newtons-cenotaph",
+      "name": "NEWTON'S CENOTAPH",
+      "proposal_period": "1784",
+      "proposal_year": "1784",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Paper concept",
+      "caption": "A vast sphere imagined for Newton. The monument existed in drawings, not stone.",
+      "why_unbuilt": "A visionary paper project, not a documented construction programme; no specific cancellation is established.",
+      "what_remains": "Six original ink-and-wash drawings are catalogued and digitised by the Bibliothèque nationale de France.",
+      "source_name": "Bibliothèque nationale de France",
+      "source_url": "https://catalogue.bnf.fr/ark:/12148/cb402991186",
+      "note": "BnF verifies attribution, 1784 and six drawings. Library of Congress describes an imaginary cenotaph, but full page retrieval failed; its search record was available. Retain fact_check pending until conceptual/unbuilt status is independently reviewed in a fully accessible institutional account. Do not invent funding failure, structural impossibility, a client or a cancellation date. Cenotaph means an empty memorial, not Newton's actual tomb. No precise diameter claimed in display copy.",
+      "sources": [
+        {
+          "name": "Library of Congress collection record",
+          "url": "https://www.loc.gov/item/2021669836/",
+          "supports": "Imaginary memorial concept; full page inaccessible during this research."
+        },
+        {
+          "name": "BnF individual drawing record",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb45191199m",
+          "supports": "1784 daytime section drawing."
+        }
+      ],
+      "visual_brief": "Spherical monument on a stepped circular base with cypress trees, derived from the original elevation; keep the complete sphere visible.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 4,
+        "catalogue_fit": 4,
+        "total": 20,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "inner-thames-estuary-airport",
+      "name": "THAMES ESTUARY AIRPORT",
+      "proposal_period": "2014 review*",
+      "proposal_year": "2014",
+      "category": "Infrastructure",
+      "category_key": "infrastructure",
+      "stage": "Proposal",
+      "caption": "A new airport beside the Thames. The estuary promised space; the obstacles proved larger.",
+      "why_unbuilt": "In 2014 the Airports Commission rejected the option over delivery, economic and environmental concerns.",
+      "what_remains": "Official feasibility studies and the commission's published decision preserve the proposal and objections.",
+      "source_name": "UK Airports Commission",
+      "source_url": "https://www.gov.uk/government/news/airports-commission-announces-inner-thames-estuary-decision",
+      "note": "*2014 marks the official decision, not the first estuary-airport idea. Scope is the inner Thames estuary option reviewed by the commission. Foster's Thames Hub at the Isle of Grain and offshore 'Boris Island' schemes are not interchangeable. Before artwork/promotion select a specific documented variant and align the title, proposal year and map with it. Do not present the government's airport-stock-photo as a rendering of this proposal.",
+      "sources": [
+        {
+          "name": "Official summary and decision paper",
+          "url": "https://www.gov.uk/government/publications/inner-thames-estuary-airport-summary-and-decision",
+          "supports": "Review scope and decision rationale."
+        },
+        {
+          "name": "Official feasibility studies",
+          "url": "https://www.gov.uk/government/consultations/inner-thames-estuary-airport-studies",
+          "supports": "Environmental, operational, economic and access studies."
+        }
+      ],
+      "visual_brief": "Aerial airport plan beside an estuary, only after choosing and checking a specific proposal; avoid a fictional island layout.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 4,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 21,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "project-pluto-slam",
+      "name": "PROJECT PLUTO / SLAM",
+      "proposal_period": "1957–1964",
+      "proposal_year": "1957",
+      "category": "Technology",
+      "category_key": "technology",
+      "stage": "Engine tests",
+      "caption": "A cruise missile powered by a nuclear ramjet. The engine ran; the proposed weapon never took flight.",
+      "why_unbuilt": "The Pentagon reconsidered its sponsorship and Project Pluto was cancelled on 1 July 1964.",
+      "what_remains": "Official histories, test photographs, and technical records document the Tory nuclear ramjet engines.",
+      "source_name": "Nevada National Security Site",
+      "source_url": "https://nnss.gov/publication-library/anniversary-publications/",
+      "note": "Candidate scope is the proposed flight weapon, not the engine: Tory reactors and a flight-engine prototype were built and tested. NNSS gives 1 January 1957 and 1 July 1964 dates; LLNL confirms successful ground tests. Verify the exact SLAM airframe designation and flight-vehicle completion status before promotion. Do not write 'no prototype was built' or suggest that reactor tests failed. Avoid unsupported fallout-casualty numbers or claims about deliberate radiation trails.",
+      "sources": [
+        {
+          "name": "Lawrence Livermore National Laboratory photo record",
+          "url": "https://www.flickr.com/photos/llnl/3084421431",
+          "supports": "Built Tory reactor and flight-engine prototypes; successful tests."
+        }
+      ],
+      "visual_brief": "Historical proposed cruise-missile silhouette with clear reconstruction label; research airframe configuration first. Engine-test photographs are evidence, not pictures of a completed flying missile.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 4,
+        "story_strength": 5,
+        "evidence_clarity": 4,
+        "catalogue_fit": 4,
+        "total": 19,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "x-20-dyna-soar",
+      "name": "X-20 DYNA-SOAR",
+      "proposal_period": "1959–1963*",
+      "proposal_year": "1959",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Partial build",
+      "caption": "A spaceplane before the Shuttle. Its glider stayed unfinished; its research outlived the programme.",
+      "why_unbuilt": "The US government cancelled it in December 1963, citing no viable military mission and excessive research cost.",
+      "what_remains": "Museum models, technical records, and photographs preserve the design and its component research.",
+      "source_name": "Boeing historical image archive",
+      "source_url": "https://secure.boeingimages.com/asset-management/2F3XC5OBANI",
+      "note": "*1959 marks Boeing's design contract on 9 November, not the earlier origins of Dyna-Soar. Boeing states cancellation on 10 December 1963, a mock-up and partly completed prototype, both later scrapped. Smithsonian preserves separate models. Air Force sources were search-visible but full-page retrieval returned 403. Do not depict a completed vehicle photograph as real: manufacturer launch/orbit artwork is conceptual.",
+      "sources": [
+        {
+          "name": "Smithsonian model record",
+          "url": "https://airandspace.si.edu/collection-objects/model-dyna-soar-x-20/nasm_A19900222000",
+          "supports": "Surviving model and December 1963 cancellation; search record accessible, page blocked."
+        },
+        {
+          "name": "Air Force programme history",
+          "url": "https://www.afmc.af.mil/News/Article-Display/Article/1925643/history-in-two-dyna-soar/",
+          "supports": "No completed glider and later use of research; search record accessible, page blocked."
+        }
+      ],
+      "visual_brief": "Compact sharply swept delta spaceplane on a Titan booster, using a specific late configuration; show its small scale and avoid Shuttle-like engines.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-07"
     }
   ]
 }
