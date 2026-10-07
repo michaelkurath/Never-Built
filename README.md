@@ -20,13 +20,16 @@ Three separate candidates: Boeing 2707 (24/25), Tatlin's Tower (21/25), and Proj
 
 ## TRMNL setup
 
-1. Create a new private plugin or recipe in TRMNL.
-2. Use the polling URL and settings in [src/settings.yml](src/settings.yml).
-3. Install [src/transform.js](src/transform.js) as the Node serverless transform with Saved State enabled.
-4. Copy shared markup and the four layouts from `src/` into the matching editor sections.
-5. Choose all categories or one category. Force Refresh retains history; Clear Saved State restarts it.
+1. Open the existing NEVER BUILT private plugin (`498879`) in TRMNL.
+2. On its GitHub sync card, import the latest changes from this repository. Leave the repository folder blank; the plugin files are in `src/`.
+3. Verify the polling URL, Node serverless transform, shared markup, four layouts and category field were imported. Enable Saved State for the transform.
+4. Force Refresh and review the preview. Choose all categories or one category; Clear Saved State restarts the rotation.
 
-No existing GOODBYE installation ID, API key, or device binding is included. Empty category selections fall back to the full catalogue.
+GitHub → TRMNL import is manual. Saving an empty plugin before importing sends its empty settings back to GitHub. Import the repository configuration first.
+
+For a separate installation, create/import a new plugin and use its own ID instead of `498879`.
+
+The settings preserve NEVER BUILT’s installation ID. No GOODBYE installation ID, API key, or device binding is included. Empty category selections fall back to the full catalogue.
 
 ## Checks and preview
 

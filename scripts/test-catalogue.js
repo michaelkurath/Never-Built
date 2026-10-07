@@ -19,6 +19,9 @@ for (const category of ['all', ...new Set(items.map(x => x.category_key)), 'infr
   assert.deepEqual([...seen].sort(), expected.map(x => x.id).sort());
 }
 const settings = fs.readFileSync('src/settings.yml', 'utf8');
-assert.ok(!/^id:/m.test(settings), 'Do not bind to an existing plugin');
+assert.match(settings, /^id: 498879$/m, 'Preserve NEVER BUILT installation identity');
+assert.ok(!/^id: 467205$/m.test(settings), 'Never bind to GOODBYE');
+assert.match(settings, /^serverless_language: node$/m);
+assert.match(settings, /^custom_fields:$/m);
 assert.ok(settings.includes('Never-Built/main/data/trmnl.json'));
 console.log('Live rotation, category fallback, candidate isolation, and installation identity passed.');
