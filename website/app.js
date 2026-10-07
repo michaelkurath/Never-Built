@@ -46,6 +46,7 @@ function showItem(item, moveFocus = false) {
   els.stage.textContent = item.stage;
   els.category.textContent = item.category;
   els.proposal_period.textContent = item.proposal_period.replace('–', '—');
+  els.proposal_period.classList.toggle('is-range', item.proposal_period.length > 4);
   els.name.textContent = item.name;
   els.caption.textContent = item.caption;
   els.why_unbuilt.textContent = item.why_unbuilt;

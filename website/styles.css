@@ -155,4 +155,5 @@ footer a { justify-self: end; }
 
 
 .image-disclaimer { position:absolute; bottom:12px; left:16px; padding:4px 7px; background:white; font-size:.6rem; letter-spacing:.1em; font-weight:800; }
+.proposal_period.is-range { font-size:clamp(2rem,4.2vw,4.8rem); }
 @media(max-width:620px) { .brand { font-size:1.5rem; letter-spacing:-.04em; } }

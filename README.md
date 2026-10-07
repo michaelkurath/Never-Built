@@ -45,7 +45,7 @@ Device previews use Ruby, Firefox, ImageMagick and `trmnl_preview` 0.14.2: run `
 
 [data/trmnl.json](data/trmnl.json) contains live exhibits; [data/candidates.json](data/candidates.json) holds the queue. Fields: `proposal_period`, `proposal_year`, `stage`, `caption`, `why_unbuilt`, `what_remains`, source metadata and qualified notes. Artwork metadata is `ai_artistic_reconstruction`.
 
-The reused website has live counts, sources, category filters, deep links, Today and Random controls, and artwork labels. `node scripts/build-website.js` assembles `_site/`; serve it locally. The Pages workflow publishes the same build.
+The reused website has live counts, sources, category filters, deep links, Today and Random controls, and artwork labels. `node scripts/build-website.js` assembles `_site/`; serve it locally. The Pages workflow publishes the same build. For a new repository, first enable **Settings → Pages → Source: GitHub Actions**; the workflow token cannot enable Pages itself.
 
 See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER_REVIEW.md), [image workflow](docs/IMAGE_WORKFLOW.md), and [roadmap](ROADMAP.md).
 

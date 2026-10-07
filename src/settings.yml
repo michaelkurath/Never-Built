@@ -50,6 +50,6 @@ custom_fields:
   description: Choose from all entries or one category. Every entry is shown once before the rotation repeats.
   optional: true
 name: NEVER BUILT
-description: One unrealised future, every refresh.
+description: One unbuilt future, every refresh.
 refresh_interval: 15
 
