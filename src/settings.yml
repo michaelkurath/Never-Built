@@ -6,6 +6,7 @@ static_data: "{}"
 polling_verb: get
 framework_version: 3.3.1
 serverless_language: node
+refresh_interval_floor: ''
 polling_url: https://raw.githubusercontent.com/michaelkurath/Never-Built/main/data/trmnl.json
 polling_headers: ''
 polling_body: ''
@@ -53,4 +54,3 @@ custom_fields:
 name: NEVER BUILT
 description: One unbuilt future, every refresh.
 refresh_interval: 15
-
