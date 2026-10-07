@@ -6,17 +6,18 @@ A rotating museum of real proposals for buildings, vehicles, and inventions that
 
 Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit `63f7b5d59b2be6b096d42b41b78929d9d8e20621`. Retains the four responsive layouts, category filter, unchanged Saved State rotation algorithm, website, candidate review system, and device-render workflow. Editorial data, artwork, branding, and display fields are replaced.
 
-## Starter collection
+## Live collection
 
 | Live exhibit | Proposal period | Development stage |
 | --- | --- | --- |
 | The Illinois | 1956 | Proposal |
 | Ford Nucleon | 1958 | Non-working scale model |
 | Project Orion | 1958–1965* | Conventional-explosive test hardware |
+| Boeing 2707 | 1966–1971* | Mock-up |
 
-Three live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Four live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Three separate candidates: Boeing 2707 (24/25), Tatlin's Tower (21/25), and Project Daedalus (22/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements.
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including Swissmetro (21/25) and Ares V (20/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 was promoted as exhibit 004 after source, text, artwork and device review; see [promotion review](docs/PROMOTION_2026-10-07.md).
 
 ## TRMNL setup
 
@@ -42,7 +43,7 @@ node scripts/test-catalogue.js
 node scripts/build-website.js
 ```
 
-Device previews use Ruby, Firefox, ImageMagick and `trmnl_preview` 0.14.2: run `trmnlp lint` and `trmnlp serve`. GitHub Actions runs these checks and renders all four layouts on OG, X landscape, and X portrait. Artifact: `never-built-render-previews`.
+Device previews use Ruby, Firefox, ImageMagick and `trmnl_preview` 0.14.2: run `trmnlp lint` and `trmnlp serve`. GitHub Actions runs these checks and renders all four layouts on OG, X landscape, and X portrait. Artifact: `never-built-render-previews`. The render fixture pins the newest live exhibit and embeds its local images, so pull-request previews do not depend on unreleased images already existing on main.
 
 ## Data and website
 

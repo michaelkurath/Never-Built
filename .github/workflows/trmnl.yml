@@ -35,6 +35,9 @@ jobs:
       - name: Lint plugin
         run: trmnlp lint
 
+      - name: Pin newest exhibit and local artwork for review
+        run: node scripts/prepare-render-fixture.js
+
       - name: Render TRMNL OG, X landscape, and X portrait
         run: |
           trmnlp serve --bind 127.0.0.1 > /tmp/trmnlp.log 2>&1 &
