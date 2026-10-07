@@ -40,9 +40,11 @@ jobs:
 
       - name: Render TRMNL OG, X landscape, and X portrait
         run: |
+          python3 -m http.server 4568 --bind 127.0.0.1 > /tmp/assets.log 2>&1 &
+          assets_pid=$!
           trmnlp serve --bind 127.0.0.1 > /tmp/trmnlp.log 2>&1 &
           trmnlp_pid=$!
-          trap 'kill "$trmnlp_pid" 2>/dev/null || true' EXIT
+          trap 'kill "$trmnlp_pid" "$assets_pid" 2>/dev/null || true' EXIT
 
           for attempt in {1..30}; do
             if curl --silent --fail http://127.0.0.1:4567/full > /dev/null; then

@@ -43,7 +43,7 @@ node scripts/test-catalogue.js
 node scripts/build-website.js
 ```
 
-Device previews use Ruby, Firefox, ImageMagick and `trmnl_preview` 0.14.2: run `trmnlp lint` and `trmnlp serve`. GitHub Actions runs these checks and renders all four layouts on OG, X landscape, and X portrait. Artifact: `never-built-render-previews`. The render fixture pins the newest live exhibit and embeds its local images, so pull-request previews do not depend on unreleased images already existing on main.
+Device previews use Ruby, Firefox, ImageMagick and `trmnl_preview` 0.14.2: run `trmnlp lint` and `trmnlp serve`. GitHub Actions runs these checks and renders all four layouts on OG, X landscape, and X portrait. Artifact: `never-built-render-previews`. The render fixture pins the newest live exhibit and serves its local images, so pull-request previews do not depend on unreleased images already existing on main.
 
 ## Data and website
 
