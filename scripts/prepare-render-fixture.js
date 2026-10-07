@@ -2,7 +2,11 @@
 // Run only in a disposable checkout: this replaces its local preview config.
 const fs = require('node:fs');
 const { items } = JSON.parse(fs.readFileSync('data/trmnl.json', 'utf8'));
-const selected = { ...items.at(-1) };
+const offset = Number(process.argv[2] || 0);
+if (!Number.isInteger(offset) || offset < 0 || offset >= items.length) {
+  throw new Error("Render offset must select an existing exhibit from the end of the catalogue.");
+}
+const selected = { ...items.at(-1 - offset) };
 for (const key of ['image_url', 'image_url_standard', 'image_url_wide']) {
   const file = new URL(selected[key]).pathname.split('/main/')[1];
   if (!file || !fs.existsSync(file)) throw new Error(`Missing local artwork: ${file}`);

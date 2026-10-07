@@ -125,6 +125,102 @@
       "image_alt": "Artistic reconstruction of the fixed-wing Boeing 2707-300, with four underwing engines and separate tailplanes.",
       "image_kind": "ai_artistic_reconstruction",
       "verified_on": "2026-10-07"
+    },
+    {
+      "id": "fun-palace",
+      "name": "FUN PALACE",
+      "proposal_period": "1961–1974",
+      "proposal_year": "1961",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Proposal",
+      "caption": "A palace that could rearrange itself around its visitors. London never agreed where to put it.",
+      "why_unbuilt": "Restrictive policies and community concerns obstructed site selection; a site was never agreed upon.",
+      "what_remains": "Cedric Price's drawings, correspondence, planning records, and models document the adaptable structure.",
+      "source_name": "Canadian Centre for Architecture",
+      "source_url": "https://www.cca.qc.ca/en/articles/91951/dangerous-immoral-ahead-of-its-time",
+      "note": "Joan Littlewood and Cedric Price intended an adaptable London cultural and learning complex for actual construction. CCA dates the project 1961–1974; MoMA dates its early storyboard 1959–1961. The site was never agreed. Artwork interprets the open framework, gantry and movable spaces in the 1964 CCA brochure; it is not an exact site-specific plan. Modern Fun Palaces events are separate.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-10-07",
+        "note": "Reviewed editorial score. Primary institutional sources confirm scope, dates and status; artwork/device review recorded separately."
+      },
+      "additional_sources": [
+        {
+          "name": "MoMA storyboard collection record",
+          "url": "https://www.moma.org/collection/works/846",
+          "supports": "Commission, adaptable programme, intended construction and unrealised status."
+        },
+        {
+          "name": "CCA project archive",
+          "url": "https://www.cca.qc.ca/en/archives/380477/cedric-price-fonds/396839/projects/399301/fun-palace-project",
+          "supports": "Surviving project documentation."
+        }
+      ],
+      "exhibit": "005",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-07",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/fun-palace-master-2x1.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/fun-palace-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/fun-palace-standard-4x3.jpg",
+      "image_alt": "Artistic reconstruction of Fun Palace: open steel framework, gantry crane and movable cultural spaces."
+    },
+    {
+      "id": "project-daedalus",
+      "name": "PROJECT DAEDALUS",
+      "proposal_period": "1973–1978",
+      "proposal_year": "1973",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Design study",
+      "caption": "A starship designed to cross the distance. Its first journey was through an engineering report.",
+      "why_unbuilt": "Daedalus was a volunteer feasibility study, not a funded spacecraft construction programme.",
+      "what_remains": "The 1978 report and later interstellar studies retain its two-stage fusion-probe concept.",
+      "source_name": "British Interplanetary Society",
+      "source_url": "https://www.bis-space.com/technical-projects/",
+      "note": "A thirteen-member volunteer design study ran from 1973 to 1978 and published its results in 1978. It proposed an uncrewed, two-stage fusion probe for a flyby of Barnard’s Star. The study was completed, not cancelled; the proposed spacecraft was not built. Artwork interprets the staged engine bells, tanks and truss shown in BIS-hosted concept imagery. Fusion performance was theoretical, not a flight demonstration.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-10-07",
+        "note": "Reviewed editorial score. Primary institutional sources confirm scope, dates and status; artwork/device review recorded separately."
+      },
+      "additional_sources": [
+        {
+          "name": "BIS Project Daedalus report republication",
+          "url": "https://www.bis-space.com/technical-projects/"
+        }
+      ],
+      "exhibit": "006",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-07",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-daedalus-master-2x1.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-daedalus-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-daedalus-standard-4x3.jpg",
+      "image_alt": "Artistic reconstruction of the uncrewed two-stage Daedalus fusion probe with engine bells, fuel tanks and truss."
     }
   ]
 }

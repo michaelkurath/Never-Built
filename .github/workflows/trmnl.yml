@@ -8,6 +8,10 @@ on:
 jobs:
   validate-and-render:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        exhibit_offset: [0, 1]
     steps:
       - uses: actions/checkout@v6
 
@@ -39,8 +43,8 @@ jobs:
       - name: Lint plugin
         run: trmnlp lint
 
-      - name: Pin newest exhibit and local artwork for review
-        run: node scripts/prepare-render-fixture.js
+      - name: Pin exhibit and local artwork for review
+        run: node scripts/prepare-render-fixture.js ${{ matrix.exhibit_offset }}
 
       - name: Render TRMNL OG, X landscape, and X portrait
         run: |
@@ -83,7 +87,7 @@ jobs:
       - name: Upload render previews
         uses: actions/upload-artifact@v6
         with:
-          name: never-built-render-previews
+          name: never-built-render-previews-${{ matrix.exhibit_offset }}
           path: |
             _build-og/*.png
             _build-x/*.png

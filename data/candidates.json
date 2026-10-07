@@ -35,38 +35,6 @@
       }
     },
     {
-      "id": "project-daedalus",
-      "name": "PROJECT DAEDALUS",
-      "proposal_period": "1973–1978",
-      "proposal_year": "1973",
-      "category": "Space",
-      "category_key": "space",
-      "stage": "Design study",
-      "caption": "A starship designed to cross the distance. Its first journey was through an engineering report.",
-      "why_unbuilt": "Daedalus was a volunteer feasibility study, not a funded spacecraft construction programme.",
-      "what_remains": "The 1978 report and later interstellar studies retain its two-stage fusion-probe concept.",
-      "source_name": "British Interplanetary Society",
-      "source_url": "https://www.bis-space.com/technical-projects/",
-      "note": "The BIS describes a 1973–1978 volunteer study targeting a flyby of Barnard’s Star. The study was completed, not cancelled; do not confuse an unbuilt vehicle with a failed research programme.",
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 3,
-        "visual_strength": 5,
-        "story_strength": 5,
-        "evidence_clarity": 5,
-        "catalogue_fit": 4,
-        "total": 22,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Sources gathered; promotion requires full verification, text review, artwork, and device QA."
-      }
-    },
-    {
       "id": "venturestar",
       "name": "VENTURESTAR",
       "proposal_period": "1997–2001*",
@@ -101,52 +69,6 @@
         "evidence_clarity": 5,
         "catalogue_fit": 5,
         "total": 23,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
-      },
-      "researched_on": "2026-10-07"
-    },
-    {
-      "id": "fun-palace",
-      "name": "FUN PALACE",
-      "proposal_period": "1961–1974",
-      "proposal_year": "1961",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Proposal",
-      "caption": "A palace that could rearrange itself around its visitors. London never agreed where to put it.",
-      "why_unbuilt": "Restrictive policies and community concerns obstructed site selection; a site was never agreed upon.",
-      "what_remains": "Cedric Price's drawings, correspondence, planning records, and models document the adaptable structure.",
-      "source_name": "Canadian Centre for Architecture",
-      "source_url": "https://www.cca.qc.ca/en/articles/91951/dangerous-immoral-ahead-of-its-time",
-      "note": "CCA identifies Joan Littlewood and Cedric Price's project as 1961–74 and documents multiple potential London sites. MoMA dates an early storyboard 1959–1961; those object dates do not replace the CCA project period. Intended for actual construction and temporary use, unlike a purely imaginary city. Avoid implying that today's Fun Palaces community events are the original building.",
-      "sources": [
-        {
-          "name": "MoMA storyboard collection record",
-          "url": "https://www.moma.org/collection/works/846",
-          "supports": "Commission, adaptable programme, intended construction and unrealised status."
-        },
-        {
-          "name": "CCA project archive",
-          "url": "https://www.cca.qc.ca/en/archives/380477/cedric-price-fonds/396839/projects/399301/fun-palace-project",
-          "supports": "Surviving project documentation."
-        }
-      ],
-      "visual_brief": "Open steel gantry frame with cranes and movable platforms; use one documented site/version rather than a generic amusement park.",
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 2,
-        "visual_strength": 5,
-        "story_strength": 5,
-        "evidence_clarity": 5,
-        "catalogue_fit": 5,
-        "total": 22,
         "status": "provisional",
         "rated_on": "2026-10-07",
         "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
@@ -559,6 +481,98 @@
         "status": "provisional",
         "rated_on": "2026-10-07",
         "note": "Provisional editorial score out of 25. Primary design sources gathered; chronology and scope qualifications remain for review."
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "ocean-spiral",
+      "name": "OCEAN SPIRAL",
+      "proposal_period": "2014",
+      "proposal_year": "2014",
+      "category": "Infrastructure",
+      "category_key": "infrastructure",
+      "stage": "Concept",
+      "caption": "A city beneath the waves. A spiral would connect its floating sphere to the deep sea.",
+      "why_unbuilt": "Shimizu presented a future-city concept with unresolved technical challenges, not a completed construction programme.",
+      "what_remains": "The company’s brochure and concept illustrations document the proposed sphere, spiral and seabed facilities.",
+      "source_name": "Shimizu Corporation",
+      "source_url": "https://www.shimz.co.jp/en/topics/dream/content01/",
+      "note": "2014 dates the company announcement. The official page still presents a concept, not a built city. The 2014 technical account set a goal of establishing necessary technology by 2030; do not call that a confirmed construction or completion date. Environmental, safety and resource claims are developer aspirations, not independently established outcomes. No cancellation date or single funding failure is inferred. Verify current build status and a specific configuration again before promotion.",
+      "sources": [
+        {
+          "name": "Shimizu technical news, 24 December 2014",
+          "url": "https://www.shimztechnonews.com/hotTopics/news/2014/t141224.html",
+          "supports": "Concept announcement and unresolved technology work, with a 2030 technology goal."
+        },
+        {
+          "name": "Shimizu concept brochure",
+          "url": "https://www.shimz.co.jp/en/topics/dream/content01/pdf/oceanspiral.pdf",
+          "supports": "Proposed sphere, spiral and seabed facility configuration."
+        }
+      ],
+      "visual_brief": "Use the original sphere-and-spiral concept brochure; never portray it as a photograph of a completed city.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 4,
+        "catalogue_fit": 4,
+        "total": 19,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Provisional editorial score. Primary sources gathered; scope, artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "walking-city",
+      "name": "WALKING CITY",
+      "proposal_period": "1964",
+      "proposal_year": "1964",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Paper concept",
+      "caption": "A city that could leave town. Giant roaming pods stayed on paper.",
+      "why_unbuilt": "An experimental architectural vision and commentary on urban change, rather than a committed construction project.",
+      "what_remains": "Original architectural drawings survive in MoMA, Centre Pompidou and the Archigram archive at M+.",
+      "source_name": "Museum of Modern Art",
+      "source_url": "https://www.moma.org/collection/works/813",
+      "note": "Ron Herron’s Archigram proposal dates to 1964; MoMA’s separate Walking City on the Ocean drawing dates to 1966. MoMA explicitly describes the mobile pods as commentary rather than a serious structural proposition. Keep that conceptual scope; no invented cancellation, client, funding or engineering failure. These are real authored architectural proposals, not vehicles from a fictional franchise. Before promotion review catalogue fit against the rule excluding fictional designs and select one documented version.",
+      "sources": [
+        {
+          "name": "Centre Pompidou, Walking City",
+          "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/c5z5bG",
+          "supports": "1964 architectural drawing and Ron Herron attribution."
+        },
+        {
+          "name": "M+ Archigram Archive",
+          "url": "https://www.mplus.org.hk/en/collection/archives/archigram-archive-ca36/",
+          "supports": "Preserved archive including Walking City (1964)."
+        }
+      ],
+      "visual_brief": "Giant ovoid pods on articulated legs, from a single museum drawing; no invented machinery presented as feasible engineering.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 21,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Provisional editorial score. Primary sources gathered; scope, artwork and final review remain pending."
       },
       "researched_on": "2026-10-07"
     }
