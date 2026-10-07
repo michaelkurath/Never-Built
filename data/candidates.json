@@ -3,38 +3,6 @@
   "review_process_version": 1,
   "candidates": [
     {
-      "id": "boeing-2707",
-      "name": "BOEING 2707",
-      "proposal_period": "1966–1971*",
-      "proposal_year": "1966",
-      "category": "Transport",
-      "category_key": "transport",
-      "stage": "Mock-up",
-      "caption": "America wanted its own supersonic future. The prototype never reached the runway.",
-      "why_unbuilt": "US government funding ended in 1971 before the flight prototype was completed.",
-      "what_remains": "Mock-up sections and engineering records preserve the proposed supersonic airliner.",
-      "source_name": "Boeing historical product record",
-      "source_url": "https://www.boeing.com/content/dam/boeing/boeingdotcom/history/pdf/Boeing_Products.pdf",
-      "note": "*1966 marks selection of Boeing for the US SST prototype programme, not the start of all design work. The 2707 changed configuration; distinguish the early swing-wing and later fixed-wing versions when creating artwork.",
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 4,
-        "visual_strength": 5,
-        "story_strength": 5,
-        "evidence_clarity": 5,
-        "catalogue_fit": 5,
-        "total": 24,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Sources gathered; promotion requires full verification, text review, artwork, and device QA."
-      }
-    },
-    {
       "id": "tatlins-tower",
       "name": "TATLIN'S TOWER",
       "proposal_period": "1919–1920",
@@ -494,6 +462,103 @@
         "text_review": "pending",
         "image_review": "not_started",
         "final_approval": "pending"
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "swissmetro",
+      "name": "SWISSMETRO",
+      "proposal_period": "1992–2009*",
+      "proposal_year": "1992",
+      "category": "Infrastructure",
+      "category_key": "infrastructure",
+      "stage": "Design study",
+      "caption": "A fast train beneath Switzerland. The network remained a promise beneath the timetable.",
+      "why_unbuilt": "The original company lacked continued political and economic support and proposed liquidation in 2009.",
+      "what_remains": "The 1994–1998 main-study report preserves the proposed maglev system, tunnels, stations and network.",
+      "source_name": "Swissmetro Main Study",
+      "source_url": "https://swissmetro-ng.org/wp-content/uploads/Swissmetro-Main-Study-1994-1998-Level-A.pdf",
+      "note": "*1992 marks the original company's formation; the idea originated earlier in the 1970s. Scope is the original Swissmetro SA project, not SwissMetro-NG or later Hyperloop proposals. The main-study report was issued on 31 May 1999 and describes reduced-pressure underground tunnels and magnetic levitation. It proposed future construction, not a completed network. The 2 November 2009 news account reports proposed liquidation; verify final legal dates before promotion. Design feasibility and profitability were study claims, not independently demonstrated outcomes.",
+      "sources": [
+        {
+          "name": "SWI swissinfo: company announcement",
+          "url": "https://www.swissinfo.ch/eng/archive-banking-fintech/swissmetro-signals-the-end-of-the-line/7637186",
+          "supports": "Company statement on missing political support and planned liquidation, November 2009."
+        },
+        {
+          "name": "EPFL retrospective context",
+          "url": "https://actu.epfl.ch/news/an-underwater-tunnel-connecting-geneva-and-lausa-2/",
+          "supports": "Original underground maglev concept distinguished from a later Lake Geneva student project."
+        },
+        {
+          "name": "SwissMetro-NG association",
+          "url": "https://swissmetro-ng.org/en/",
+          "supports": "A separate present-day successor vision; do not describe all related work as cancelled."
+        }
+      ],
+      "visual_brief": "Original study's vehicle inside a tunnel, or a clearly labelled proposed network; do not use SwissMetro-NG's redesigned train as an original vehicle.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 4,
+        "story_strength": 5,
+        "evidence_clarity": 4,
+        "catalogue_fit": 5,
+        "total": 21,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Provisional editorial score out of 25. Primary design sources gathered; chronology and scope qualifications remain for review."
+      },
+      "researched_on": "2026-10-07"
+    },
+    {
+      "id": "ares-v",
+      "name": "ARES V",
+      "proposal_period": "2005–2011*",
+      "proposal_year": "2005",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Design study",
+      "caption": "A giant cargo rocket for a return to the Moon. Its programme ended before the vehicle was built.",
+      "why_unbuilt": "Constellation was cancelled in 2010; NASA subsequently replaced Ares V with the Space Launch System.",
+      "what_remains": "NASA technical papers and concept artwork document the planned cargo launcher and evolving designs.",
+      "source_name": "NASA Marshall Space Flight Center",
+      "source_url": "https://ntrs.nasa.gov/api/citations/20150018127/downloads/20150018127.pdf",
+      "note": "*2005 dates the initiation of Ares V; the endpoint spans Constellation's 2010 cancellation and the September 2011 SLS replacement, which this NASA-authored 2015 paper dates as Ares V's cancellation. A May 2010 NASA paper says Ares V remained in early concept development. Do not confuse it with Ares I, the flown Ares I-X demonstrator, or the later SLS. Related engine/component work existed; no claim that no hardware of any kind was built. Before promotion verify final integrated-vehicle completion status and choose a specific configuration. No single budget or technical cause is inferred.",
+      "sources": [
+        {
+          "name": "NASA Ares V concept-development paper",
+          "url": "https://ntrs.nasa.gov/citations/20100022158",
+          "supports": "Early-stage concept development and Constellation context in May 2010; search record accessible, full page blocked."
+        },
+        {
+          "name": "NASA Inspector General, IG-12-022",
+          "url": "https://oig.nasa.gov/docs/IG-12-022.pdf",
+          "supports": "2010 Constellation cancellation and subsequent requirement to develop SLS."
+        }
+      ],
+      "visual_brief": "Specific NASA Ares V cargo configuration with large central core and twin side boosters, using concept artwork; avoid Ares I-X and SLS photographs.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 4,
+        "story_strength": 4,
+        "evidence_clarity": 4,
+        "catalogue_fit": 5,
+        "total": 20,
+        "status": "provisional",
+        "rated_on": "2026-10-07",
+        "note": "Provisional editorial score out of 25. Primary design sources gathered; chronology and scope qualifications remain for review."
       },
       "researched_on": "2026-10-07"
     }

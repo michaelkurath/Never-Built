@@ -76,6 +76,55 @@
           "url": "https://airandspace.si.edu/collection-objects/propulsion-test-vehicle-project-orion/nasm_A19721008000"
         }
       ]
+    },
+    {
+      "id": "boeing-2707",
+      "name": "BOEING 2707",
+      "proposal_period": "1966–1971*",
+      "proposal_year": "1966",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Mock-up",
+      "caption": "America wanted its own supersonic future. The prototype never reached the runway.",
+      "why_unbuilt": "US government funding ended in 1971 before the flight prototype was completed.",
+      "what_remains": "The 2707-200 mockup's nose and archived drawings preserve the changing airliner design.",
+      "source_name": "The Museum of Flight",
+      "source_url": "https://blog.museumofflight.org/seattles-supersonic-legacy",
+      "note": "*1966 marks Boeing's selection for the US SST programme, not the first design work. Artwork interprets the later fixed-wing 2707-300, documented in NASA TM-109089, Figure 23; the surviving museum nose is from the earlier 2707-200 mockup. No completed flight prototype existed. Fine details and perspective are illustrative.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-07",
+        "note": "Reviewed editorial score. Museum and NASA sources confirm status, chronology, surviving records and late fixed-wing configuration."
+      },
+      "exhibit": "004",
+      "additional_sources": [
+        {
+          "name": "NASA TM-109089, 1994",
+          "url": "https://ntrs.nasa.gov/api/citations/19940021652/downloads/19940021652.pdf"
+        },
+        {
+          "name": "The Museum of Flight: SST cutaway drawings",
+          "url": "https://archives.museumofflight.org/repositories/2/resources/553"
+        }
+      ],
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/boeing-2707-master-2x1.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/boeing-2707-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/boeing-2707-standard-4x3.jpg",
+      "image_alt": "Artistic reconstruction of the fixed-wing Boeing 2707-300, with four underwing engines and separate tailplanes.",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-07"
     }
   ]
 }

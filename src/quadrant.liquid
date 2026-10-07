@@ -1,17 +1,19 @@
 {% if selected %}
 <div class="layout layout--col layout--stretch">
-  <div class="p--2 lg:p--3 flex flex--col flex--between gap--small w--full h--full">
-    <div class="flex flex--row flex--between flex--center-y gap--small">
+  <div class="p--2 lg:p--3 flex flex--col flex--between gap--xsmall w--full h--full">
+    <div class="flex flex--row flex--between flex--center-y gap--small shrink-0">
       <span class="label lg:label--base">PROPOSED</span>
       <span class="label label--outline lg:label--base">{{ selected.stage | upcase }}</span>
     </div>
     <div class="flex flex--row flex--center-x w--full shrink-0">
-      <div class="aspect--3/2 w--[36cqw] lg:w--[44cqw] lg:portrait:w--[84cqw] rounded">
-        <img class="image image--contain image-dither rounded w--full h--full" src="{{ selected.image_url_standard | default: selected.image_url }}" alt="{{ selected.image_alt }}">
+      <div class="h--[56px] lg:h--[112px] lg:portrait:h--[128px] w--full rounded">
+        <img class="image image--contain image-dither rounded w--full h--full" src="{{ selected.image_url_wide | default: selected.image_url }}" alt="{{ selected.image_alt }}">
       </div>
     </div>
-    <span class="title {{ quadrant_name_size }}" data-clamp="2">{{ selected.name }}</span>
-    <span class="description description--base lg:description--large font--bold" data-clamp="3">{{ selected.caption }}</span>
+    <div class="flex flex--col gap--xsmall w--full shrink-0">
+      <span class="title {{ quadrant_name_size }}" data-clamp="2">{{ selected.name }}</span>
+      <span class="description description--base lg:description--large font--bold" data-clamp="2" data-clamp-lg="3">{{ selected.caption }}</span>
+    </div>
   </div>
 </div>
 {% else %}
