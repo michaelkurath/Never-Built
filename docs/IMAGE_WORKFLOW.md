@@ -39,5 +39,6 @@ engraving style and complete silhouette.
 
 Exports: `boeing-2707-standard-4x3.jpg` (1200×900) and
 `boeing-2707-master-2x1.jpg` (1600×800), grayscale JPEG. Contain resizing with
-white margins retains the complete subject. CI pins the newest exhibit with
+white margins retains the complete subject. Only blank top/bottom paper
+margins were trimmed before export to make the airliner legible at small sizes. CI pins the newest exhibit with
 local images served over localhost for review before its assets reach main.

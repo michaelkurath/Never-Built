@@ -7,7 +7,7 @@
     </div>
     <div class="flex flex--row flex--center-x w--full shrink-0">
       <div class="h--[56px] lg:h--[112px] lg:portrait:h--[180px] w--full rounded">
-        <img class="image image--contain image-dither rounded w--full h--full" src="{{ selected.image_url_standard | default: selected.image_url }}" alt="{{ selected.image_alt }}">
+        <img class="image image--contain image-dither rounded w--full h--full" src="{{ selected.image_url_wide | default: selected.image_url }}" alt="{{ selected.image_alt }}">
       </div>
     </div>
     <div class="flex flex--col gap--xsmall w--full shrink-0">
