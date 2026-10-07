@@ -28,8 +28,17 @@ tailplanes and four underwing nacelles against the NASA drawing. The first
 generation's wing was too generic; the final edit added the forward strakes
 and leading-edge kinks. Both grayscale exports preserve the entire silhouette.
 
-Device review is pending the pull-request render artifact. Final approval
-will be recorded after the OG, X landscape and X portrait previews pass.
+Device review passed all 12 previews: full, horizontal half, vertical half and
+quadrant on OG (800 × 480, 1-bit), X landscape (1040 × 780, 4-bit) and X portrait
+(780 × 1040, 4-bit). The OG quadrant title/caption overlap was corrected by
+grouping its text and reserving a supported fixed image height. No title,
+caption or aircraft silhouette is clipped.
+
+Reviewed [Actions run 37679707529](https://github.com/michaelkurath/Never-Built/actions/runs/37679707529),
+commit `5530bad32c69fac2a494914e4ce9f976a27caa00`, artifact
+`never-built-render-previews` (11509077178). Data, candidates, assets, rotation,
+catalogue, website build and plugin lint passed. Image review and final approval
+are approved; the following metadata-only commit records this decision.
 
 ## Candidate replenishment
 

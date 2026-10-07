@@ -94,8 +94,8 @@
       "review": {
         "fact_check": "approved",
         "text_review": "approved",
-        "image_review": "pending",
-        "final_approval": "pending"
+        "image_review": "approved",
+        "final_approval": "approved"
       },
       "rating": {
         "recognition": 4,
