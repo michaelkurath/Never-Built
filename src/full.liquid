@@ -20,7 +20,7 @@
         <span class="label lg:label--base">PROPOSED</span>
         <span class="title {{ full_name_size }} lg:portrait:title--xlarge" data-clamp="2">{{ selected.name }}</span>
       </div>
-      <span class="description description--base lg:description--large font--bold" data-clamp="2">{{ selected.caption }}</span>
+      <span class="description description--base lg:description--large text--bold" data-clamp="2">{{ selected.caption }}</span>
     </div>
 
     <div class="hidden lg:flex flex--col gap--small w--full">
@@ -47,18 +47,16 @@
   <div class="outline rounded p--4 flex flex--col flex--center gap--small w--full h--full text--center">
     <span class="label lg:label--base">NEVER BUILT</span>
     <span class="title title--xxlarge">The museum is closed</span>
-    <span class="description description--large lg:description--xlarge">No exhibit entries were received. Check the polling source.</span>
+    <span class="description description--large lg:description--xlarge">No exhibit was selected. Check the polling source and serverless transform.</span>
   </div>
 </div>
 {% endif %}
 
 <div class="title_bar">
   <span class="title flex flex--row flex--center-y gap--xsmall">{{ never_built_mark }} NEVER BUILT</span>
-  <span class="instance 1bit:text--black">
+  <span class="instance">
     {% if selected %}
       {{ selected.stage }} · {{ selected.category }} · PROPOSED {{ selected.proposal_year }}
-    {% elsif filter_fallback %}
-      Filter unavailable
     {% else %}
       Data unavailable
     {% endif %}
