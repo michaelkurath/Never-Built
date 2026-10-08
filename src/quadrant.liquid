@@ -12,7 +12,7 @@
     </div>
     <div class="flex flex--col gap--xsmall w--full shrink-0">
       <span class="title {{ quadrant_name_size }}" data-clamp="2">{{ selected.name }}</span>
-      <span class="description description--base lg:description--large font--bold" data-clamp="2" data-clamp-lg="3">{{ selected.caption }}</span>
+      <span class="description description--base lg:description--large text--bold" data-clamp="2" data-clamp-lg="3">{{ selected.caption }}</span>
     </div>
   </div>
 </div>
@@ -24,6 +24,6 @@
 
 <div class="title_bar">
   <span class="title flex flex--row flex--center-y gap--xsmall">{{ never_built_mark }} NEVER BUILT</span>
-  <span class="instance 1bit:text--black">{% if selected %}{{ selected.proposal_year }}{% else %}Offline{% endif %}</span>
+  <span class="instance">{% if selected %}{{ selected.proposal_year }}{% else %}Offline{% endif %}</span>
 </div>
 
