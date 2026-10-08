@@ -73,3 +73,7 @@ CI uses offsets 0 and 1 from the end of the live catalogue to review both newest
 exhibits in all four layouts on OG, X landscape and X portrait. The optional
 argument to `prepare-render-fixture.js` selects the offset (default 0); invalid
 offsets fail before writing preview configuration. Artifacts carry the offset.
+
+## 8 October 2026 additions
+
+Complete prompts, crop corrections and export details: [image update](IMAGE_UPDATE_2026-10-08.md).
