@@ -221,6 +221,54 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-daedalus-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-daedalus-standard-4x3.jpg",
       "image_alt": "Artistic reconstruction of the uncrewed two-stage Daedalus fusion probe with engine bells, fuel tanks and truss."
+    },
+    {
+      "id": "venturestar",
+      "name": "VENTURESTAR",
+      "proposal_period": "1997–2001*",
+      "proposal_year": "1997",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Design study",
+      "caption": "A reusable spaceship without disposable stages. Its future depended on a smaller test vehicle.",
+      "why_unbuilt": "The VentureStar effort ended when its X-33 technology demonstrator programme was cancelled in 2001.",
+      "what_remains": "NASA concept artwork, technical reports, and records of the related X-33 technology programme.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/image-article/artists-concept-x-33-venturestar/",
+      "note": "*1997 dates the cited NASA concept image, not the first proposal. VentureStar was the proposed full-size orbital vehicle; the partly built X-33 was a separate subscale demonstrator. NASA sources differ in shorthand February cancellation versus March funding/agreement dates: use 2001 in display copy. Never depict X-33 hardware as a built VentureStar.",
+      "sources": [
+        {
+          "name": "NASA programme history",
+          "url": "https://www.nasa.gov/aeronautics/nasa-aircraft/x-33-demonstrator/",
+          "supports": "Technology challenges; March 2001 funding decision and agreement expiry."
+        }
+      ],
+      "visual_brief": "Broad wedge-shaped lifting body on a launch pad; distinguish full-size VentureStar from X-33 using NASA reference artwork.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-10-08",
+        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-07",
+      "image_kind": "ai_artistic_reconstruction",
+      "exhibit": "007",
+      "image_alt": "Artistic reconstruction of the unbuilt VentureStar lifting body with its broad linear aerospike base.",
+      "verified_on": "2026-10-08",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/venturestar-standard-4x3.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/venturestar-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/venturestar-master-2x1.jpg"
     }
   ]
 }
