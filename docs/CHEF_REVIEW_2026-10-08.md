@@ -10,6 +10,15 @@
 
 ## Validation
 
-Pending CI and visual review. The render matrix includes both latest exhibits
-and a null `selected_entry` with a populated catalogue, to verify missing
-transform output cannot silently select a random exhibit.
+All local data, candidate, asset, Saved State rotation, catalogue and website
+checks passed. [Actions run 37733988266](https://github.com/michaelkurath/Never-Built/actions/runs/37733988266)
+passed all three jobs, including plugin lint. Visual review passed all 36
+previews: Fun Palace, Daedalus and null selection with a populated catalogue,
+each in four layouts on OG, X landscape and X portrait. Captions retain bold
+weight, title-bar instance text remains readable, icons render correctly, and
+missing transform output never displays a random catalogue entry.
+
+Artifacts: `never-built-render-previews-0` (11530764434),
+`never-built-render-previews-1` (11530814210), and
+`never-built-render-previews-empty` (11531280503).
+The subsequent documentation-only commit does not alter reviewed markup.
