@@ -23,4 +23,4 @@ See IMAGE_WORKFLOW.md for prompts and asset paths.
 
 ## Validation
 
-Local data, candidate and image validators, Saved State tests, catalogue isolation tests and website build passed. Device renders and final review pending.
+Local data, candidate and image validators, Saved State tests, catalogue isolation tests and website build passed. [TRMNL run 37895438968](https://github.com/michaelkurath/Never-Built/actions/runs/37895438968) passed all three CI jobs, including trmnlp lint and rendering. All 24 new-exhibit previews and 12 empty-state previews were visually inspected: full, half horizontal, half vertical and quadrant on OG, X landscape and X portrait. Complete subjects remain visible; titles, captions and title bars fit. Longer secondary details use existing framework truncation in compact layouts. Final image review and approval passed. No layout code changed.

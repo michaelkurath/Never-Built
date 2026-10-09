@@ -22,7 +22,7 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 
 Nine live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Lockheed L-2000 (20/25) and Joint Core System (20/25). VentureStar is exhibit 007; Jupiter Icy Moons Orbiter is the latest candidate (21/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-08.md).
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Lockheed L-2000 (20/25) and Joint Core System (20/25). Tatlin’s Tower and OWL are exhibits 008 and 009. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-09.md).
 
 ## TRMNL setup
 
