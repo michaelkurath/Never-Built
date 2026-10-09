@@ -269,6 +269,110 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/venturestar-standard-4x3.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/venturestar-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/venturestar-master-2x1.jpg"
+    },
+    {
+      "id": "tatlins-tower",
+      "name": "TATLIN'S TOWER",
+      "proposal_period": "1919–1920",
+      "proposal_year": "1919",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Scale model",
+      "caption": "A revolution imagined in iron and glass. Its headquarters remained a model.",
+      "why_unbuilt": "Civil war, scarce material resources and the technical limits of the time kept the monument unrealised.",
+      "what_remains": "Drawings, photographs, and reconstructed models preserve its intertwined spirals and suspended volumes.",
+      "source_name": "Centre Pompidou",
+      "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cqGrB5n",
+      "note": "Monument to the Third International, designed in 1919–1920. Museum Tinguely identifies civil war, resource shortages and technical limitations as contributing reasons; no single cancellation date is claimed. Centre Pompidou confirms the full monument was never built. Its displayed model is a 1979 reconstruction, not Tatlin’s original. Artwork interprets the inclined spiral framework and suspended volumes; it is not an exact engineering drawing.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "pending",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-10-09",
+        "note": "Editorial score after primary-source review. Device QA and final review are recorded in the promotion report."
+      },
+      "exhibit": "008",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-09",
+      "image_alt": "Artistic reconstruction of Tatlin’s unbuilt tower: inclined spiral framework and suspended geometric volumes.",
+      "additional_sources": [
+        {
+          "name": "Museum Tinguely retrospective",
+          "url": "https://www.tinguely.ch/en/exhibitions/exhibitions/2012/tatlin.html",
+          "supports": "1919–1920 dates, unrealised status, contributing barriers and reconstructed models."
+        }
+      ],
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tatlins-tower-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tatlins-tower-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tatlins-tower-standard-4x3.jpg"
+    },
+    {
+      "id": "owl-100-metre-telescope",
+      "name": "OWL 100-METRE TELESCOPE",
+      "proposal_period": "1998–2005",
+      "proposal_year": "1998",
+      "category": "Technology",
+      "category_key": "technology",
+      "stage": "Design study",
+      "caption": "A mirror a hundred metres wide. The giant telescope became a study for a smaller successor.",
+      "why_unbuilt": "A 2005 review recommended a smaller telescope because of substantial technical risks.",
+      "what_remains": "The OWL Blue Book, concept drawings, and research that informed ESO's ELT.",
+      "source_name": "European Southern Observatory",
+      "source_url": "https://elt.eso.org/about/road/",
+      "note": "ESO dates the completed concept study to 1998–2005. An international review recommended a smaller telescope due to substantial technical risks; the 100-metre OWL was not built. OWL is distinct from the later 39-metre ELT. Artwork interprets the 2004 open structure, shallow segmented optical mirror and secondary support from ESO’s archived configuration; perspective, trusswork and segment counts are illustrative. No precise site, build cost or cancellation day is asserted.",
+      "visual_brief": "Broad segmented mirror and exposed telescope support structure, using OWL drawings rather than the ELT dome; retain scale cues.",
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 21,
+        "status": "reviewed",
+        "rated_on": "2026-10-09",
+        "note": "Editorial score after primary-source review. Device QA and final review are recorded in the promotion report."
+      },
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "pending",
+        "final_approval": "pending"
+      },
+      "researched_on": "2026-10-07",
+      "exhibit": "009",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-09",
+      "image_alt": "Artistic reconstruction of the proposed OWL telescope with segmented optical mirror and open steel support structure.",
+      "additional_sources": [
+        {
+          "name": "ESO OWL archive",
+          "url": "https://www.eso.org/sci/facilities/eelt/owl/index_3.html",
+          "supports": "Completed study, review and recommendation for a less risky 30–60-metre telescope."
+        },
+        {
+          "name": "ESO FAQ",
+          "url": "https://elt.eso.org/about/faq/",
+          "supports": "OWL was a concept study; no current plan to build a 100-metre optical telescope."
+        },
+        {
+          "name": "ESO archived structural configuration",
+          "url": "https://www.eso.org/sci/facilities/eelt/owl/OWL_design.html",
+          "supports": "Segmented optical mirrors and open steel alt-azimuth structure, 2004."
+        }
+      ],
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-standard-4x3.jpg"
     }
   ]
 }

@@ -3,38 +3,6 @@
   "review_process_version": 1,
   "candidates": [
     {
-      "id": "tatlins-tower",
-      "name": "TATLIN'S TOWER",
-      "proposal_period": "1919–1920",
-      "proposal_year": "1919",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Scale model",
-      "caption": "A revolution imagined in iron and glass. Its headquarters remained a model.",
-      "why_unbuilt": "The monumental design remained unrealised; its precise construction barriers need further source review.",
-      "what_remains": "Drawings, photographs, and reconstructed models preserve its intertwined spirals and suspended volumes.",
-      "source_name": "Centre Pompidou",
-      "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cqGrB5n",
-      "note": "Monument to the Third International. The museum confirms the full structure was never built and describes its 1979 reconstruction. Do not present the reconstructed model as the original. Verify cost/material explanations before promotion.",
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 3,
-        "visual_strength": 5,
-        "story_strength": 4,
-        "evidence_clarity": 4,
-        "catalogue_fit": 5,
-        "total": 21,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Sources gathered; promotion requires full verification, text review, artwork, and device QA."
-      }
-    },
-    {
       "id": "newtons-cenotaph",
       "name": "NEWTON'S CENOTAPH",
       "proposal_period": "1784",
@@ -210,52 +178,6 @@
         "status": "provisional",
         "rated_on": "2026-10-07",
         "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
-      },
-      "researched_on": "2026-10-07"
-    },
-    {
-      "id": "owl-100-metre-telescope",
-      "name": "OWL 100-METRE TELESCOPE",
-      "proposal_period": "1998–2005",
-      "proposal_year": "1998",
-      "category": "Technology",
-      "category_key": "technology",
-      "stage": "Design study",
-      "caption": "A mirror a hundred metres wide. The giant telescope became a study for a smaller successor.",
-      "why_unbuilt": "A 2005 review recommended a smaller telescope because of substantial technical risks.",
-      "what_remains": "The OWL Blue Book, concept drawings, and research that informed ESO's ELT.",
-      "source_name": "European Southern Observatory",
-      "source_url": "https://elt.eso.org/about/road/",
-      "note": "ESO dates the concept study to 1998–2005. The study was completed, not a failed construction programme. Its proposed 100-metre telescope was not built; do not conflate OWL with the separate 39-metre ELT. The review also identified cost and schedule risks. Verify a specific OWL configuration against original drawings before artwork.",
-      "sources": [
-        {
-          "name": "ESO OWL archive",
-          "url": "https://www.eso.org/sci/facilities/eelt/owl/index_3.html",
-          "supports": "Completed study, review and recommendation for a less risky 30–60-metre telescope."
-        },
-        {
-          "name": "ESO FAQ",
-          "url": "https://elt.eso.org/about/faq/",
-          "supports": "OWL was a concept study; no current plan to build a 100-metre optical telescope."
-        }
-      ],
-      "visual_brief": "Broad segmented mirror and exposed telescope support structure, using OWL drawings rather than the ELT dome; retain scale cues.",
-      "rating": {
-        "recognition": 2,
-        "visual_strength": 5,
-        "story_strength": 5,
-        "evidence_clarity": 5,
-        "catalogue_fit": 4,
-        "total": 21,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Primary sources researched; scope qualifications are recorded in note. Artwork and final review remain pending."
-      },
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
       },
       "researched_on": "2026-10-07"
     },
@@ -567,6 +489,81 @@
         "rated_on": "2026-10-08",
         "note": "Editorial rating after checking the linked primary source. Image and device review remain pending."
       }
+    },
+    {
+      "id": "lockheed-l-2000",
+      "name": "LOCKHEED L-2000",
+      "proposal_period": "1966 competition*",
+      "proposal_year": "1966",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Mock-up",
+      "caption": "A rival American supersonic airliner. The competition chose Boeing; Lockheed stayed on the ground.",
+      "why_unbuilt": "Lockheed lost the US supersonic-transport design competition to Boeing in 1966.",
+      "what_remains": "A Smithsonian wind-tunnel model and NASA histories preserve the proposed supersonic transport.",
+      "source_name": "Smithsonian National Air and Space Museum",
+      "source_url": "https://airandspace.si.edu/collection-objects/model-wind-tunnel-lockheed-sst/nasm_A19690228000",
+      "note": "*1966 marks the competition decision, not the first design study. The Smithsonian search record explicitly identifies Lockheed’s loss to Boeing; full page retrieval returned 403. NASA’s Contributions to Aeronautics, vol. 2, pp. 591–592, independently confirms selection on the last day of 1966 and the competing Model 2000 design. Do not conflate this decision with cancellation of the overall US SST programme in 1971. Wind-tunnel models and a mock-up existed: do not claim no hardware was built. Full-size mock-up configuration and exact early chronology require further review before promotion.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "pending",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 4,
+        "catalogue_fit": 4,
+        "total": 20,
+        "status": "provisional",
+        "rated_on": "2026-10-09",
+        "note": "Provisional editorial score. Source scope verified; artwork and final promotion review remain pending."
+      },
+      "researched_on": "2026-10-09",
+      "sources": [
+        {
+          "name": "NASA’s Contributions to Aeronautics, volume 2",
+          "url": "https://www.nasa.gov/wp-content/uploads/2015/01/601333main_NASAsContributionsToAeronauticsVolume2-ebook.pdf",
+          "supports": "Pages 591–592: double-delta Lockheed Model 2000 and Boeing selection at the end of 1966; PDF retrieved and read."
+        }
+      ],
+      "visual_brief": "Research the final L-2000-7 mock-up configuration; keep it distinct from Boeing 2707 and Concorde."
+    },
+    {
+      "id": "joint-core-system",
+      "name": "JOINT CORE SYSTEM",
+      "proposal_period": "1960",
+      "proposal_year": "1960",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Paper concept",
+      "caption": "A new city suspended above the old one. Its giant pylons and urban bridges stayed in a drawing.",
+      "why_unbuilt": "An unrealised urban design proposal; the museum record establishes no specific cancellation or funding failure.",
+      "what_remains": "MoMA preserves Isozaki’s original 1960 elevation drawing in ink and colour pencil.",
+      "source_name": "Museum of Modern Art",
+      "source_url": "https://www.moma.org/collection/works/815",
+      "note": "MoMA explicitly describes Arata Isozaki’s Joint Core System for Shinjuku, Tokyo, as unrealised and dates this elevation to 1960. Scope is this specific authored urban proposal, not every later City in the Air drawing or built project using related ideas. It envisaged pylons supporting elevated transport, homes, offices and public spaces. No commissioned construction programme, engineering failure or cancellation date is inferred. Review the paper-concept catalogue fit and select this exact configuration before artwork.",
+      "review": {
+        "fact_check": "pending",
+        "text_review": "pending",
+        "image_review": "pending",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 20,
+        "status": "provisional",
+        "rated_on": "2026-10-09",
+        "note": "Provisional editorial score. Source scope verified; artwork and final promotion review remain pending."
+      },
+      "researched_on": "2026-10-09",
+      "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
     }
   ]
 }

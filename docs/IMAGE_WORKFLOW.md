@@ -77,3 +77,29 @@ offsets fail before writing preview configuration. Artifacts carry the offset.
 ## 8 October 2026 additions
 
 Complete prompts, crop corrections and export details: [image update](IMAGE_UPDATE_2026-10-08.md).
+
+## 9 October 2026 — Tatlin and OWL
+
+Built-in Imagegen generated both original 4:3 black-ink museum engravings,
+white backgrounds, restrained crosshatching, complete subjects, no text or logos.
+
+Tatlin prompt: inclined tapering open steel tower made of entwined spiral
+trusses around a leaning straight spine; suspended lower cube, pyramid,
+cylinder and small upper hemispherical volume; grounded base, three-quarter
+view. Avoid a vertical DNA tower, Eiffel tower or modern glass skyscraper.
+Configuration reviewed against Centre Pompidou’s description and Museum
+Tinguely’s retrospective; reconstruction variants differ.
+
+OWL prompt: ESO’s 2004 open-air 100-metre optical-telescope concept, enormous
+shallow primary mirror with hexagonal segments, broad truss cradle and circular
+rail base, upper open lattice support and crossbeam carrying a smaller secondary.
+Three-quarter view, tiny support building for scale. Avoid a radio dish, feed
+antenna, dome or ELT enclosure. Configuration reviewed against ESO’s archived
+structural illustrations; exact mechanics and segment counts are interpretive.
+
+Exports under assets/exhibits/responsive-v2/:
+- tatlins-tower-standard-4x3.jpg and tatlins-tower-master-2x1.jpg
+- owl-100-metre-telescope-standard-4x3.jpg and owl-100-metre-telescope-master-2x1.jpg
+
+Contain resizing with white padding preserves the complete subject. Grayscale
+JPEG dimensions are 1200×900 and 1600×800. No archival image is redistributed.
