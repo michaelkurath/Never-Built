@@ -136,52 +136,6 @@
       "researched_on": "2026-10-07"
     },
     {
-      "id": "x-20-dyna-soar",
-      "name": "X-20 DYNA-SOAR",
-      "proposal_period": "1959–1963*",
-      "proposal_year": "1959",
-      "category": "Space",
-      "category_key": "space",
-      "stage": "Partial build",
-      "caption": "A spaceplane before the Shuttle. Its glider stayed unfinished; its research outlived the programme.",
-      "why_unbuilt": "The US government cancelled it in December 1963, citing no viable military mission and excessive research cost.",
-      "what_remains": "Museum models, technical records, and photographs preserve the design and its component research.",
-      "source_name": "Boeing historical image archive",
-      "source_url": "https://secure.boeingimages.com/asset-management/2F3XC5OBANI",
-      "note": "*1959 marks Boeing's design contract on 9 November, not the earlier origins of Dyna-Soar. Boeing states cancellation on 10 December 1963, a mock-up and partly completed prototype, both later scrapped. Smithsonian preserves separate models. Air Force sources were search-visible but full-page retrieval returned 403. Do not depict a completed vehicle photograph as real: manufacturer launch/orbit artwork is conceptual.",
-      "sources": [
-        {
-          "name": "Smithsonian model record",
-          "url": "https://airandspace.si.edu/collection-objects/model-dyna-soar-x-20/nasm_A19900222000",
-          "supports": "Surviving model and December 1963 cancellation; search record accessible, page blocked."
-        },
-        {
-          "name": "Air Force programme history",
-          "url": "https://www.afmc.af.mil/News/Article-Display/Article/1925643/history-in-two-dyna-soar/",
-          "supports": "No completed glider and later use of research; search record accessible, page blocked."
-        }
-      ],
-      "visual_brief": "Compact sharply swept delta spaceplane on a Titan booster, using a specific late configuration; show its small scale and avoid Shuttle-like engines.",
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 3,
-        "visual_strength": 5,
-        "story_strength": 5,
-        "evidence_clarity": 5,
-        "catalogue_fit": 5,
-        "total": 23,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
-      },
-      "researched_on": "2026-10-07"
-    },
-    {
       "id": "superconducting-super-collider",
       "name": "SUPERCONDUCTING SUPER COLLIDER",
       "proposal_period": "1983–1993*",
@@ -564,6 +518,40 @@
       },
       "researched_on": "2026-10-09",
       "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
+    },
+    {
+      "id": "rockwell-x-30",
+      "name": "ROCKWELL X-30",
+      "proposal_period": "1986–1994",
+      "proposal_year": "1986",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Tunnel model",
+      "caption": "An airliner meant to reach orbit. Only a small tunnel demonstrator met the heat.",
+      "why_unbuilt": "Congress ended funding in 1994 before a full-scale aircraft was built.",
+      "what_remains": "A one-third-scale concept demonstrator and programme research preserve the idea.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/aeronautics/nasa-aircraft/x-30/",
+      "note": "NASA explicitly states that no full-scale X-30 was built. A one-third-scale concept demonstrator was tested only in a high-temperature tunnel; it was not a completed aircraft and did not fly. Scope is the X-30 National Aero-Space Plane configuration, not later hypersonic demonstrators.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "provisional",
+        "rated_on": "2026-10-10",
+        "note": "NASA directly distinguishes the tunnel demonstrator from the unbuilt full-scale aircraft; artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-10",
+      "visual_brief": "Sleek single-stage-to-orbit lifting-body concept, clearly labelled as reconstruction; do not depict the tunnel demonstrator as a flown vehicle."
     }
   ]
 }

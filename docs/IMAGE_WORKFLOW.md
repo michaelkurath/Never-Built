@@ -103,3 +103,7 @@ Exports under assets/exhibits/responsive-v2/:
 
 Contain resizing with white padding preserves the complete subject. Grayscale
 JPEG dimensions are 1200×900 and 1600×800. No archival image is redistributed.
+
+## 10 October 2026 — X-20 Dyna-Soar
+
+Full prompt, export details and the model/prototype distinction: [image update](IMAGE_UPDATE_2026-10-10.md).

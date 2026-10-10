@@ -19,10 +19,11 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | VentureStar | 1997–2001* | Design study |
 | Tatlin’s Tower | 1919–1920 | Scale model |
 | OWL 100-metre Telescope | 1998–2005 | Design study |
+| X-20 Dyna-Soar | 1959–1963* | Partial build |
 
-Nine live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Ten live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Lockheed L-2000 (20/25) and Joint Core System (20/25). Tatlin’s Tower and OWL are exhibits 008 and 009. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-09.md).
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Rockwell X-30 (23/25). X-20 Dyna-Soar is exhibit 010. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-10.md).
 
 ## TRMNL setup
 
@@ -62,4 +63,4 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **9 live exhibits and 13 candidates**. See [9 October review](docs/PROMOTION_2026-10-09.md).
+Latest collection update: **10 live exhibits and 13 candidates**. See [10 October review](docs/PROMOTION_2026-10-10.md).
