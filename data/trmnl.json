@@ -373,6 +373,59 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-standard-4x3.jpg"
+    },
+    {
+      "id": "x-20-dyna-soar",
+      "name": "X-20 DYNA-SOAR",
+      "proposal_period": "1959–1963*",
+      "proposal_year": "1959",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Partial build",
+      "caption": "A spaceplane before the Shuttle. Its glider stayed unfinished; its research outlived the programme.",
+      "why_unbuilt": "The US government cancelled it in December 1963, citing no viable military mission and excessive research cost.",
+      "what_remains": "Museum models, technical records, and photographs preserve the design and its component research.",
+      "source_name": "Boeing historical image archive",
+      "source_url": "https://secure.boeingimages.com/asset-management/2F3XC5OBANI",
+      "note": "*1959 marks Boeing's design contract on 9 November, not the earlier origins of Dyna-Soar. Boeing states cancellation on 10 December 1963, a mock-up and partly completed prototype, both later scrapped. Smithsonian preserves separate models. Air Force sources were search-visible but full-page retrieval returned 403. Do not depict a completed vehicle photograph as real: manufacturer launch/orbit artwork is conceptual.",
+      "sources": [
+        {
+          "name": "Smithsonian model record",
+          "url": "https://airandspace.si.edu/collection-objects/model-dyna-soar-x-20/nasm_A19900222000",
+          "supports": "Surviving model and December 1963 cancellation; search record accessible, page blocked."
+        },
+        {
+          "name": "Air Force programme history",
+          "url": "https://www.afmc.af.mil/News/Article-Display/Article/1925643/history-in-two-dyna-soar/",
+          "supports": "No completed glider and later use of research; search record accessible, page blocked."
+        }
+      ],
+      "visual_brief": "Compact sharply swept delta spaceplane on a Titan booster, using a specific late configuration; show its small scale and avoid Shuttle-like engines.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-10-10",
+        "note": "Primary/institutional review distinguishes mock-up, partial prototype and models from a completed flight vehicle."
+      },
+      "researched_on": "2026-10-07",
+      "exhibit": "010",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-10-10",
+      "image_alt": "Artistic reconstruction of the proposed X-20 Dyna-Soar spaceplane atop its launch booster.",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/x-20-dyna-soar-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/x-20-dyna-soar-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/x-20-dyna-soar-standard-4x3.jpg"
     }
   ]
 }
