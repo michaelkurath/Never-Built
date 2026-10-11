@@ -107,3 +107,7 @@ JPEG dimensions are 1200×900 and 1600×800. No archival image is redistributed.
 ## 10 October 2026 — X-20 Dyna-Soar
 
 Full prompt, export details and the model/prototype distinction: [image update](IMAGE_UPDATE_2026-10-10.md).
+
+## 11 October 2026 — Rockwell X-30
+
+Full prompt, export details and the tunnel-demonstrator distinction: [image update](IMAGE_UPDATE_2026-10-11.md).

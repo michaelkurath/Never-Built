@@ -520,19 +520,19 @@
       "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
     },
     {
-      "id": "rockwell-x-30",
-      "name": "ROCKWELL X-30",
-      "proposal_period": "1986–1994",
-      "proposal_year": "1986",
-      "category": "Transport",
-      "category_key": "transport",
-      "stage": "Tunnel model",
-      "caption": "An airliner meant to reach orbit. Only a small tunnel demonstrator met the heat.",
-      "why_unbuilt": "Congress ended funding in 1994 before a full-scale aircraft was built.",
-      "what_remains": "A one-third-scale concept demonstrator and programme research preserve the idea.",
-      "source_name": "NASA",
-      "source_url": "https://www.nasa.gov/aeronautics/nasa-aircraft/x-30/",
-      "note": "NASA explicitly states that no full-scale X-30 was built. A one-third-scale concept demonstrator was tested only in a high-temperature tunnel; it was not a completed aircraft and did not fly. Scope is the X-30 National Aero-Space Plane configuration, not later hypersonic demonstrators.",
+      "id": "manned-orbiting-laboratory",
+      "name": "MANNED ORBITING LABORATORY",
+      "proposal_period": "1963–1969",
+      "proposal_year": "1963",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Test hardware",
+      "caption": "A secret crewed spy station. Its mockup reached orbit; the real laboratory never did.",
+      "why_unbuilt": "Budget pressure and improving uncrewed reconnaissance led to cancellation on 10 June 1969.",
+      "what_remains": "A flown Gemini-B capsule, mockups, prototype hardware, records, and technology reused by later programmes.",
+      "source_name": "NASA History",
+      "source_url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
+      "note": "NASA distinguishes the planned 60-foot crewed stations from the 1966 test: that launch carried a MOL mockup without its KH-10 payload and a refurbished Gemini-B capsule. NASA says no flight hardware existed beyond long-lead imaging mirrors when the operational programme was cancelled.",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -547,11 +547,11 @@
         "catalogue_fit": 5,
         "total": 23,
         "status": "provisional",
-        "rated_on": "2026-10-10",
-        "note": "NASA directly distinguishes the tunnel demonstrator from the unbuilt full-scale aircraft; artwork and final review remain pending."
+        "rated_on": "2026-10-11",
+        "note": "NASA provides unusually clear distinctions among the orbital mockup, capsule test, prototypes and never-built operational station."
       },
-      "researched_on": "2026-10-10",
-      "visual_brief": "Sleek single-stage-to-orbit lifting-body concept, clearly labelled as reconstruction; do not depict the tunnel demonstrator as a flown vehicle."
+      "researched_on": "2026-10-11",
+      "visual_brief": "Proposed cylindrical MOL station with Gemini-B capsule in orbit; label as reconstruction and do not present the 1966 mockup as the completed operational station."
     }
   ]
 }
