@@ -520,19 +520,31 @@
       "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
     },
     {
-      "id": "manned-orbiting-laboratory",
-      "name": "MANNED ORBITING LABORATORY",
-      "proposal_period": "1963–1969",
-      "proposal_year": "1963",
+      "id": "sea-dragon",
+      "name": "SEA DRAGON",
+      "proposal_period": "1962–1963",
+      "proposal_year": "1962",
       "category": "Space",
       "category_key": "space",
-      "stage": "Test hardware",
-      "caption": "A secret crewed spy station. Its mockup reached orbit; the real laboratory never did.",
-      "why_unbuilt": "Budget pressure and improving uncrewed reconnaissance led to cancellation on 10 June 1969.",
-      "what_remains": "A flown Gemini-B capsule, mockups, prototype hardware, records, and technology reused by later programmes.",
-      "source_name": "NASA History",
-      "source_url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
-      "note": "NASA distinguishes the planned 60-foot crewed stations from the 1966 test: that launch carried a MOL mockup without its KH-10 payload and a refurbished Gemini-B capsule. NASA says no flight hardware existed beyond long-lead imaging mirrors when the operational programme was cancelled.",
+      "stage": "Design study",
+      "caption": "A rocket built like a ship and launched from the sea. Its scale stayed on paper.",
+      "why_unbuilt": "NASA funding and institutional interest did not carry the radical low-cost concept into development.",
+      "what_remains": "NASA-hosted feasibility reports, drawings and Robert Truax’s archived project papers preserve the design.",
+      "source_name": "NASA Technical Reports Server",
+      "source_url": "https://ntrs.nasa.gov/citations/19880069339",
+      "note": "NASA archives Sea Dragon as a feasibility and cost study, not a flight programme. Smithsonian records the related Truax project papers and says he could not interest NASA or the USAF in later similar concepts. No full Sea Dragon vehicle or operational prototype was built; do not confuse related small sea-launch tests with this proposed super-heavy vehicle.",
+      "sources": [
+        {
+          "name": "NASA feasibility study, Volume 2",
+          "url": "https://ntrs.nasa.gov/citations/19630034440",
+          "supports": "1963 contractor feasibility/cost study and proposed launch-vehicle configuration."
+        },
+        {
+          "name": "Smithsonian Robert C. Truax Collection",
+          "url": "https://www.si.edu/object/archives/sova-nasm-2016-0008",
+          "supports": "Project records and the failure to secure institutional support for related sea-launch concepts."
+        }
+      ],
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -543,15 +555,15 @@
         "recognition": 3,
         "visual_strength": 5,
         "story_strength": 5,
-        "evidence_clarity": 5,
+        "evidence_clarity": 4,
         "catalogue_fit": 5,
-        "total": 23,
+        "total": 22,
         "status": "provisional",
-        "rated_on": "2026-10-11",
-        "note": "NASA provides unusually clear distinctions among the orbital mockup, capsule test, prototypes and never-built operational station."
+        "rated_on": "2026-10-12",
+        "note": "Exceptional visual and story strength with primary feasibility records; the programme endpoint is less explicit than a formal cancellation notice."
       },
-      "researched_on": "2026-10-11",
-      "visual_brief": "Proposed cylindrical MOL station with Gemini-B capsule in orbit; label as reconstruction and do not present the 1966 mockup as the completed operational station."
+      "researched_on": "2026-10-12",
+      "visual_brief": "Enormous two-stage shipyard-built rocket floating vertically at sea before launch; reconstruction only, with small support vessel for scale."
     }
   ]
 }
