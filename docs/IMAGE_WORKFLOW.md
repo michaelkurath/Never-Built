@@ -111,3 +111,7 @@ Full prompt, export details and the model/prototype distinction: [image update](
 ## 11 October 2026 — Rockwell X-30
 
 Full prompt, export details and the tunnel-demonstrator distinction: [image update](IMAGE_UPDATE_2026-10-11.md).
+
+## 12 October 2026 — Manned Orbiting Laboratory
+
+Full prompt, crop correction and the flown-mockup distinction: [image update](IMAGE_UPDATE_2026-10-12.md).

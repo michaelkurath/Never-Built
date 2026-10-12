@@ -21,10 +21,11 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | OWL 100-metre Telescope | 1998–2005 | Design study |
 | X-20 Dyna-Soar | 1959–1963* | Partial build |
 | Rockwell X-30 | 1986–1994 | Tunnel model |
+| Manned Orbiting Laboratory | 1963–1969 | Test hardware |
 
-Eleven live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Twelve live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Manned Orbiting Laboratory (23/25). Rockwell X-30 is exhibit 011. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-11.md).
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Sea Dragon (22/25). Manned Orbiting Laboratory is exhibit 012. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-12.md).
 
 ## TRMNL setup
 
@@ -64,4 +65,4 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **11 live exhibits and 13 candidates**. See [11 October review](docs/PROMOTION_2026-10-11.md).
+Latest collection update: **12 live exhibits and 13 candidates**. See [12 October review](docs/PROMOTION_2026-10-12.md).
