@@ -520,29 +520,24 @@
       "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
     },
     {
-      "id": "sea-dragon",
-      "name": "SEA DRAGON",
-      "proposal_period": "1962–1963",
-      "proposal_year": "1962",
-      "category": "Space",
-      "category_key": "space",
-      "stage": "Design study",
-      "caption": "A rocket built like a ship and launched from the sea. Its scale stayed on paper.",
-      "why_unbuilt": "NASA funding and institutional interest did not carry the radical low-cost concept into development.",
-      "what_remains": "NASA-hosted feasibility reports, drawings and Robert Truax’s archived project papers preserve the design.",
-      "source_name": "NASA Technical Reports Server",
-      "source_url": "https://ntrs.nasa.gov/citations/19880069339",
-      "note": "NASA archives Sea Dragon as a feasibility and cost study, not a flight programme. Smithsonian records the related Truax project papers and says he could not interest NASA or the USAF in later similar concepts. No full Sea Dragon vehicle or operational prototype was built; do not confuse related small sea-launch tests with this proposed super-heavy vehicle.",
+      "id": "project-habbakuk",
+      "name": "PROJECT HABBAKUK",
+      "proposal_period": "1942–1943",
+      "proposal_year": "1942",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Prototype test",
+      "caption": "An ice aircraft carrier meant to close the Atlantic gap. Only a lake prototype froze.",
+      "why_unbuilt": "Resource costs, technical demands and longer-range aircraft made the full carrier unnecessary.",
+      "what_remains": "Records, pykrete demonstrations and remnants from the small Patricia Lake prototype.",
+      "source_name": "National Research Council Canada",
+      "source_url": "https://nrc.canada.ca/en/corporate/history/1916-1945",
+      "note": "NRC Canada distinguishes the proposed massive operational pykrete airstrip from the secret experimental prototype built in Alberta. The small Patricia Lake structure tested materials and refrigeration; the full ocean-going aircraft carrier was never built.",
       "sources": [
         {
-          "name": "NASA feasibility study, Volume 2",
-          "url": "https://ntrs.nasa.gov/citations/19630034440",
-          "supports": "1963 contractor feasibility/cost study and proposed launch-vehicle configuration."
-        },
-        {
-          "name": "Smithsonian Robert C. Truax Collection",
-          "url": "https://www.si.edu/object/archives/sova-nasm-2016-0008",
-          "supports": "Project records and the failure to secure institutional support for related sea-launch concepts."
+          "name": "Operation Habbakuk: A World War II Vessel Prototype",
+          "url": "https://www.erudit.org/en/journals/scientia/1986-v10-n2-scientia3221/800233ar/",
+          "supports": "Peer-reviewed account of the Patricia Lake prototype and the uncompleted full-scale proposal."
         }
       ],
       "review": {
@@ -552,18 +547,18 @@
         "final_approval": "pending"
       },
       "rating": {
-        "recognition": 3,
+        "recognition": 4,
         "visual_strength": 5,
         "story_strength": 5,
-        "evidence_clarity": 4,
+        "evidence_clarity": 5,
         "catalogue_fit": 5,
-        "total": 22,
+        "total": 24,
         "status": "provisional",
-        "rated_on": "2026-10-12",
-        "note": "Exceptional visual and story strength with primary feasibility records; the programme endpoint is less explicit than a formal cancellation notice."
+        "rated_on": "2026-10-13",
+        "note": "Strong official and scholarly evidence clearly separates the small test structure from the never-built operational ice carrier."
       },
-      "researched_on": "2026-10-12",
-      "visual_brief": "Enormous two-stage shipyard-built rocket floating vertically at sea before launch; reconstruction only, with small support vessel for scale."
+      "researched_on": "2026-10-13",
+      "visual_brief": "Enormous flat-topped pykrete aircraft carrier in the North Atlantic; clearly label as reconstruction and distinguish it from the small Patricia Lake test structure."
     }
   ]
 }

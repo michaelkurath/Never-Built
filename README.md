@@ -22,10 +22,11 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | X-20 Dyna-Soar | 1959–1963* | Partial build |
 | Rockwell X-30 | 1986–1994 | Tunnel model |
 | Manned Orbiting Laboratory | 1963–1969 | Test hardware |
+| Sea Dragon | 1962–1963 | Design study |
 
-Twelve live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Thirteen live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Sea Dragon (22/25). Manned Orbiting Laboratory is exhibit 012. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-12.md).
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Project Habbakuk (24/25). Sea Dragon is exhibit 013. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-13.md).
 
 ## TRMNL setup
 
@@ -65,4 +66,4 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **12 live exhibits and 13 candidates**. See [12 October review](docs/PROMOTION_2026-10-12.md).
+Latest collection update: **13 live exhibits and 13 candidates**. See [13 October review](docs/PROMOTION_2026-10-13.md).
