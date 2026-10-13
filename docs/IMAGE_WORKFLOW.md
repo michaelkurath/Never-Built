@@ -115,3 +115,7 @@ Full prompt, export details and the tunnel-demonstrator distinction: [image upda
 ## 12 October 2026 — Manned Orbiting Laboratory
 
 Full prompt, crop correction and the flown-mockup distinction: [image update](IMAGE_UPDATE_2026-10-12.md).
+
+## 13 October 2026 — Sea Dragon
+
+Full prompt, export details and the test-programme distinction: [image update](IMAGE_UPDATE_2026-10-13.md).

@@ -508,6 +508,59 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/manned-orbiting-laboratory-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/manned-orbiting-laboratory-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/manned-orbiting-laboratory-standard-4x3.jpg"
+    },
+    {
+      "id": "sea-dragon",
+      "name": "SEA DRAGON",
+      "proposal_period": "1962–1963",
+      "proposal_year": "1962",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Design study",
+      "caption": "A rocket built like a ship and launched from the sea. Its scale stayed on paper.",
+      "why_unbuilt": "NASA funding and institutional interest did not carry the radical low-cost concept into development.",
+      "what_remains": "NASA-hosted feasibility reports, drawings and Robert Truax’s archived project papers preserve the design.",
+      "source_name": "NASA Technical Reports Server",
+      "source_url": "https://ntrs.nasa.gov/citations/19880069339",
+      "note": "NASA archives Sea Dragon as a feasibility and cost study, not a flight programme. Smithsonian records the related Truax project papers and says he could not interest NASA or the USAF in later similar concepts. No full Sea Dragon vehicle or operational prototype was built; do not confuse related small sea-launch tests with this proposed super-heavy vehicle.",
+      "sources": [
+        {
+          "name": "NASA feasibility study, Volume 2",
+          "url": "https://ntrs.nasa.gov/citations/19630034440",
+          "supports": "1963 contractor feasibility/cost study and proposed launch-vehicle configuration."
+        },
+        {
+          "name": "Smithsonian Robert C. Truax Collection",
+          "url": "https://www.si.edu/object/archives/sova-nasm-2016-0008",
+          "supports": "Project records and the failure to secure institutional support for related sea-launch concepts."
+        }
+      ],
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 4,
+        "catalogue_fit": 5,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-10-13",
+        "note": "NASA feasibility records and Smithsonian project papers support the distinction between the proposed full vehicle and related small sea-launch tests; reconstruction passed all device layouts."
+      },
+      "researched_on": "2026-10-12",
+      "visual_brief": "Enormous two-stage shipyard-built rocket floating vertically at sea before launch; reconstruction only, with small support vessel for scale.",
+      "exhibit": "013",
+      "verified_on": "2026-10-13",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic reconstruction of the proposed Sea Dragon super-heavy rocket floating vertically at sea beside tiny support vessels.",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/sea-dragon-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/sea-dragon-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/sea-dragon-standard-4x3.jpg"
     }
   ]
 }
