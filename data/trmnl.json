@@ -561,6 +561,54 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/sea-dragon-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/sea-dragon-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/sea-dragon-standard-4x3.jpg"
+    },
+    {
+      "id": "project-habbakuk",
+      "name": "PROJECT HABBAKUK",
+      "proposal_period": "1942–1943",
+      "proposal_year": "1942",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Prototype test",
+      "caption": "An ice aircraft carrier meant to close the Atlantic gap. Only a lake prototype froze.",
+      "why_unbuilt": "Resource costs, technical demands and longer-range aircraft made the full carrier unnecessary.",
+      "what_remains": "Records, pykrete demonstrations and remnants from the small Patricia Lake prototype.",
+      "source_name": "National Research Council Canada",
+      "source_url": "https://nrc.canada.ca/en/corporate/history/1916-1945",
+      "note": "NRC Canada distinguishes the proposed massive operational pykrete airstrip from the secret experimental prototype built in Alberta. The small Patricia Lake structure tested materials and refrigeration; the full ocean-going aircraft carrier was never built.",
+      "sources": [
+        {
+          "name": "Operation Habbakuk: A World War II Vessel Prototype",
+          "url": "https://www.erudit.org/en/journals/scientia/1986-v10-n2-scientia3221/800233ar/",
+          "supports": "Peer-reviewed account of the Patricia Lake prototype and the uncompleted full-scale proposal."
+        }
+      ],
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-14",
+        "note": "Official and scholarly evidence clearly separates the small Patricia Lake test structure from the never-built operational carrier; reconstruction passed crop review."
+      },
+      "researched_on": "2026-10-13",
+      "visual_brief": "Enormous flat-topped pykrete aircraft carrier in the North Atlantic; clearly label as reconstruction and distinguish it from the small Patricia Lake test structure.",
+      "exhibit": "014",
+      "verified_on": "2026-10-14",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic reconstruction of the proposed full-size Project Habbakuk pykrete aircraft carrier beside a small escort ship in Arctic waters.",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-habbakuk-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-habbakuk-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-habbakuk-standard-4x3.jpg"
     }
   ]
 }

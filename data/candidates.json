@@ -520,24 +520,24 @@
       "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
     },
     {
-      "id": "project-habbakuk",
-      "name": "PROJECT HABBAKUK",
-      "proposal_period": "1942–1943",
-      "proposal_year": "1942",
-      "category": "Transport",
-      "category_key": "transport",
-      "stage": "Prototype test",
-      "caption": "An ice aircraft carrier meant to close the Atlantic gap. Only a lake prototype froze.",
-      "why_unbuilt": "Resource costs, technical demands and longer-range aircraft made the full carrier unnecessary.",
-      "what_remains": "Records, pykrete demonstrations and remnants from the small Patricia Lake prototype.",
-      "source_name": "National Research Council Canada",
-      "source_url": "https://nrc.canada.ca/en/corporate/history/1916-1945",
-      "note": "NRC Canada distinguishes the proposed massive operational pykrete airstrip from the secret experimental prototype built in Alberta. The small Patricia Lake structure tested materials and refrigeration; the full ocean-going aircraft carrier was never built.",
+      "id": "palace-of-the-soviets",
+      "name": "PALACE OF THE SOVIETS",
+      "proposal_period": "1931–1941*",
+      "proposal_year": "1931",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Partial build",
+      "caption": "A 415-metre congress palace crowned by Lenin. Its foundations never became the promised skyline.",
+      "why_unbuilt": "The German invasion halted construction; its steel was removed for wartime use and the project was not revived.",
+      "what_remains": "Designs, models and photographs document the proposal; the site later became a pool and then the rebuilt cathedral.",
+      "source_name": "Design Museum, London",
+      "source_url": "https://designmuseum.org/exhibitions/imagine-moscow",
+      "note": "*The Design Museum identifies the Palace as part of Moscow’s unrealised architectural vision and preserves the 1931–1941 project context. Construction went beyond a model: foundations and part of the lower steel frame existed before wartime dismantling. The complete palace and monumental Lenin-topped tower were never built; artwork must not present surviving foundations as a completed building.",
       "sources": [
         {
-          "name": "Operation Habbakuk: A World War II Vessel Prototype",
-          "url": "https://www.erudit.org/en/journals/scientia/1986-v10-n2-scientia3221/800233ar/",
-          "supports": "Peer-reviewed account of the Patricia Lake prototype and the uncompleted full-scale proposal."
+          "name": "Imagine Moscow touring exhibition",
+          "url": "https://designmuseum.org/exhibitions/touring-exhibitions/exhibitions-for-hire/imagine-moscow-touring-exhibition",
+          "supports": "Museum description of the unbuilt projects and alternative Moscow that never came into existence."
         }
       ],
       "review": {
@@ -554,11 +554,11 @@
         "catalogue_fit": 5,
         "total": 24,
         "status": "provisional",
-        "rated_on": "2026-10-13",
-        "note": "Strong official and scholarly evidence clearly separates the small test structure from the never-built operational ice carrier."
+        "rated_on": "2026-10-14",
+        "note": "Museum evidence supports the unrealised full palace, while the record clearly distinguishes models, foundations and partial steelwork from completion."
       },
-      "researched_on": "2026-10-13",
-      "visual_brief": "Enormous flat-topped pykrete aircraft carrier in the North Atlantic; clearly label as reconstruction and distinguish it from the small Patricia Lake test structure."
+      "researched_on": "2026-10-14",
+      "visual_brief": "Boris Iofan’s monumental stepped skyscraper proposal with a vast Lenin figure above Moscow; reconstruction only, distinct from the real foundations and temporary lower frame."
     }
   ]
 }
