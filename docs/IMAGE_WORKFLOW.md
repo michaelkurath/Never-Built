@@ -119,3 +119,7 @@ Full prompt, crop correction and the flown-mockup distinction: [image update](IM
 ## 13 October 2026 — Sea Dragon
 
 Full prompt, export details and the test-programme distinction: [image update](IMAGE_UPDATE_2026-10-13.md).
+
+## 14 October 2026 — Project Habbakuk
+
+Full prompt, crop correction and prototype distinction: [image update](IMAGE_UPDATE_2026-10-14.md).
