@@ -7,7 +7,7 @@ polling_verb: get
 framework_version: 3.3.1
 serverless_language: node
 refresh_interval_floor: ''
-polling_url: https://raw.githubusercontent.com/michaelkurath/Never-Built/main/data/trmnl.json
+polling_url: https://raw.githubusercontent.com/michaelkurath/Never-Built/main/data/poll.json
 polling_headers: ''
 polling_body: ''
 id: 498879
