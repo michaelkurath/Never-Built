@@ -123,3 +123,7 @@ Full prompt, export details and the test-programme distinction: [image update](I
 ## 14 October 2026 — Project Habbakuk
 
 Full prompt, crop correction and prototype distinction: [image update](IMAGE_UPDATE_2026-10-14.md).
+
+## 15 October 2026 — Palace of the Soviets
+
+Exports are `palace-of-the-soviets-master-2x1.jpg` (1600×800) and `palace-of-the-soviets-standard-4x3.jpg` (1200×900). White contain padding preserves the complete tower and statue in the standard asset. The image is explicitly an artistic reconstruction: the real project reached foundations and partial lower steelwork, not a completed palace. Full prompt and export details: [image update](IMAGE_UPDATE_2026-10-15.md).
