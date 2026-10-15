@@ -23,5 +23,7 @@ assert.match(settings, /^id: 498879$/m, 'Preserve NEVER BUILT installation ident
 assert.ok(!/^id: 467205$/m.test(settings), 'Never bind to GOODBYE');
 assert.match(settings, /^serverless_language: node$/m);
 assert.match(settings, /^custom_fields:$/m);
-assert.ok(settings.includes('Never-Built/main/data/trmnl.json'));
+assert.ok(settings.includes('Never-Built/main/data/poll.json'), 'Polling must use the small manifest');
+const transform = fs.readFileSync('src/transform.js', 'utf8');
+assert.ok(transform.includes('Never-Built/main/data/trmnl.json'), 'Serverless must fetch full collection');
 console.log('Live rotation, category fallback, candidate isolation, and installation identity passed.');

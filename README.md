@@ -42,6 +42,20 @@ For a separate installation, create/import a new plugin and use its own ID inste
 
 The settings preserve NEVER BUILT’s installation ID. No GOODBYE installation ID, API key, or device binding is included. Empty category selections fall back to the full catalogue.
 
+## Payload-efficient Serverless selection
+
+TRMNL polls a tiny [`data/poll.json`](data/poll.json) manifest rather
+than the full [`data/trmnl.json`](data/trmnl.json) collection.
+The Node Serverless transform fetches the entire catalogue, chooses
+one exhibit based on category and Saved State, and returns only its
+display fields and rotation history. This avoids the polling payload
+limit when new exhibits are added. The companion website continues to
+use the full catalogue directly.
+
+If the catalogue fetch fails, the refresh errors rather than silently
+advancing the saved rotation. GitHub-to-TRMNL import remains manual:
+sync the changed polling URL and transform in the recipe master.
+
 ## Checks and preview
 
 ```sh
