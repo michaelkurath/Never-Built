@@ -609,6 +609,54 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-habbakuk-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-habbakuk-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/project-habbakuk-standard-4x3.jpg"
+    },
+    {
+      "id": "palace-of-the-soviets",
+      "name": "PALACE OF THE SOVIETS",
+      "proposal_period": "1931–1941*",
+      "proposal_year": "1931",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Partial build",
+      "caption": "A congress palace crowned by Lenin. Its foundations never became the promised skyline.",
+      "why_unbuilt": "The German invasion halted construction; its steel was removed for wartime fortifications and bridges.",
+      "what_remains": "Designs, models and photographs document the proposal; the site later became a pool and then the rebuilt cathedral.",
+      "source_name": "Design Museum, London",
+      "source_url": "https://designmuseum.org/asset/download?id=f09c91de-a8e2-48d6-8b9a-c8673b493d01",
+      "note": "*The Design Museum identifies Boris Iofan’s winning 1932 design as one of six unbuilt Moscow landmarks. Construction started in 1937 and stopped after the 1941 invasion; the steel frame was repurposed and the foundations became an outdoor pool. Models, foundations and partial lower steelwork existed, but the complete palace and Lenin-topped tower were never built. Artwork is an artistic reconstruction, not a documentary photograph.",
+      "sources": [
+        {
+          "name": "Imagine Moscow exhibition",
+          "url": "https://designmuseum.org/exhibitions/imagine-moscow",
+          "supports": "Museum identification of the Palace within an unrealised architectural vision of Moscow."
+        }
+      ],
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-15",
+        "note": "Museum documentation clearly distinguishes drawings, models, foundations and partial steelwork from the uncompleted full palace; original reconstruction passed responsive crop review."
+      },
+      "researched_on": "2026-10-14",
+      "visual_brief": "Boris Iofan’s monumental stepped skyscraper proposal crowned by a vast Lenin figure; reconstruction only, distinct from the real foundations and temporary lower frame.",
+      "exhibit": "015",
+      "verified_on": "2026-10-15",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome reconstruction of the proposed Palace of the Soviets above its incomplete riverside foundations.",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-standard-4x3.jpg"
     }
   ]
 }

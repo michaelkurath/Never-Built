@@ -27,7 +27,7 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 
 Fourteen live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Palace of the Soviets (24/25). Project Habbakuk is exhibit 014. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-14.md).
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Chicago Spire (23/25). The Palace of the Soviets is exhibit 015. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-15.md).
 
 ## TRMNL setup
 
@@ -81,4 +81,4 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **14 live exhibits and 13 candidates**. See [14 October review](docs/PROMOTION_2026-10-14.md).
+Latest collection update: **15 live exhibits and 13 candidates**. See [15 October review](docs/PROMOTION_2026-10-15.md).
