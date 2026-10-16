@@ -1,0 +1,9 @@
+# Chicago Spire artwork — 16 October 2026
+
+The built-in image generator created an original artistic reconstruction. The completed tower shown is counterfactual; the real project reached below-ground foundation/cofferdam work only.
+
+Prompt:
+
+> Use case: illustration-story. Asset type: NEVER BUILT e-paper museum exhibit master, responsive 2:1 with a centered 4:3 safe area. Create an original monochrome architectural reconstruction of the unbuilt Chicago Spire proposal by Santiago Calatrava: a single extremely slender 150-storey residential tower rising about 2,000 feet from the Chicago lakefront, tapering continuously to a sharp point, with its facade twisting in smooth repeated rotations from base to summit. Show the complete tower in a dramatic but plausible low three-quarter city view beside Lake Michigan, surrounded by a restrained low Chicago skyline and shoreline for scale. Include a small subtle ground cutaway or excavation trace at the base to allude to the real deep cofferdam/foundation work, but do not depict the current 400 Lake Shore Drive towers and do not imply the Spire was completed. High-contrast black, white and restrained grayscale, architectural museum engraving, crisp contours, broad e-paper-friendly tones, no pre-dithering. Wide landscape composition; keep the complete tower from foundation to needle point fully inside the centered two-thirds 4:3 safe zone with 10–12% breathing room; outer wings contain lake, sky and low skyline only. No readable text, labels, logos, cranes, construction completion scene, watermark, border or color. Explicit artistic reconstruction, not a historical photograph or engineering drawing.
+
+Exports are `chicago-spire-master-2x1.jpg` (1600×800) and `chicago-spire-standard-4x3.jpg` (1200×900). Both are centered grayscale JPEG crops at quality 88. The full tapering tower, point and below-ground cutaway remain visible in both formats; skyline details are interpretive.
