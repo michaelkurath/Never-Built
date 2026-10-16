@@ -127,3 +127,7 @@ Full prompt, crop correction and prototype distinction: [image update](IMAGE_UPD
 ## 15 October 2026 — Palace of the Soviets
 
 Exports are `palace-of-the-soviets-master-2x1.jpg` (1600×800) and `palace-of-the-soviets-standard-4x3.jpg` (1200×900). White contain padding preserves the complete tower and statue in the standard asset. The image is explicitly an artistic reconstruction: the real project reached foundations and partial lower steelwork, not a completed palace. Full prompt and export details: [image update](IMAGE_UPDATE_2026-10-15.md).
+
+## 16 October 2026 — Chicago Spire
+
+Exports are `chicago-spire-master-2x1.jpg` (1600×800) and `chicago-spire-standard-4x3.jpg` (1200×900). Both keep the full tapering tower and the below-ground cutaway visible. The completed tower is explicitly counterfactual: only foundation/cofferdam work existed, and the current replacement towers are a different design. Full prompt and export details: [image update](IMAGE_UPDATE_2026-10-16.md).

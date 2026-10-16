@@ -657,6 +657,59 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-standard-4x3.jpg"
+    },
+    {
+      "id": "chicago-spire",
+      "name": "CHICAGO SPIRE",
+      "proposal_period": "2005–2014",
+      "proposal_year": "2005",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Foundation work",
+      "caption": "A twisting 150-storey tower began below ground. The skyline never received its spire.",
+      "why_unbuilt": "Financing collapsed during the global financial crisis; construction stopped and the original development ended.",
+      "what_remains": "Project records preserve the design; its deep cofferdam was later filled for a different development.",
+      "source_name": "Council on Vertical Urbanism / Skyscraper Center",
+      "source_url": "https://www.skyscrapercenter.com/chicago/chicago-spire/62",
+      "note": "Verified 16 October 2026 against the Council on Vertical Urbanism record and current replacement-project sources. Construction began and a deep cofferdam/foundation excavation existed, but no habitable Chicago Spire tower was completed. The current 400 Lake Shore Drive towers are a separate SOM design, not completion of the Spire.",
+      "sources": [
+        {
+          "name": "MAP Strategies — 400 North Lake Shore Drive",
+          "url": "https://map-strategies.com/projects/400-north-lake-shore-drive",
+          "supports": "Replacement project account documenting the stalled Spire development, started construction and deep foundation/cofferdam left on the site."
+        },
+        {
+          "name": "SOM — 400 Lake Shore Drive",
+          "url": "https://www.som.com/projects/400-lake-shore/",
+          "supports": "Current replacement project is a separate two-tower design under construction, not the Chicago Spire."
+        }
+      ],
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-10-16",
+        "note": "Specialist and project-team evidence separates below-ground works from a completed tower and from the replacement scheme; the original reconstruction passed responsive and device-layout review."
+      },
+      "researched_on": "2026-10-16",
+      "visual_brief": "Santiago Calatrava’s tapering twisting residential spire above Chicago’s lakefront; reconstruction only, with a small cutaway indicating the real deep foundation works but no completed tower.",
+      "verified_on": "2026-10-16",
+      "exhibit": "016",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome reconstruction of the unbuilt twisting Chicago Spire above its lakefront foundation excavation.",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-standard-4x3.jpg"
     }
   ]
 }

@@ -520,29 +520,29 @@
       "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
     },
     {
-      "id": "chicago-spire",
-      "name": "CHICAGO SPIRE",
-      "proposal_period": "2005–2014",
-      "proposal_year": "2005",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Foundation work",
-      "caption": "A twisting 150-storey tower began below ground. The skyline never received its spire.",
-      "why_unbuilt": "Financing collapsed during the global financial crisis; construction stopped and the original development ended.",
-      "what_remains": "Project records preserve the design; its deep cofferdam was later filled for a different development.",
-      "source_name": "Council on Vertical Urbanism / Skyscraper Center",
-      "source_url": "https://www.skyscrapercenter.com/chicago/chicago-spire/62",
-      "note": "Verified 15 October 2026 against the specialist tall-building record and the replacement project’s permitting account. Construction began and an eight-storey-deep cofferdam/foundation excavation existed, but no habitable tower was completed. The current 400 Lake Shore Drive project is a different SOM design and must not be described as completion of the Spire.",
+      "id": "atlantropa",
+      "name": "ATLANTROPA",
+      "proposal_period": "1927–1952*",
+      "proposal_year": "1927",
+      "category": "Infrastructure",
+      "category_key": "infrastructure",
+      "stage": "Paper scheme",
+      "caption": "Dam the Mediterranean, lower the sea, join continents. Europe’s new geography stayed on paper.",
+      "why_unbuilt": "The scheme never gained the international authority or financing needed to reshape the Mediterranean.",
+      "what_remains": "The Deutsches Museum preserves drawings, plans, manuscripts, photographs and publicity material from Sörgel’s project.",
+      "source_name": "Deutsches Museum Archive",
+      "source_url": "https://blog.deutsches-museum.de/2018/02/28/ein-mann-und-das-meer",
+      "note": "*1927 marks the start of Hermann Sörgel’s development of the proposal; he pursued it for decades until his death in 1952. Museum records document a planned 35-kilometre Gibraltar dam, Mediterranean sea-level reduction, hydroelectric works and a large archive of drawings and publications. Those archival objects and visualisations are evidence of design and advocacy, not a completed dam, operational prototype or altered sea. No Atlantropa civil works were built.",
       "sources": [
         {
-          "name": "MAP Strategies — 400 North Lake Shore Drive",
-          "url": "https://map-strategies.com/projects/400-north-lake-shore-drive",
-          "supports": "Replacement project account documenting the stalled Spire development, started construction and deep foundation/cofferdam left on the site."
+          "name": "Deutsches Museum digital catalogue",
+          "url": "https://digital.deutsches-museum.de/de/digital-catalogue/archive-item/NL%20092%2F523",
+          "supports": "Archive record for photographs of Sörgel and Atlantropa drawings; surviving records are documentary material, not completed infrastructure."
         },
         {
-          "name": "SOM — 400 Lake Shore Drive",
-          "url": "https://www.som.com/projects/400-lake-shore/",
-          "supports": "Current replacement project is a separate two-tower design under construction, not the Chicago Spire."
+          "name": "Deutsches Museum Archiv-info 2020",
+          "url": "https://www.deutsches-museum.de/assets/Forschung/Archiv/Download/Archiv-Info/ARCHIV-info_2020_Heft_2.pdf",
+          "supports": "Museum account of the proposed dams, 100-metre Mediterranean lowering, 3-D visualisation and extensive archive."
         }
       ],
       "review": {
@@ -556,14 +556,14 @@
         "visual_strength": 5,
         "story_strength": 5,
         "evidence_clarity": 5,
-        "catalogue_fit": 4,
-        "total": 23,
+        "catalogue_fit": 5,
+        "total": 24,
         "status": "provisional",
-        "rated_on": "2026-10-15",
-        "note": "Strong specialist and project-team evidence distinguishes substantial below-ground works from a completed tower and separates the replacement project; partial construction slightly moderates catalogue fit."
+        "rated_on": "2026-10-16",
+        "note": "An unusually vast and visually legible infrastructure proposal with a rich institutional archive; the record clearly separates drawings and later visualisation from any built civil works."
       },
-      "researched_on": "2026-10-15",
-      "visual_brief": "Santiago Calatrava’s tapering twisting residential spire above Chicago’s lakefront; reconstruction only, with a small cutaway indicating the real deep foundation works but no completed tower."
+      "researched_on": "2026-10-16",
+      "visual_brief": "A map-like cutaway of the unbuilt Gibraltar dam and lowered Mediterranean shorelines; explicitly conceptual, with no implication that any full-scale works or operational prototype existed."
     }
   ]
 }
