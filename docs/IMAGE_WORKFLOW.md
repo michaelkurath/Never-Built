@@ -131,3 +131,7 @@ Exports are `palace-of-the-soviets-master-2x1.jpg` (1600×800) and `palace-of-th
 ## 16 October 2026 — Chicago Spire
 
 Exports are `chicago-spire-master-2x1.jpg` (1600×800) and `chicago-spire-standard-4x3.jpg` (1200×900). Both keep the full tapering tower and the below-ground cutaway visible. The completed tower is explicitly counterfactual: only foundation/cofferdam work existed, and the current replacement towers are a different design. Full prompt and export details: [image update](IMAGE_UPDATE_2026-10-16.md).
+
+## 17 October 2026 — Atlantropa
+
+Exports are `atlantropa-master-2x1.jpg` (1600×800) and `atlantropa-standard-4x3.jpg` (1200×900). White contain padding preserves the complete Strait of Gibraltar dam concept and the contrast between Atlantic water and the imagined lowered Mediterranean basin. The scene is explicitly counterfactual; archive drawings and later visualisations are not built works. Full prompt and export details: [image update](IMAGE_UPDATE_2026-10-17.md).

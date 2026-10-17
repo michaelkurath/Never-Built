@@ -710,6 +710,59 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-standard-4x3.jpg"
+    },
+    {
+      "id": "atlantropa",
+      "name": "ATLANTROPA",
+      "proposal_period": "1927–1952*",
+      "proposal_year": "1927",
+      "category": "Infrastructure",
+      "category_key": "infrastructure",
+      "stage": "Paper scheme",
+      "caption": "Dam the Mediterranean, lower the sea, join continents. Europe’s new geography stayed on paper.",
+      "why_unbuilt": "The scheme never gained the international authority or financing needed to reshape the Mediterranean.",
+      "what_remains": "The Deutsches Museum preserves drawings, plans, manuscripts, photographs and publicity material from Sörgel’s project.",
+      "source_name": "Deutsches Museum Archive",
+      "source_url": "https://blog.deutsches-museum.de/2018/02/28/ein-mann-und-das-meer",
+      "note": "*1927 marks the start of Hermann Sörgel’s development of the proposal; he promoted it until his death in 1952. Deutsches Museum records document planned Mediterranean dams, major sea-level reduction and an archive of drawings, plans, manuscripts, photographs and publicity. Those records and later visualisations are evidence of design and advocacy, not a completed dam, full-scale model, operational prototype or altered sea. No Atlantropa civil works were built.",
+      "sources": [
+        {
+          "name": "Deutsches Museum digital catalogue",
+          "url": "https://digital.deutsches-museum.de/de/digital-catalogue/archive-item/NL%20092%2F523",
+          "supports": "Archive record for photographs of Sörgel and Atlantropa drawings; surviving records are documentary material, not completed infrastructure."
+        },
+        {
+          "name": "Deutsches Museum Archiv-info 2020",
+          "url": "https://www.deutsches-museum.de/assets/Forschung/Archiv/Download/Archiv-Info/ARCHIV-info_2020_Heft_2.pdf",
+          "supports": "Museum account of the proposed dams, 100-metre Mediterranean lowering, 3-D visualisation and extensive archive."
+        }
+      ],
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-17",
+        "note": "Institutional archive evidence clearly separates drawings, publications and visualisations from any constructed civil works; the original reconstruction passed responsive and device-layout review."
+      },
+      "researched_on": "2026-10-17",
+      "visual_brief": "A map-like cutaway of the unbuilt Gibraltar dam and lowered Mediterranean shorelines; explicitly conceptual, with no implication that any full-scale works or operational prototype existed.",
+      "verified_on": "2026-10-17",
+      "exhibit": "017",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome reconstruction of the proposed Atlantropa dam at Gibraltar beside an imagined lowered Mediterranean basin.",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/atlantropa-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/atlantropa-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/atlantropa-standard-4x3.jpg"
     }
   ]
 }

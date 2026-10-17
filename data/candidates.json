@@ -520,29 +520,29 @@
       "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
     },
     {
-      "id": "atlantropa",
-      "name": "ATLANTROPA",
-      "proposal_period": "1927–1952*",
-      "proposal_year": "1927",
+      "id": "tokyo-bay-plan-1960",
+      "name": "TOKYO BAY PLAN 1960",
+      "proposal_period": "1960",
+      "proposal_year": "1960",
       "category": "Infrastructure",
       "category_key": "infrastructure",
-      "stage": "Paper scheme",
-      "caption": "Dam the Mediterranean, lower the sea, join continents. Europe’s new geography stayed on paper.",
-      "why_unbuilt": "The scheme never gained the international authority or financing needed to reshape the Mediterranean.",
-      "what_remains": "The Deutsches Museum preserves drawings, plans, manuscripts, photographs and publicity material from Sörgel’s project.",
-      "source_name": "Deutsches Museum Archive",
-      "source_url": "https://blog.deutsches-museum.de/2018/02/28/ein-mann-und-das-meer",
-      "note": "*1927 marks the start of Hermann Sörgel’s development of the proposal; he pursued it for decades until his death in 1952. Museum records document a planned 35-kilometre Gibraltar dam, Mediterranean sea-level reduction, hydroelectric works and a large archive of drawings and publications. Those archival objects and visualisations are evidence of design and advocacy, not a completed dam, operational prototype or altered sea. No Atlantropa civil works were built.",
+      "stage": "Plan and model",
+      "caption": "A linear megacity was to cross Tokyo Bay. The great urban spine remained a model.",
+      "why_unbuilt": "The radical metropolitan reorganisation remained a design proposal and never became an authorised construction programme.",
+      "what_remains": "Plans, photographs and models preserve Tange’s proposed transport spine and modular city across the bay.",
+      "source_name": "Getty CONA",
+      "source_url": "https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700072581",
+      "note": "Getty’s Cultural Objects Name Authority explicitly classifies Kenzo Tange’s 1960 Tokyo Bay Plan as an unbuilt project. Tange Associates documents the proposal, and the Mori Art Museum describes its marine city spanning Tokyo Bay. Drawings, presentation images and models existed, but the 80-kilometre linear city was not built. Later reclaimed land, bridges and separate Tokyo Bay development are not partial completion of Tange’s plan.",
       "sources": [
         {
-          "name": "Deutsches Museum digital catalogue",
-          "url": "https://digital.deutsches-museum.de/de/digital-catalogue/archive-item/NL%20092%2F523",
-          "supports": "Archive record for photographs of Sörgel and Atlantropa drawings; surviving records are documentary material, not completed infrastructure."
+          "name": "Tange Associates — A Plan for Tokyo 1960",
+          "url": "https://www.tangeweb.com/works/works_no-22/",
+          "supports": "Architect’s office record establishing the named 1960 proposal and its authorship."
         },
         {
-          "name": "Deutsches Museum Archiv-info 2020",
-          "url": "https://www.deutsches-museum.de/assets/Forschung/Archiv/Download/Archiv-Info/ARCHIV-info_2020_Heft_2.pdf",
-          "supports": "Museum account of the proposed dams, 100-metre Mediterranean lowering, 3-D visualisation and extensive archive."
+          "name": "Mori Art Museum — Metabolism: The City of the Future",
+          "url": "https://www.mori.art.museum/english/contents/metabolism/about/",
+          "supports": "Museum account of the innovative marine-city project intended to span Tokyo Bay."
         }
       ],
       "review": {
@@ -559,11 +559,11 @@
         "catalogue_fit": 5,
         "total": 24,
         "status": "provisional",
-        "rated_on": "2026-10-16",
-        "note": "An unusually vast and visually legible infrastructure proposal with a rich institutional archive; the record clearly separates drawings and later visualisation from any built civil works."
+        "rated_on": "2026-10-17",
+        "note": "Getty explicitly classifies the scheme as unbuilt, while architect and museum records establish the configuration; models and later unrelated bay development are clearly separated from construction of the proposal."
       },
-      "researched_on": "2026-10-16",
-      "visual_brief": "A map-like cutaway of the unbuilt Gibraltar dam and lowered Mediterranean shorelines; explicitly conceptual, with no implication that any full-scale works or operational prototype existed."
+      "researched_on": "2026-10-17",
+      "visual_brief": "High oblique view of Tange’s linear urban spine and branching A-frame residential modules crossing Tokyo Bay; clearly a conceptual reconstruction, not later real bridges or reclaimed districts."
     }
   ]
 }
