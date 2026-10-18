@@ -520,31 +520,27 @@
       "visual_brief": "Original interpretation of the documented elevation: huge pylons and elevated urban branches above the existing city; no invented engineering feasibility."
     },
     {
-      "id": "tokyo-bay-plan-1960",
-      "name": "TOKYO BAY PLAN 1960",
-      "proposal_period": "1960",
-      "proposal_year": "1960",
-      "category": "Infrastructure",
-      "category_key": "infrastructure",
-      "stage": "Plan and model",
-      "caption": "A linear megacity was to cross Tokyo Bay. The great urban spine remained a model.",
-      "why_unbuilt": "The radical metropolitan reorganisation remained a design proposal and never became an authorised construction programme.",
-      "what_remains": "Plans, photographs and models preserve Tange’s proposed transport spine and modular city across the bay.",
-      "source_name": "Getty CONA",
-      "source_url": "https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700072581",
-      "note": "Getty’s Cultural Objects Name Authority explicitly classifies Kenzo Tange’s 1960 Tokyo Bay Plan as an unbuilt project. Tange Associates documents the proposal, and the Mori Art Museum describes its marine city spanning Tokyo Bay. Drawings, presentation images and models existed, but the 80-kilometre linear city was not built. Later reclaimed land, bridges and separate Tokyo Bay development are not partial completion of Tange’s plan.",
+      "id": "darwin-space-observatory",
+      "name": "DARWIN SPACE OBSERVATORY",
+      "proposal_period": "Proposed 1993*",
+      "proposal_year": "1993",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Phase-A study",
+      "caption": "A flotilla of telescopes would search other Earths for signs of life. It remained a study.",
+      "why_unbuilt": "ESA studied the concept but did not pursue it as an implemented mission.",
+      "what_remains": "Mission studies, optical and metrology technology work, and concept illustrations preserve the proposal.",
+      "source_name": "European Space Agency",
+      "source_url": "https://www.esa.int/Science_Exploration/Space_Science/Darwin_overview",
+      "note": "Checked 18 October 2026. ESA calls Darwin a phase-A study first proposed in 1993. Its 18 September 2014 retrospective explicitly says it was studied but not pursued. Configurations evolved; technology pre-development and concept models are not completed flight spacecraft or an operational Darwin observatory. No single cancellation year or unsupported political cause is asserted.",
       "sources": [
         {
-          "name": "Tange Associates — A Plan for Tokyo 1960",
-          "url": "https://www.tangeweb.com/works/works_no-22/",
-          "supports": "Architect’s office record establishing the named 1960 proposal and its authorship."
-        },
-        {
-          "name": "Mori Art Museum — Metabolism: The City of the Future",
-          "url": "https://www.mori.art.museum/english/contents/metabolism/about/",
-          "supports": "Museum account of the innovative marine-city project intended to span Tokyo Bay."
+          "name": "ESA — Future multisatellite mission requiring ultrastable structures",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2014/09/Future_multisatellite_mission_requiring_ultrastable_structures",
+          "supports": "Explicit studied-but-not-pursued status."
         }
       ],
+      "researched_on": "2026-10-18",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -552,18 +548,17 @@
         "final_approval": "pending"
       },
       "rating": {
-        "recognition": 4,
+        "recognition": 2,
         "visual_strength": 5,
         "story_strength": 5,
         "evidence_clarity": 5,
-        "catalogue_fit": 5,
-        "total": 24,
+        "catalogue_fit": 4,
+        "total": 21,
         "status": "provisional",
-        "rated_on": "2026-10-17",
-        "note": "Getty explicitly classifies the scheme as unbuilt, while architect and museum records establish the configuration; models and later unrelated bay development are clearly separated from construction of the proposal."
+        "rated_on": "2026-10-18",
+        "note": "Strong formation-flying visual and life-search story with explicit ESA status; public recognition is limited and several space proposals already exist."
       },
-      "researched_on": "2026-10-17",
-      "visual_brief": "High oblique view of Tange’s linear urban spine and branching A-frame residential modules crossing Tokyo Bay; clearly a conceptual reconstruction, not later real bridges or reclaimed districts."
+      "visual_brief": "Separate collector telescopes and beam-combining hub; document one studied configuration rather than mixing eras."
     }
   ]
 }
