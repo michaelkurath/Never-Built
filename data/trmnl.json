@@ -763,6 +763,59 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/atlantropa-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/atlantropa-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/atlantropa-standard-4x3.jpg"
+    },
+    {
+      "id": "tokyo-bay-plan-1960",
+      "name": "TOKYO BAY PLAN 1960",
+      "proposal_period": "1960",
+      "proposal_year": "1960",
+      "category": "Infrastructure",
+      "category_key": "infrastructure",
+      "stage": "Plan and model",
+      "caption": "A linear megacity was to cross Tokyo Bay. The great urban spine remained a model.",
+      "why_unbuilt": "The metropolitan reorganisation remained a conceptual master plan rather than a realised city-building programme.",
+      "what_remains": "Plans, photographs and models preserve Tange’s proposed transport spine and modular city across the bay.",
+      "source_name": "Harvard Frances Loeb Library — Urban Design Case Study Archive",
+      "source_url": "https://udcsa.gsd.harvard.edu/projects/64",
+      "note": "Checked 18 October 2026. Harvard explicitly describes the proposal as never realized and preserves plan/model images. Tange Associates identifies the 1960 master plan; Mori Art Museum distinguishes conceptual city plans from realised experimental architecture. Drawings and presentation models are not completed infrastructure. Later bay bridges and reclaimed districts are separate projects. No disputed total-length claim is retained. Getty was inaccessible during this check, so Harvard replaces it as the primary status source.",
+      "sources": [
+        {
+          "name": "Tange Associates — A Plan for Tokyo 1960",
+          "url": "https://www.tangeweb.com/works/works_no-22/",
+          "supports": "Architect’s office record establishing the named 1960 proposal and its authorship."
+        },
+        {
+          "name": "Mori Art Museum — Metabolism: The City of the Future",
+          "url": "https://www.mori.art.museum/english/contents/metabolism/about/",
+          "supports": "Museum account of the innovative marine-city project intended to span Tokyo Bay."
+        }
+      ],
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-18",
+        "note": "Sources and scope rechecked 18 October 2026; original monochrome responsive artwork reviewed. Device-layout review remains a mandatory merge gate."
+      },
+      "researched_on": "2026-10-18",
+      "visual_brief": "High oblique view of Tange’s linear urban spine and branching A-frame residential modules crossing Tokyo Bay; clearly a conceptual reconstruction, not later real bridges or reclaimed districts.",
+      "exhibit": "018",
+      "verified_on": "2026-10-18",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tokyo-bay-plan-1960-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tokyo-bay-plan-1960-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tokyo-bay-plan-1960-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome interpretation of the unbuilt Tokyo Bay transport spine, civic platforms and branching housing."
     }
   ]
 }

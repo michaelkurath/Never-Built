@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 18 October 2026 — Tokyo Bay Plan 1960
+
+Original built-in generated artwork: `tokyo-bay-plan-1960-master-2x1.jpg` (1600×800) and `tokyo-bay-plan-1960-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. Full prompt, qualification and crop/export decisions: [image update](IMAGE_UPDATE_2026-10-18.md).
+
 Starter images were created using the built-in image generator. They are
 artistic interpretations, not archival photos or exact engineering drawings.
 
