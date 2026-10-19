@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 19 October 2026 — Walking City
+
+Original built-in generated artwork: `walking-city-master-2x1.jpg` (1600×800) and `walking-city-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete subject in 4:3. Complete prompts, identity correction, scope and export decisions: [image update](IMAGE_UPDATE_2026-10-19.md).
+
 ## 18 October 2026 — Tokyo Bay Plan 1960
 
 Original built-in generated artwork: `tokyo-bay-plan-1960-master-2x1.jpg` (1600×800) and `tokyo-bay-plan-1960-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. Full prompt, qualification and crop/export decisions: [image update](IMAGE_UPDATE_2026-10-18.md).

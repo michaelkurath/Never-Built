@@ -816,6 +816,64 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tokyo-bay-plan-1960-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
       "image_alt": "Artistic monochrome interpretation of the unbuilt Tokyo Bay transport spine, civic platforms and branching housing."
+    },
+    {
+      "id": "walking-city",
+      "name": "WALKING CITY",
+      "proposal_period": "1964",
+      "proposal_year": "1964",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Paper concept",
+      "caption": "A city that could leave town. Giant roaming pods stayed on paper.",
+      "why_unbuilt": "A speculative architectural thought experiment, not an engineered machine or an authorised construction programme.",
+      "what_remains": "Museum-held drawings and the Archigram archive preserve the concept; no functioning city pod was built.",
+      "source_name": "Museum of Modern Art",
+      "source_url": "https://www.moma.org/collection/works/813",
+      "note": "Rechecked 19 October 2026. The selected version is Ron Herron’s 1964 Cities: Moving aerial perspective at MoMA, not the separate 1966 ocean drawing. MoMA describes the roaming pods as architectural commentary rather than a serious structural proposition; V&A explicitly includes Walking City among experimental projects never built. Museum drawings and later display models are not full-scale buildings, working prototypes or operational machinery. This authored architectural concept fits the collection’s design-proposal scope, but no cancellation, construction contract, technical feasibility or funding failure is invented.",
+      "sources": [
+        {
+          "name": "V&A — DesignLab: Exploring Skylines",
+          "url": "https://www.vam.ac.uk/__data/assets/pdf_file/0003/178113/58425_file.pdf",
+          "supports": "Page 23 names Walking City among experimental projects never built."
+        },
+        {
+          "name": "Centre Pompidou — Walking City",
+          "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/c5z5bG",
+          "supports": "1964 date, Ron Herron attribution and architectural drawing status."
+        },
+        {
+          "name": "M+ — Archigram Archive",
+          "url": "https://www.mplus.org.hk/en/collection/archives/archigram-archive-ca36/",
+          "supports": "Preservation of the authored architectural archive."
+        }
+      ],
+      "visual_brief": "Original interpretation of the 1964 aerial pod: elongated capsule, dark faceted upper volumes, window rows, telescopic supports and corridor. Details are not engineered plans.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 21,
+        "status": "reviewed",
+        "rated_on": "2026-10-19",
+        "note": "Authoritative source and scope review completed 19 October 2026; original responsive artwork reviewed. Hosted device-layout review remains a merge gate."
+      },
+      "researched_on": "2026-10-19",
+      "exhibit": "019",
+      "verified_on": "2026-10-19",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/walking-city-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/walking-city-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/walking-city-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome interpretation of an unbuilt Walking City pod with faceted roof volumes and telescopic supports."
     }
   ]
 }
