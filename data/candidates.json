@@ -366,52 +366,6 @@
       "researched_on": "2026-10-07"
     },
     {
-      "id": "walking-city",
-      "name": "WALKING CITY",
-      "proposal_period": "1964",
-      "proposal_year": "1964",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Paper concept",
-      "caption": "A city that could leave town. Giant roaming pods stayed on paper.",
-      "why_unbuilt": "An experimental architectural vision and commentary on urban change, rather than a committed construction project.",
-      "what_remains": "Original architectural drawings survive in MoMA, Centre Pompidou and the Archigram archive at M+.",
-      "source_name": "Museum of Modern Art",
-      "source_url": "https://www.moma.org/collection/works/813",
-      "note": "Ron Herron’s Archigram proposal dates to 1964; MoMA’s separate Walking City on the Ocean drawing dates to 1966. MoMA explicitly describes the mobile pods as commentary rather than a serious structural proposition. Keep that conceptual scope; no invented cancellation, client, funding or engineering failure. These are real authored architectural proposals, not vehicles from a fictional franchise. Before promotion review catalogue fit against the rule excluding fictional designs and select one documented version.",
-      "sources": [
-        {
-          "name": "Centre Pompidou, Walking City",
-          "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/c5z5bG",
-          "supports": "1964 architectural drawing and Ron Herron attribution."
-        },
-        {
-          "name": "M+ Archigram Archive",
-          "url": "https://www.mplus.org.hk/en/collection/archives/archigram-archive-ca36/",
-          "supports": "Preserved archive including Walking City (1964)."
-        }
-      ],
-      "visual_brief": "Giant ovoid pods on articulated legs, from a single museum drawing; no invented machinery presented as feasible engineering.",
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 3,
-        "visual_strength": 5,
-        "story_strength": 4,
-        "evidence_clarity": 5,
-        "catalogue_fit": 4,
-        "total": 21,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Provisional editorial score. Primary sources gathered; scope, artwork and final review remain pending."
-      },
-      "researched_on": "2026-10-07"
-    },
-    {
       "id": "jupiter-icy-moons-orbiter",
       "name": "JUPITER ICY MOONS ORBITER",
       "proposal_period": "Study before 2006*",
@@ -559,6 +513,47 @@
         "note": "Strong formation-flying visual and life-search story with explicit ESA status; public recognition is limited and several space proposals already exist."
       },
       "visual_brief": "Separate collector telescopes and beam-combining hub; document one studied configuration rather than mixing eras."
+    },
+    {
+      "id": "guggenheim-helsinki",
+      "name": "GUGGENHEIM HELSINKI",
+      "proposal_period": "2015–2016*",
+      "proposal_year": "2015",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Winning design",
+      "caption": "A waterfront museum won the competition. The city voted not to build it.",
+      "why_unbuilt": "Helsinki City Council rejected the implementation proposal on 30 November 2016.",
+      "what_remains": "The winning competition design, renderings, model photographs and municipal decision records survive.",
+      "source_name": "Helsinki City Council — decision §306, 30 November 2016",
+      "source_url": "https://www.hel.fi/static/public/hela/Kaupunginvaltuusto/Suomi/Paatoshistoria/2016/Kanslia_2016-11-30_Kvsto_21_Pk/2F6CB8C1-485D-C014-86D7-58DD4A200002/Guggenheim_Helsinki_-taidemuseohankkeen_toteuttami.html",
+      "note": "Checked 19 October 2026. The council minutes explicitly reject the implementation proposal, 53 votes to 32. Moreau Kusunoki identifies its Art in the City design as the 2015 winning competition entry. The period refers to that design and decision, not the earlier 2011 feasibility process. Presentation models, images and competition exhibitions are not a completed museum or operational prototype; no full museum was constructed. Later South Harbour projects are separate proposals.",
+      "sources": [
+        {
+          "name": "Moreau Kusunoki — Guggenheim Helsinki",
+          "url": "https://moreaukusunoki.com/project/guggenheim-helsinki/",
+          "supports": "Winning 2015 design and its architectural configuration."
+        }
+      ],
+      "researched_on": "2026-10-19",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 4,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 22,
+        "status": "provisional",
+        "rated_on": "2026-10-19",
+        "note": "International museum identity and clear municipal rejection record; fragmented low pavilions are less instantly recognisable than a single monumental tower."
+      },
+      "visual_brief": "Nine low dark timber pavilions and one lighthouse-like tower at Helsinki South Harbour; clearly an unbuilt winning design, not a photograph of a completed museum."
     }
   ]
 }
