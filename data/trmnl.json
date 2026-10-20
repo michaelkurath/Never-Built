@@ -874,6 +874,54 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/walking-city-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
       "image_alt": "Artistic monochrome interpretation of an unbuilt Walking City pod with faceted roof volumes and telescopic supports."
+    },
+    {
+      "id": "guggenheim-helsinki",
+      "name": "GUGGENHEIM HELSINKI",
+      "proposal_period": "2015–2016*",
+      "proposal_year": "2015",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Winning design",
+      "caption": "A waterfront museum won the competition. The city voted not to build it.",
+      "why_unbuilt": "Helsinki City Council rejected the implementation proposal on 30 November 2016.",
+      "what_remains": "The winning competition design, renderings, model photographs and municipal decision records survive.",
+      "source_name": "Helsinki City Council — decision §306, 30 November 2016",
+      "source_url": "https://www.hel.fi/static/public/hela/Kaupunginvaltuusto/Suomi/Paatoshistoria/2016/Kanslia_2016-11-30_Kvsto_21_Pk/2F6CB8C1-485D-C014-86D7-58DD4A200002/Guggenheim_Helsinki_-taidemuseohankkeen_toteuttami.html",
+      "note": "Rechecked 20 October 2026. Helsinki City Council minutes §306 explicitly reject implementation on 30 November 2016, 53–32. Moreau Kusunoki still identifies Art in the City as the 2015 winning competition entry. The selected period concerns that design and decision, not the earlier feasibility process. Renderings, model photographs and competition exhibitions are presentation material, not a completed museum or operational prototype. No full museum was constructed; later South Harbour projects are separate designs. The asterisk qualifies the selected proposal period, not a construction interval.",
+      "sources": [
+        {
+          "name": "Moreau Kusunoki — Guggenheim Helsinki",
+          "url": "https://moreaukusunoki.com/project/guggenheim-helsinki/",
+          "supports": "Winning 2015 design and its architectural configuration."
+        }
+      ],
+      "researched_on": "2026-10-20",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 4,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-10-20",
+        "note": "Source, scope and responsive artwork review completed 20 October 2026. Hosted device renders and final visual review remain mandatory merge gates."
+      },
+      "visual_brief": "Nine low dark timber pavilions and one lighthouse-like tower at Helsinki South Harbour; clearly an unbuilt winning design, not a photograph of a completed museum.",
+      "exhibit": "020",
+      "verified_on": "2026-10-20",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/guggenheim-helsinki-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/guggenheim-helsinki-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/guggenheim-helsinki-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome reconstruction of the unbuilt Guggenheim Helsinki pavilion cluster and taller glazed-crown tower."
     }
   ]
 }

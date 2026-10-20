@@ -25,9 +25,9 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | Sea Dragon | 1962–1963 | Design study |
 | Project Habbakuk | 1942–1943 | Prototype test |
 
-Nineteen live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Twenty live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Guggenheim Helsinki proposal (22/25). Walking City is exhibit 019: an architectural thought experiment, not an engineered or contracted building project. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. Boeing 2707 is exhibit 004; Fun Palace and Project Daedalus are exhibits 005 and 006. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-19.md).
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Dome over Manhattan proposal (23/25). Guggenheim Helsinki is exhibit 020; its competition models and renderings are not a completed museum. Walking City (019) remains explicitly an architectural thought experiment. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-20.md).
 
 ## TRMNL setup
 
@@ -81,4 +81,4 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **19 live exhibits and 13 candidates**. See [19 October review](docs/PROMOTION_2026-10-19.md).
+Latest collection update: **20 live exhibits and 13 candidates**. See [20 October review](docs/PROMOTION_2026-10-20.md).
