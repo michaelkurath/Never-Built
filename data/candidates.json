@@ -515,27 +515,27 @@
       "visual_brief": "Separate collector telescopes and beam-combining hub; document one studied configuration rather than mixing eras."
     },
     {
-      "id": "guggenheim-helsinki",
-      "name": "GUGGENHEIM HELSINKI",
-      "proposal_period": "2015–2016*",
-      "proposal_year": "2015",
+      "id": "dome-over-manhattan",
+      "name": "DOME OVER MANHATTAN",
+      "proposal_period": "1960 concept",
+      "proposal_year": "1960",
       "category": "Architecture",
       "category_key": "architecture",
-      "stage": "Winning design",
-      "caption": "A waterfront museum won the competition. The city voted not to build it.",
-      "why_unbuilt": "Helsinki City Council rejected the implementation proposal on 30 November 2016.",
-      "what_remains": "The winning competition design, renderings, model photographs and municipal decision records survive.",
-      "source_name": "Helsinki City Council — decision §306, 30 November 2016",
-      "source_url": "https://www.hel.fi/static/public/hela/Kaupunginvaltuusto/Suomi/Paatoshistoria/2016/Kanslia_2016-11-30_Kvsto_21_Pk/2F6CB8C1-485D-C014-86D7-58DD4A200002/Guggenheim_Helsinki_-taidemuseohankkeen_toteuttami.html",
-      "note": "Checked 19 October 2026. The council minutes explicitly reject the implementation proposal, 53 votes to 32. Moreau Kusunoki identifies its Art in the City design as the 2015 winning competition entry. The period refers to that design and decision, not the earlier 2011 feasibility process. Presentation models, images and competition exhibitions are not a completed museum or operational prototype; no full museum was constructed. Later South Harbour projects are separate proposals.",
+      "stage": "Paper proposal",
+      "caption": "A geodesic shell would tame Midtown’s weather. Manhattan never went under glass.",
+      "why_unbuilt": "It remained an environmental-control proposal, not a realised enclosure over Manhattan.",
+      "what_remains": "A 1960 photographic montage, drawings and later exhibition visualisations preserve the proposal.",
+      "source_name": "The Glass House — Never Built New York",
+      "source_url": "https://theglasshouse.org/whats-on/never-built-new-york/",
+      "note": "Checked 20 October 2026. The Glass House’s Never Built New York programme identifies a 1960 photograph with dome overlay, credited to Stanford Special Collections and Fuller’s estate, within an exhibition of unrealised projects. BIE independently identifies Fuller’s 1960 Manhattan proposal and contrasts it with his built 1967 Montreal Expo pavilion. Shoji Sadao is associated with the concept in architectural records. No Manhattan enclosure or functioning full-scale prototype existed; the Expo dome was a separate building, not partial completion. No unsupported cancellation date, construction contract or funding explanation is asserted.",
       "sources": [
         {
-          "name": "Moreau Kusunoki — Guggenheim Helsinki",
-          "url": "https://moreaukusunoki.com/project/guggenheim-helsinki/",
-          "supports": "Winning 2015 design and its architectural configuration."
+          "name": "Bureau International des Expositions — World Expos and Architectonic Structures",
+          "url": "https://webcenter.bie-paris.org/site/en/latest/infocus/entry/world-expos-and-architectonic-structures-an-intimate-relationship",
+          "supports": "1960 environmental-control proposal distinguished from the built Expo 1967 pavilion."
         }
       ],
-      "researched_on": "2026-10-19",
+      "researched_on": "2026-10-20",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -544,16 +544,16 @@
       },
       "rating": {
         "recognition": 4,
-        "visual_strength": 4,
+        "visual_strength": 5,
         "story_strength": 4,
         "evidence_clarity": 5,
         "catalogue_fit": 5,
-        "total": 22,
+        "total": 23,
         "status": "provisional",
-        "rated_on": "2026-10-19",
-        "note": "International museum identity and clear municipal rejection record; fragmented low pavilions are less instantly recognisable than a single monumental tower."
+        "rated_on": "2026-10-20",
+        "note": "Recognisable skyline and geodesic shell, direct museum context for unrealised status and a clear distinction from Fuller’s separate built domes."
       },
-      "visual_brief": "Nine low dark timber pavilions and one lighthouse-like tower at Helsinki South Harbour; clearly an unbuilt winning design, not a photograph of a completed museum."
+      "visual_brief": "Original oblique view of a transparent geodesic dome spanning part of the 1960 Midtown skyline; not Montreal’s Biosphere, a built enclosure or an exact engineering diagram."
     }
   ]
 }
