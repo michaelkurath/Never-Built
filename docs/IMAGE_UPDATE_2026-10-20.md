@@ -10,6 +10,7 @@ Use case: historical-scene. Asset type: NEVER BUILT e-paper museum exhibit recon
 
 - `assets/exhibits/responsive-v2/guggenheim-helsinki-master-2x1.jpg`: 1600×800, 8-bit grayscale JPEG, quality 88.
 - `assets/exhibits/responsive-v2/guggenheim-helsinki-standard-4x3.jpg`: 1200×900, 8-bit grayscale JPEG, quality 88.
+- Initial device review found too much peripheral sky and water. The generated 1774×887 source is cropped to 1180×590 at +350+250 before both exports. This tightens the composition while preserving the whole museum ensemble and tower; peripheral skyline and boats are not identifying subjects. Fresh hosted renders must be reviewed before merge.
 - Standard uses white contain padding to preserve the whole waterfront ensemble and tower. Checked against the architect's published renderings: low dark timber volumes, light ground-floor glazing and one taller rectangular tower with a glazed sloping crown. Exact roof geometry, pavilion arrangement, surrounding skyline and fine details remain interpretive; no source photograph/rendering is redistributed.
 - Both exports visually inspected; no pre-dithering. Hosted OG 1-bit and X 4-bit rendering remains the final readability check.
 - Merge requires all 12 Full/Half Horizontal/Half Vertical/Quadrant OG/X-landscape/X-portrait layouts to pass visual review.

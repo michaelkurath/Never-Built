@@ -12,4 +12,6 @@ New candidate Dome over Manhattan: The Glass House identifies a 1960 photograph 
 
 Sources, concise text and responsive export scope reviewed on 20 October 2026. Complete artwork prompt and export decisions: [image update](IMAGE_UPDATE_2026-10-20.md).
 
+Initial device review prompted a tighter museum crop to improve compact-layout legibility; a fresh render run and all 12 layout approvals are required on the corrected assets.
+
 Required before merge: live/candidate validation; Saved State and compact Serverless tests; website build; JavaScript syntax; diff checks; responsive-asset and catalogue/installation-identity tests; hosted trmnlp lint and rendering; visual inspection of all 12 relevant OG/X-landscape/X-portrait layouts. Final CI and screenshot approval will be recorded in the PR. This document alone does not authorise a merge.
