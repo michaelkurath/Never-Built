@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 21 October 2026 — Dome over Manhattan
+
+Original built-in generated artwork: `dome-over-manhattan-master-2x1.jpg` (1600×800) and `dome-over-manhattan-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete dome arc and skyline in 4:3. Full prompt, model/prototype qualification and export decisions: [image update](IMAGE_UPDATE_2026-10-21.md).
+
 ## 20 October 2026 — Guggenheim Helsinki
 
 Original built-in generated artwork: `guggenheim-helsinki-master-2x1.jpg` (1600×800) and `guggenheim-helsinki-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. Full prompt, subject qualification and crop/padding decisions: [image update](IMAGE_UPDATE_2026-10-20.md).
