@@ -922,6 +922,59 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/guggenheim-helsinki-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
       "image_alt": "Artistic monochrome reconstruction of the unbuilt Guggenheim Helsinki pavilion cluster and taller glazed-crown tower."
+    },
+    {
+      "id": "dome-over-manhattan",
+      "name": "DOME OVER MANHATTAN",
+      "proposal_period": "1960 concept",
+      "proposal_year": "1960",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Paper proposal",
+      "caption": "A geodesic shell would tame Midtown’s weather. Manhattan never went under glass.",
+      "why_unbuilt": "It remained an environmental-control proposal, not a realised enclosure over Manhattan.",
+      "what_remains": "A 1960 photographic montage, drawings and later exhibition visualisations preserve the proposal.",
+      "source_name": "The Glass House — Never Built New York",
+      "source_url": "https://theglasshouse.org/whats-on/never-built-new-york/",
+      "note": "Rechecked 21 October 2026. The Glass House and Queens Museum place Dome over Manhattan in an exhibition of projects that never came to be. The Bureau International des Expositions identifies Fuller’s 1960 proposal to cover part of Manhattan for environmental control and separately documents his built United States Pavilion at Expo 1967 Montreal. No Manhattan enclosure or functioning full-scale prototype existed; the Montreal pavilion was a separate building, not partial completion. The surviving montage, drawings, models and later visualisations are presentation material. No unsupported cancellation date, contract or funding cause is asserted.",
+      "sources": [
+        {
+          "name": "Bureau International des Expositions — World Expos and Architectonic Structures",
+          "url": "https://bureauinternationaldesexpositions.bie-paris.org/site/en/latest/infocus/entry/world-expos-and-architectonic-structures-an-intimate-relationship",
+          "supports": "1960 environmental-control proposal distinguished from Fuller’s built Expo 1967 pavilion."
+        },
+        {
+          "name": "Queens Museum — Never Built New York",
+          "url": "https://queensmuseum.org/exhibition/never-built-new-york/",
+          "supports": "Museum context and 1960 Dome over Manhattan identification."
+        }
+      ],
+      "researched_on": "2026-10-21",
+      "verified_on": "2026-10-21",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-10-21",
+        "note": "Museum and institutional source scope plus responsive artistic reconstruction reviewed 21 October 2026; hosted device-layout review remains a mandatory merge gate."
+      },
+      "visual_brief": "Original oblique view of a transparent geodesic dome spanning a 1960 Midtown skyline; not Montreal’s Biosphere, a built enclosure or an exact engineering diagram.",
+      "exhibit": "021",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/dome-over-manhattan-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/dome-over-manhattan-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/dome-over-manhattan-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome reconstruction of a vast transparent geodesic dome enclosing a mid-century Midtown Manhattan skyline."
     }
   ]
 }
