@@ -515,27 +515,27 @@
       "visual_brief": "Separate collector telescopes and beam-combining hub; document one studied configuration rather than mixing eras."
     },
     {
-      "id": "broadacre-city",
-      "name": "BROADACRE CITY",
-      "proposal_period": "1934–1959*",
-      "proposal_year": "1934",
-      "category": "Urbanism",
+      "id": "plan-voisin",
+      "name": "PLAN VOISIN",
+      "proposal_period": "1925",
+      "proposal_year": "1925",
+      "category": "Architecture",
       "category_key": "architecture",
-      "stage": "Master plan",
-      "caption": "Frank Lloyd Wright spread an ideal American city across the landscape. It remained a model.",
-      "why_unbuilt": "Broadacre City was a theoretical decentralised plan, not an implemented municipal development.",
-      "what_remains": "A large 1934–1935 model, master-plan drawings, component studies and later revisions preserve the concept.",
-      "source_name": "Museum of Modern Art",
-      "source_url": "https://www.moma.org/collection/works/161773",
-      "note": "Checked 21 October 2026. MoMA identifies Broadacre City as a proposal developed from the 1930s, while the Frank Lloyd Wright archive location list catalogues its master plan, model and individual components as unbuilt projects. The 12-foot model and surviving drawings are presentation material, not a completed city or operational prototype. Some later Wright buildings echo individual ideas, but no city implemented the complete plan. The period reflects Wright’s continuing revisions, not construction.",
+      "stage": "Urban plan",
+      "caption": "Le Corbusier would replace central Paris with glass towers. The polemic stayed on paper.",
+      "why_unbuilt": "Plan Voisin was a provocative urban proposal, not an approved or implemented redevelopment programme.",
+      "what_remains": "Plans, axonometric drawings, a diorama and publications preserve the 1925 proposal.",
+      "source_name": "Fondation Le Corbusier",
+      "source_url": "https://www.fondationlecorbusier.fr/oeuvre-architecture/projets-plan-voisin-paris-france-1925/",
+      "note": "Checked 22 October 2026. Fondation Le Corbusier identifies Plan Voisin as a 1925 Paris project and preserves its drawings; MoMA explicitly states that it was never built and describes it as a polemical proposal for transforming central Paris. Drawings, publications and the exhibition diorama are presentation material, not completed buildings, demolition works or an operational prototype. Later modernist business districts influenced by similar ideas are not partial completion of this project.",
       "sources": [
         {
-          "name": "Columbia University Avery Library — Frank Lloyd Wright drawing locations",
-          "url": "https://www1.columbia.edu/sec/cu/libraries/inside/avery_assets/FLWFA_DWGS_LOCATION.pdf",
-          "supports": "Archive inventory explicitly labels the Broadacre master plan, model and components as unbuilt projects."
+          "name": "Museum of Modern Art — Plan Voisin for Paris",
+          "url": "https://www.moma.org/audio/playlist/269/3495",
+          "supports": "1925 proposal, paper medium, polemical intent and explicit statement that the plan was never built."
         }
       ],
-      "researched_on": "2026-10-21",
+      "researched_on": "2026-10-22",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -550,10 +550,10 @@
         "catalogue_fit": 5,
         "total": 24,
         "status": "provisional",
-        "rated_on": "2026-10-21",
-        "note": "Major architectural vision with an exceptional surviving model and explicit archival unbuilt classification; model and later influence require careful distinction."
+        "rated_on": "2026-10-22",
+        "note": "Canonical unrealised urban vision with direct foundation documentation, an explicit MoMA unbuilt statement and exceptional visual potential."
       },
-      "visual_brief": "Aerial relief-model interpretation of dispersed one-acre homesteads, farms, civic towers and highways; avoid depicting a completed real city."
+      "visual_brief": "Axonometric interpretation of cruciform glass towers, open parkland and a gridded transport system imposed beside recognisable old Paris; clearly a proposal, not a completed district."
     }
   ]
 }

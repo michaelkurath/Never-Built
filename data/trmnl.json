@@ -975,6 +975,54 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/dome-over-manhattan-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
       "image_alt": "Artistic monochrome reconstruction of a vast transparent geodesic dome enclosing a mid-century Midtown Manhattan skyline."
+    },
+    {
+      "id": "broadacre-city",
+      "name": "BROADACRE CITY",
+      "proposal_period": "1934–1959*",
+      "proposal_year": "1934",
+      "category": "Urbanism",
+      "category_key": "architecture",
+      "stage": "Master plan",
+      "caption": "Frank Lloyd Wright spread an ideal American city across the landscape. It remained a model.",
+      "why_unbuilt": "Broadacre City was a theoretical decentralised plan, not an implemented municipal development.",
+      "what_remains": "A large 1934–1935 model, master-plan drawings, component studies and later revisions preserve the concept.",
+      "source_name": "Museum of Modern Art",
+      "source_url": "https://www.moma.org/collection/works/161773",
+      "note": "Rechecked 22 October 2026. MoMA identifies Broadacre City as a proposed development concept and preserves its 1934–1935 painted wood, cardboard and paper model; its current gallery label notes that Wright sought a commission but the component farm units were never built. The Frank Lloyd Wright archive separately catalogues master-plan and component studies as unbuilt projects. The approximately twelve-foot model and surviving drawings are presentation material, not a completed city or operational prototype. Later buildings and planning ideas influenced by Wright do not amount to implementation of the full master plan. The period marks continuing revisions, not construction. Artwork is an original relief-model interpretation rather than an exact copy of the museum object.",
+      "sources": [
+        {
+          "name": "Columbia University Avery Library — Frank Lloyd Wright drawing locations",
+          "url": "https://www1.columbia.edu/sec/cu/libraries/inside/avery_assets/FLWFA_DWGS_LOCATION.pdf",
+          "supports": "Archive inventory explicitly labels the Broadacre master plan, model and components as unbuilt projects."
+        }
+      ],
+      "researched_on": "2026-10-22",
+      "verified_on": "2026-10-22",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-22",
+        "note": "Major architectural vision with a current museum record, explicit unbuilt archive classification and original responsive artwork reviewed 22 October 2026; hosted device-layout review remains a mandatory merge gate."
+      },
+      "visual_brief": "Aerial relief-model interpretation of dispersed one-acre homesteads, farms, civic towers and highways; not a completed real city.",
+      "exhibit": "022",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/broadacre-city-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/broadacre-city-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/broadacre-city-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome relief-model interpretation of Broadacre City's dispersed farms, highways, civic clusters and isolated towers."
     }
   ]
 }
