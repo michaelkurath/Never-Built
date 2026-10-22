@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 22 October 2026 — Broadacre City
+
+Original built-in generated artwork: `broadacre-city-master-2x1.jpg` (1600×800) and `broadacre-city-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete relief-model landscape, highway crossing, farms and isolated civic towers in 4:3. Full prompt, model-versus-built-city qualification and export decisions: [image update](IMAGE_UPDATE_2026-10-22.md).
+
 ## 21 October 2026 — Dome over Manhattan
 
 Original built-in generated artwork: `dome-over-manhattan-master-2x1.jpg` (1600×800) and `dome-over-manhattan-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete dome arc and skyline in 4:3. Full prompt, model/prototype qualification and export decisions: [image update](IMAGE_UPDATE_2026-10-21.md).
