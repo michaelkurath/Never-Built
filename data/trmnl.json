@@ -1023,6 +1023,33 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/broadacre-city-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
       "image_alt": "Artistic monochrome relief-model interpretation of Broadacre City's dispersed farms, highways, civic clusters and isolated towers."
+    },
+    {
+      "id": "plan-voisin",
+      "name": "PLAN VOISIN",
+      "proposal_period": "1925",
+      "proposal_year": "1925",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Urban plan",
+      "caption": "Le Corbusier would replace central Paris with glass towers. The polemic stayed on paper.",
+      "why_unbuilt": "Plan Voisin was a provocative urban proposal, not an approved or implemented redevelopment programme.",
+      "what_remains": "Plans, axonometric drawings, a diorama and publications preserve the 1925 proposal.",
+      "source_name": "Fondation Le Corbusier",
+      "source_url": "https://www.fondationlecorbusier.fr/oeuvre-architecture/projets-plan-voisin-paris-france-1925/",
+      "note": "Rechecked 23 October 2026. Fondation Le Corbusier identifies Plan Voisin as a 1925 Paris project and lists it among Le Corbusier’s unrealized projects. MoMA explicitly states that it was never built and describes it as a polemical proposal for transforming central Paris. Drawings, publications and the exhibition diorama are presentation material, not completed buildings, demolition works or an operational prototype. Later modernist districts influenced by similar ideas are not partial completion of this project. Artwork is an original model-like reconstruction, not an exact copy of an archival drawing.",
+      "sources": [{"name": "Museum of Modern Art — Plan Voisin for Paris", "url": "https://www.moma.org/audio/playlist/269/3495", "supports": "1925 proposal, paper medium, polemical intent and explicit statement that the plan was never built."}],
+      "researched_on": "2026-10-23",
+      "verified_on": "2026-10-23",
+      "review": {"fact_check": "approved", "text_review": "approved", "image_review": "approved", "final_approval": "approved"},
+      "rating": {"recognition": 4, "visual_strength": 5, "story_strength": 5, "evidence_clarity": 5, "catalogue_fit": 5, "total": 24, "status": "reviewed", "rated_on": "2026-10-23", "note": "Canonical unrealised urban vision, explicit institutional unbuilt evidence and original responsive artwork reviewed 23 October 2026; hosted device-layout review remains a mandatory merge gate."},
+      "visual_brief": "Axonometric interpretation of cruciform glass towers, open parkland and a gridded transport system imposed beside recognisable old Paris; clearly a proposal, not a completed district.",
+      "exhibit": "023",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/plan-voisin-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/plan-voisin-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/plan-voisin-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome model-like reconstruction of Plan Voisin’s cruciform towers and geometric parkland beside old Paris and the Seine."
     }
   ]
 }
