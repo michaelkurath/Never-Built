@@ -1050,6 +1050,33 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/plan-voisin-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
       "image_alt": "Artistic monochrome model-like reconstruction of Plan Voisin’s cruciform towers and geometric parkland beside old Paris and the Seine."
+    },
+    {
+      "id": "volkshalle",
+      "name": "GREAT HALL (VOLKSHALLE)",
+      "proposal_period": "1930s–1940s*",
+      "proposal_year": "1937",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Plans and model",
+      "caption": "A colossal domed hall was drawn for the Nazi capital. It never rose beyond plans and models.",
+      "why_unbuilt": "The regime’s Germania programme collapsed during the Second World War before the hall was constructed.",
+      "what_remains": "Architectural drawings, photographs of planning models and a separate heavy-load test structure document the programme.",
+      "source_name": "Danish Architecture Center",
+      "source_url": "https://dac.dk/en/magazine/nazi-architecture-and-propaganda-hitlers-germania",
+      "note": "Rechecked 24 October 2026. The Danish Architecture Center identifies the Volkshalle as the intended centrepiece of Germania, describes its propagandistic purpose and explicitly states that it was never built. Surviving drawings and scale models are presentation material. Berlin’s Schwerbelastungskörper was a separate load-test structure for the proposed triumphal arch, not a prototype or foundation for the hall; built Nazi-era structures elsewhere in Berlin and later film or museum models do not constitute partial completion. The entry treats the architecture critically as totalitarian propaganda. Artwork is an original neutral planning-model interpretation without regime symbols.",
+      "sources": [{"name": "Institution of Engineering and Technology — Hitler’s Impossible City", "url": "https://eandt.theiet.org/2019/04/24/eccentric-engineer-germania-and-hitlers-impossible-city", "supports": "Distinguishes the surviving test structure, plans and models from the unbuilt Great Hall and Germania programme."}],
+      "researched_on": "2026-10-24",
+      "verified_on": "2026-10-24",
+      "review": {"fact_check": "approved", "text_review": "approved", "image_review": "approved", "final_approval": "approved"},
+      "rating": {"recognition": 4, "visual_strength": 5, "story_strength": 5, "evidence_clarity": 5, "catalogue_fit": 5, "total": 24, "status": "reviewed", "rated_on": "2026-10-24", "note": "Explicit institutional unbuilt evidence, careful model-versus-structure qualification, critical framing and original responsive artwork reviewed 24 October 2026; hosted device-layout review remains a mandatory merge gate."},
+      "visual_brief": "Critical monochrome architectural-model view of the immense domed hall at the end of an empty ceremonial axis; no flags, insignia, crowds or celebratory framing.",
+      "exhibit": "024",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/volkshalle-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/volkshalle-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/volkshalle-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Critical monochrome architectural-model interpretation of the unbuilt Great Hall’s immense domed mass at the end of an empty axis."
     }
   ]
 }

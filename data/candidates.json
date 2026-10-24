@@ -515,27 +515,27 @@
       "visual_brief": "Separate collector telescopes and beam-combining hub; document one studied configuration rather than mixing eras."
     },
     {
-      "id": "volkshalle",
-      "name": "GREAT HALL (VOLKSHALLE)",
-      "proposal_period": "1930s–1940s*",
-      "proposal_year": "1937",
+      "id": "saarinen-tribune-tower",
+      "name": "SAARINEN TRIBUNE TOWER",
+      "proposal_period": "1922",
+      "proposal_year": "1922",
       "category": "Architecture",
       "category_key": "architecture",
-      "stage": "Plans and model",
-      "caption": "A colossal domed hall was drawn for the Nazi capital. It never rose beyond plans and models.",
-      "why_unbuilt": "The regime’s Germania programme collapsed during the Second World War before the hall was constructed.",
-      "what_remains": "Architectural drawings, photographs of planning models and a separate heavy-load test structure document the programme.",
-      "source_name": "Danish Architecture Center",
-      "source_url": "https://dac.dk/en/magazine/nazi-architecture-and-propaganda-hitlers-germania",
-      "note": "Checked 23 October 2026. The Danish Architecture Center identifies the Volkshalle as the intended centrepiece of Germania and explicitly states that it was never built. Surviving drawings and scale models are presentation material. Berlin’s Schwerbelastungskörper was a separate load-test structure for the proposed triumphal arch, not a prototype or foundation for the hall; neither it nor later film and museum models constitutes partial completion. The candidate treats the architecture as evidence of totalitarian propaganda and does not celebrate the regime.",
+      "stage": "Contest entry",
+      "caption": "Saarinen’s runner-up skyscraper lost the contest, then influenced the towers that followed.",
+      "why_unbuilt": "Eliel Saarinen’s design placed second; Howells and Hood’s winning Tribune Tower was built instead.",
+      "what_remains": "The competition rendering, published plates and archival records preserve the influential alternative design.",
+      "source_name": "Library of Congress",
+      "source_url": "https://www.loc.gov/item/2017645481/",
+      "note": "Checked 24 October 2026. The Library of Congress identifies Eliel Saarinen’s 1922 Chicago Tribune Tower competition rendering and its second-prize status. The Chicago Architecture Center documents the separate Gothic Revival tower selected and built from the winning Howells and Hood design. Saarinen’s rendering and later interpretive models are presentation material, not a completed Saarinen tower or construction prototype. Buildings influenced by its setbacks do not constitute partial completion of this specific entry.",
       "sources": [
         {
-          "name": "Institution of Engineering and Technology — Hitler’s Impossible City",
-          "url": "https://eandt.theiet.org/2019/04/24/eccentric-engineer-germania-and-hitlers-impossible-city",
-          "supports": "Distinguishes the surviving test structure, plans and models from the unbuilt Great Hall and Germania programme."
+          "name": "Chicago Architecture Center — Tribune Tower",
+          "url": "https://www.architecture.org/online-resources/buildings-of-chicago/tribune-tower",
+          "supports": "Documents the competition and the distinct winning design that was actually constructed."
         }
       ],
-      "researched_on": "2026-10-23",
+      "researched_on": "2026-10-24",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -547,13 +547,13 @@
         "visual_strength": 5,
         "story_strength": 5,
         "evidence_clarity": 5,
-        "catalogue_fit": 5,
-        "total": 24,
+        "catalogue_fit": 4,
+        "total": 23,
         "status": "provisional",
-        "rated_on": "2026-10-23",
-        "note": "Highly distinctive unbuilt monument with explicit institutional evidence and strong model-versus-structure qualification; sensitive subject needs careful contextual framing."
+        "rated_on": "2026-10-24",
+        "note": "Influential runner-up with strong archives, a distinctive stepped silhouette and a clear built-versus-unbuilt comparison; site-name confusion slightly reduces catalogue fit."
       },
-      "visual_brief": "Critical monochrome architectural-model view of the immense domed hall at the end of an empty ceremonial axis; no flags, insignia, crowds or celebratory framing."
+      "visual_brief": "Original graphite competition-board interpretation of Saarinen’s tapered setback skyscraper beside a faint silhouette of the separate built Gothic tower; no copied archival rendering."
     }
   ]
 }
