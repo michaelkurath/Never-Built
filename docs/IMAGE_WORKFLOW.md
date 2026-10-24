@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 24 October 2026 — Great Hall (Volkshalle)
+
+Original built-in generated artwork: `volkshalle-master-2x1.jpg` (1600×800) and `volkshalle-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete dome, drum and neutral model axis in 4:3. Full prompt, critical framing, symbol exclusions and model-versus-built-structure qualification: [image update](IMAGE_UPDATE_2026-10-24.md).
+
 ## 23 October 2026 — Plan Voisin
 
 Original built-in generated artwork: `plan-voisin-master-2x1.jpg` (1600×800) and `plan-voisin-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete model-like aerial view in 4:3, including the cruciform towers, old-city edge and Seine. Full prompt, proposal-versus-built-city qualification and export decisions: [image update](IMAGE_UPDATE_2026-10-23.md).
