@@ -25,9 +25,9 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | Sea Dragon | 1962–1963 | Design study |
 | Project Habbakuk | 1942–1943 | Prototype test |
 
-Twenty-four live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Twenty-five live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Saarinen Tribune Tower proposal (23/25). The Great Hall (Volkshalle) is exhibit 024; its plans and models—and the separate Berlin load-test structure—are not a completed hall. Plan Voisin (023) remains explicitly unrealised. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-24.md).
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Hyperloop One Commercial System proposal (24/25). Saarinen’s Tribune Tower is exhibit 025; its competition rendering and later interpretive models are not a completed Saarinen building, while the distinct Howells and Hood winner was built. The Great Hall (Volkshalle) is exhibit 024. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-25.md).
 
 ## TRMNL setup
 
@@ -81,4 +81,4 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **24 live exhibits and 13 candidates**. See [24 October review](docs/PROMOTION_2026-10-24.md).
+Latest collection update: **25 live exhibits and 13 candidates**. See [25 October review](docs/PROMOTION_2026-10-25.md).
