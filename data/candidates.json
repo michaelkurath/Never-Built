@@ -515,27 +515,27 @@
       "visual_brief": "Separate collector telescopes and beam-combining hub; document one studied configuration rather than mixing eras."
     },
     {
-      "id": "saarinen-tribune-tower",
-      "name": "SAARINEN TRIBUNE TOWER",
-      "proposal_period": "1922",
-      "proposal_year": "1922",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Contest entry",
-      "caption": "Saarinen’s runner-up skyscraper lost the contest, then influenced the towers that followed.",
-      "why_unbuilt": "Eliel Saarinen’s design placed second; Howells and Hood’s winning Tribune Tower was built instead.",
-      "what_remains": "The competition rendering, published plates and archival records preserve the influential alternative design.",
-      "source_name": "Library of Congress",
-      "source_url": "https://www.loc.gov/item/2017645481/",
-      "note": "Checked 24 October 2026. The Library of Congress identifies Eliel Saarinen’s 1922 Chicago Tribune Tower competition rendering and its second-prize status. The Chicago Architecture Center documents the separate Gothic Revival tower selected and built from the winning Howells and Hood design. Saarinen’s rendering and later interpretive models are presentation material, not a completed Saarinen tower or construction prototype. Buildings influenced by its setbacks do not constitute partial completion of this specific entry.",
+      "id": "hyperloop-one-commercial-system",
+      "name": "HYPERLOOP ONE COMMERCIAL SYSTEM",
+      "proposal_period": "2014–2023",
+      "proposal_year": "2014",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Test system",
+      "caption": "Pods carried test passengers through a Nevada tube. No commercial route ever followed.",
+      "why_unbuilt": "Hyperloop One shut down after failing to secure a contract for a working commercial system.",
+      "what_remains": "The Nevada DevLoop test tube, prototype pods, test records and route studies document the programme.",
+      "source_name": "Reuters — Hyperloop One to shut down",
+      "source_url": "https://www.reuters.com/business/autos-transportation/high-speed-transportation-firm-hyperloop-one-shut-down-bloomberg-news-2023-12-21/",
+      "note": "Checked 25 October 2026. Reuters reported that Hyperloop One would close after failing to win any contract to build a working hyperloop, while also recording its 2020 passenger test. The European Commission’s sector study likewise identifies that passenger test as development evidence. The Nevada DevLoop, sleds and pods were experimental hardware, not a fare-carrying intercity route or completed commercial network. Other organisations’ later hyperloop test tracks and research are separate projects and do not complete Hyperloop One’s programme.",
       "sources": [
         {
-          "name": "Chicago Architecture Center — Tribune Tower",
-          "url": "https://www.architecture.org/online-resources/buildings-of-chicago/tribune-tower",
-          "supports": "Documents the competition and the distinct winning design that was actually constructed."
+          "name": "European Commission — Hyperloop sector fact-finding study",
+          "url": "https://transport.ec.europa.eu/document/download/4907d350-6a0b-40ad-aa2c-efbdd1a46f0f_en?filename=Hyperloop_Fact+Finding+study.pdf",
+          "supports": "Documents Hyperloop One’s 2020 passenger test as technology development rather than commercial deployment."
         }
       ],
-      "researched_on": "2026-10-24",
+      "researched_on": "2026-10-25",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -543,17 +543,17 @@
         "final_approval": "pending"
       },
       "rating": {
-        "recognition": 4,
+        "recognition": 5,
         "visual_strength": 5,
         "story_strength": 5,
         "evidence_clarity": 5,
         "catalogue_fit": 4,
-        "total": 23,
+        "total": 24,
         "status": "provisional",
-        "rated_on": "2026-10-24",
-        "note": "Influential runner-up with strong archives, a distinctive stepped silhouette and a clear built-versus-unbuilt comparison; site-name confusion slightly reduces catalogue fit."
+        "rated_on": "2026-10-25",
+        "note": "Highly recognised proposal with a powerful tube-and-pod visual, documented company closure and an unusually clear prototype-versus-commercial-system distinction; fit is moderated because hyperloop research continues elsewhere."
       },
-      "visual_brief": "Original graphite competition-board interpretation of Saarinen’s tapered setback skyscraper beside a faint silhouette of the separate built Gothic tower; no copied archival rendering."
+      "visual_brief": "Cutaway interpretation of a passenger pod inside a long elevated low-pressure tube, with the short Nevada test installation fading into an unbuilt route; distinguish tested hardware from commercial service."
     }
   ]
 }

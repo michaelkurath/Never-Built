@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 25 October 2026 — Saarinen Tribune Tower
+
+Original built-in generated and corrected artwork: `saarinen-tribune-tower-master-2x1.jpg` (1600×800) and `saarinen-tribune-tower-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete tapered model and base in 4:3. Full prompts, correction, archive qualification and built-winning-tower distinction: [image update](IMAGE_UPDATE_2026-10-25.md).
+
 ## 24 October 2026 — Great Hall (Volkshalle)
 
 Original built-in generated artwork: `volkshalle-master-2x1.jpg` (1600×800) and `volkshalle-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete dome, drum and neutral model axis in 4:3. Full prompt, critical framing, symbol exclusions and model-versus-built-structure qualification: [image update](IMAGE_UPDATE_2026-10-24.md).
