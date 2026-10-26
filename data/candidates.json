@@ -515,27 +515,27 @@
       "visual_brief": "Separate collector telescopes and beam-combining hub; document one studied configuration rather than mixing eras."
     },
     {
-      "id": "hyperloop-one-commercial-system",
-      "name": "HYPERLOOP ONE COMMERCIAL SYSTEM",
-      "proposal_period": "2014–2023",
-      "proposal_year": "2014",
-      "category": "Transport",
-      "category_key": "transport",
-      "stage": "Test system",
-      "caption": "Pods carried test passengers through a Nevada tube. No commercial route ever followed.",
-      "why_unbuilt": "Hyperloop One shut down after failing to secure a contract for a working commercial system.",
-      "what_remains": "The Nevada DevLoop test tube, prototype pods, test records and route studies document the programme.",
-      "source_name": "Reuters — Hyperloop One to shut down",
-      "source_url": "https://www.reuters.com/business/autos-transportation/high-speed-transportation-firm-hyperloop-one-shut-down-bloomberg-news-2023-12-21/",
-      "note": "Checked 25 October 2026. Reuters reported that Hyperloop One would close after failing to win any contract to build a working hyperloop, while also recording its 2020 passenger test. The European Commission’s sector study likewise identifies that passenger test as development evidence. The Nevada DevLoop, sleds and pods were experimental hardware, not a fare-carrying intercity route or completed commercial network. Other organisations’ later hyperloop test tracks and research are separate projects and do not complete Hyperloop One’s programme.",
+      "id": "london-garden-bridge",
+      "name": "LONDON GARDEN BRIDGE",
+      "proposal_period": "2013–2017",
+      "proposal_year": "2013",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Planning consent",
+      "caption": "A garden was designed to cross the Thames. The trees never reached the river.",
+      "why_unbuilt": "The trust terminated the project after the Mayor declined guarantees for its maintenance and operation.",
+      "what_remains": "Designs, planning records, reviews and expenditure accounts document the undelivered bridge.",
+      "source_name": "Transport for London — Temple to South Bank footbridge",
+      "source_url": "https://tfl.gov.uk/corporate/publications-and-reports/temple-footbridge",
       "sources": [
         {
-          "name": "European Commission — Hyperloop sector fact-finding study",
-          "url": "https://transport.ec.europa.eu/document/download/4907d350-6a0b-40ad-aa2c-efbdd1a46f0f_en?filename=Hyperloop_Fact+Finding+study.pdf",
-          "supports": "Documents Hyperloop One’s 2020 passenger test as technology development rather than commercial deployment."
+          "name": "Transport for London — Final Garden Bridge costs",
+          "url": "https://tfl.gov.uk/info-for/media/press-releases/2019/february/transport-for-london-publishes-detailed-final-cost-of-the-undelivered-garden-bridge-project",
+          "supports": "Identifies the project as undelivered and records final expenditure rather than a completed bridge."
         }
       ],
-      "researched_on": "2026-10-25",
+      "note": "Checked 26 October 2026. TfL records planning permission in December 2014, the Mayor’s refusal of maintenance and operation guarantees on 28 April 2017, and the trust’s termination decision on 14 August 2017. Its final-cost record describes an undelivered bridge. Drawings, models, planning consent, design contracts and pre-construction expenditure are not a completed crossing or an operational prototype. Other planted bridges or later Thames proposals are separate projects.",
+      "researched_on": "2026-10-26",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -543,17 +543,17 @@
         "final_approval": "pending"
       },
       "rating": {
-        "recognition": 5,
+        "recognition": 4,
         "visual_strength": 5,
         "story_strength": 5,
         "evidence_clarity": 5,
         "catalogue_fit": 4,
-        "total": 24,
+        "total": 23,
         "status": "provisional",
-        "rated_on": "2026-10-25",
-        "note": "Highly recognised proposal with a powerful tube-and-pod visual, documented company closure and an unusually clear prototype-versus-commercial-system distinction; fit is moderated because hyperloop research continues elsewhere."
+        "rated_on": "2026-10-26",
+        "note": "Strong garden-on-a-bridge silhouette, documented termination and public-record evidence; recognition is strongest in Britain and architecture is well represented."
       },
-      "visual_brief": "Cutaway interpretation of a passenger pod inside a long elevated low-pressure tube, with the short Nevada test installation fading into an unbuilt route; distinguish tested hardware from commercial service."
+      "visual_brief": "Original model-like interpretation of a low planted pedestrian deck on flared piers over the Thames; clearly a proposal, not a completed London crossing."
     }
   ]
 }

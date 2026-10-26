@@ -1104,6 +1104,54 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/saarinen-tribune-tower-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
       "image_alt": "Artistic monochrome planning-model interpretation of Saarinen’s unbuilt tapered Tribune Tower competition entry."
+    },
+    {
+      "id": "hyperloop-one-commercial-system",
+      "name": "HYPERLOOP ONE COMMERCIAL SYSTEM",
+      "proposal_period": "2014–2023",
+      "proposal_year": "2014",
+      "category": "Transport",
+      "category_key": "transport",
+      "stage": "Test system",
+      "caption": "Pods carried test passengers through a Nevada tube. No commercial route ever followed.",
+      "why_unbuilt": "Hyperloop One shut down after failing to secure a contract for a working commercial system.",
+      "what_remains": "Test records, photographs, prototype documentation and route studies preserve the programme.",
+      "source_name": "Reuters — Hyperloop One to shut down",
+      "source_url": "https://www.reuters.com/business/autos-transportation/high-speed-transportation-firm-hyperloop-one-shut-down-bloomberg-news-2023-12-21/",
+      "note": "Rechecked 26 October 2026. Reuters reported Hyperloop One’s closure after it failed to win a contract for a working system, and records its 2020 passenger test. The May 2025 European Commission sector study documents the same passenger test and separates development from commercial deployment. The Nevada DevLoop, sleds and pods were real experimental hardware, not a fare-carrying intercity route or completed commercial network. Other organisations’ research does not complete this company’s programme. Artwork is an original simplified cutaway presentation model, not an exact test-pod drawing or evidence of commercial operation.",
+      "sources": [
+        {
+          "name": "European Commission — Hyperloop sector fact-finding study",
+          "url": "https://transport.ec.europa.eu/document/download/4907d350-6a0b-40ad-aa2c-efbdd1a46f0f_en?filename=Hyperloop_Fact+Finding+study.pdf",
+          "supports": "Documents Hyperloop One’s 2020 passenger test as technology development rather than commercial deployment."
+        }
+      ],
+      "researched_on": "2026-10-26",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 5,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-26",
+        "note": "Company-specific unbuilt commercial scope and prototype distinction reverified; original responsive model artwork reviewed. Hosted device-layout review remains a mandatory merge gate."
+      },
+      "visual_brief": "Cutaway interpretation of a passenger pod inside a long elevated low-pressure tube, with the short Nevada test installation fading into an unbuilt route; distinguish tested hardware from commercial service.",
+      "exhibit": "026",
+      "verified_on": "2026-10-26",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Artistic monochrome cutaway presentation model of a test tube and pod illustrating Hyperloop One’s unbuilt commercial-system vision.",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hyperloop-one-commercial-system-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hyperloop-one-commercial-system-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hyperloop-one-commercial-system-standard-4x3.jpg"
     }
   ]
 }
