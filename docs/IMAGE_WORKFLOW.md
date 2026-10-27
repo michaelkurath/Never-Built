@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 27 October 2026 — London Garden Bridge
+
+Original built-in generated artwork: `london-garden-bridge-master-2x1.jpg` (1600×800) and `london-garden-bridge-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. Complete prompt, scope review and crop/export decisions: [image update](IMAGE_UPDATE_2026-10-27.md).
+
 ## 26 October 2026 — Hyperloop One Commercial System
 
 Original built-in generated artwork: `hyperloop-one-commercial-system-master-2x1.jpg` (1600×800) and `hyperloop-one-commercial-system-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. White contain padding preserves the complete short tube, pod, supports and model plinth. Full prompt, corrections, source scope and export decisions: [image update](IMAGE_UPDATE_2026-10-26.md).

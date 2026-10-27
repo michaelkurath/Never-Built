@@ -515,27 +515,32 @@
       "visual_brief": "Separate collector telescopes and beam-combining hub; document one studied configuration rather than mixing eras."
     },
     {
-      "id": "london-garden-bridge",
-      "name": "LONDON GARDEN BRIDGE",
-      "proposal_period": "2013–2017",
-      "proposal_year": "2013",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Planning consent",
-      "caption": "A garden was designed to cross the Thames. The trees never reached the river.",
-      "why_unbuilt": "The trust terminated the project after the Mayor declined guarantees for its maintenance and operation.",
-      "what_remains": "Designs, planning records, reviews and expenditure accounts document the undelivered bridge.",
-      "source_name": "Transport for London — Temple to South Bank footbridge",
-      "source_url": "https://tfl.gov.uk/corporate/publications-and-reports/temple-footbridge",
+      "id": "mars-telecommunications-orbiter",
+      "name": "MARS TELECOM ORBITER (2005)",
+      "proposal_period": "2005: cancelled",
+      "proposal_year": "2005",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Design study",
+      "caption": "Mars was to get a dedicated relay. The spacecraft never made the journey.",
+      "why_unbuilt": "NASA cancelled the original orbiter in 2005 because of budget constraints.",
+      "what_remains": "Concept drawings and mission studies remain; relay work continued through other spacecraft.",
+      "source_name": "NASA Goddard — Tech Trends, Spring 2006",
+      "source_url": "https://www.nasa.gov/wp-content/uploads/2017/11/spg_06_techtrends_final.pdf",
       "sources": [
         {
-          "name": "Transport for London — Final Garden Bridge costs",
-          "url": "https://tfl.gov.uk/info-for/media/press-releases/2019/february/transport-for-london-publishes-detailed-final-cost-of-the-undelivered-garden-bridge-project",
-          "supports": "Identifies the project as undelivered and records final expenditure rather than a completed bridge."
+          "name": "NASA — Fiscal Year 2007 budget",
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/12/o3490366-2007.pdf",
+          "supports": "Records the orbiter and optical communications payload among cancelled or indefinitely deferred activities."
+        },
+        {
+          "name": "Gunter's Space Page — MTO",
+          "url": "https://space.skyrocket.de/doc_sdat/mto.htm",
+          "supports": "Specialist catalogue identifies the planned 2009 dedicated relay and cancelled mission status."
         }
       ],
-      "note": "Checked 26 October 2026. TfL records planning permission in December 2014, the Mayor’s refusal of maintenance and operation guarantees on 28 April 2017, and the trust’s termination decision on 14 August 2017. Its final-cost record describes an undelivered bridge. Drawings, models, planning consent, design contracts and pre-construction expenditure are not a completed crossing or an operational prototype. Other planted bridges or later Thames proposals are separate projects.",
-      "researched_on": "2026-10-26",
+      "note": "Checked 27 October 2026. NASA Goddard's Spring 2006 Tech Trends, printed page 6, states that the Mars Telecommunications Orbiter was cancelled the previous summer for budget constraints; its FY2007 budget also records cancellation/indefinite deferral. The 2009 date was a proposed launch, not a flight. Concept drawings and optical-communications research, including experiments on other probes, are not a completed MTO spacecraft. Later Mars Telecommunications Network proposals are separate programmes, not a revival already built or flown.",
+      "researched_on": "2026-10-27",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -543,17 +548,17 @@
         "final_approval": "pending"
       },
       "rating": {
-        "recognition": 4,
-        "visual_strength": 5,
-        "story_strength": 5,
+        "recognition": 2,
+        "visual_strength": 4,
+        "story_strength": 4,
         "evidence_clarity": 5,
         "catalogue_fit": 4,
-        "total": 23,
+        "total": 19,
         "status": "provisional",
-        "rated_on": "2026-10-26",
-        "note": "Strong garden-on-a-bridge silhouette, documented termination and public-record evidence; recognition is strongest in Britain and architecture is well represented."
+        "rated_on": "2026-10-27",
+        "note": "Excellent primary cancellation evidence and useful dedicated-relay story; lower public recognition and a familiar spacecraft silhouette limit priority."
       },
-      "visual_brief": "Original model-like interpretation of a low planted pedestrian deck on flared piers over the Thames; clearly a proposal, not a completed London crossing."
+      "visual_brief": "Future original engraving of the 2005 dedicated Mars relay concept, with large dish and solar wings; explicitly distinguish concept from flown relay orbiters."
     }
   ]
 }

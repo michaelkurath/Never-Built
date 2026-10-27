@@ -25,9 +25,9 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | Sea Dragon | 1962–1963 | Design study |
 | Project Habbakuk | 1942–1943 | Prototype test |
 
-Twenty-six live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Twenty-seven live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new London Garden Bridge proposal (23/25). Hyperloop One Commercial System is exhibit 026; the real Nevada test installation and passenger trial were not a completed commercial route. Saarinen’s Tribune Tower is exhibit 025. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-26.md).
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Mars Telecommunications Orbiter proposal (19/25). London Garden Bridge is exhibit 027; designs and consent are not a completed crossing. Hyperloop One Commercial System is exhibit 026; the real Nevada test installation and passenger trial were not a completed commercial route. Saarinen’s Tribune Tower is exhibit 025. Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements. See [Boeing review](docs/PROMOTION_2026-10-07.md) and [latest promotion review](docs/PROMOTION_2026-10-27.md).
 
 ## TRMNL setup
 
@@ -81,4 +81,4 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **26 live exhibits and 13 candidates**. See [26 October review](docs/PROMOTION_2026-10-26.md).
+Latest collection update: **27 live exhibits and 13 candidates**. See [27 October review](docs/PROMOTION_2026-10-27.md).

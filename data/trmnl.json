@@ -1152,6 +1152,59 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hyperloop-one-commercial-system-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hyperloop-one-commercial-system-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hyperloop-one-commercial-system-standard-4x3.jpg"
+    },
+    {
+      "id": "london-garden-bridge",
+      "name": "LONDON GARDEN BRIDGE",
+      "proposal_period": "2013–2017",
+      "proposal_year": "2013",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Planning consent",
+      "caption": "A garden was designed to cross the Thames. The trees never reached the river.",
+      "why_unbuilt": "The trust terminated the project after the Mayor declined guarantees for its maintenance and operation.",
+      "what_remains": "Designs, planning records, reviews and expenditure accounts document the undelivered bridge.",
+      "source_name": "Transport for London — Temple to South Bank footbridge",
+      "source_url": "https://tfl.gov.uk/corporate/publications-and-reports/temple-footbridge",
+      "sources": [
+        {
+          "name": "Transport for London — Final Garden Bridge costs",
+          "url": "https://tfl.gov.uk/info-for/media/press-releases/2019/february/transport-for-london-publishes-detailed-final-cost-of-the-undelivered-garden-bridge-project",
+          "supports": "Identifies the project as undelivered and records final expenditure rather than a completed bridge."
+        },
+        {
+          "name": "Rendel — Garden Bridge independent design check",
+          "url": "https://www.rendel-ltd.com/portfolio/garden-bridge/",
+          "supports": "Describes the planted 366-metre proposed footbridge, two main river piers, trusses and copper/nickel soffit."
+        }
+      ],
+      "note": "Rechecked 27 October 2026. TfL records 2014 planning consent, the Mayor's refusal of operating guarantees on 28 April 2017 and termination on 14 August 2017. The independent checking engineer describes the planted deck and two main river piers. Design models, planning consent, contracts and pre-construction spending do not establish a completed Thames crossing. Heatherwick's built Little Island in New York is a separate project. Artwork is an original simplified presentation-model reconstruction, not a photograph or exact engineering drawing.",
+      "researched_on": "2026-10-27",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-10-27",
+        "note": "Strong garden-on-a-bridge silhouette, documented termination and public-record evidence; recognition is strongest in Britain and architecture is well represented."
+      },
+      "visual_brief": "Original model-like interpretation of a low planted pedestrian deck on flared piers over the Thames; clearly a proposal, not a completed London crossing.",
+      "exhibit": "027",
+      "verified_on": "2026-10-27",
+      "image_alt": "Artistic monochrome presentation model of the unbuilt London Garden Bridge, showing a planted pedestrian deck on two flared river piers.",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/london-garden-bridge-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/london-garden-bridge-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/london-garden-bridge-standard-4x3.jpg"
     }
   ]
 }
