@@ -3,52 +3,6 @@
   "review_process_version": 1,
   "candidates": [
     {
-      "id": "newtons-cenotaph",
-      "name": "NEWTON'S CENOTAPH",
-      "proposal_period": "1784",
-      "proposal_year": "1784",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Paper concept",
-      "caption": "A vast sphere imagined for Newton. The monument existed in drawings, not stone.",
-      "why_unbuilt": "A visionary paper project, not a documented construction programme; no specific cancellation is established.",
-      "what_remains": "Six original ink-and-wash drawings are catalogued and digitised by the Bibliothèque nationale de France.",
-      "source_name": "Bibliothèque nationale de France",
-      "source_url": "https://catalogue.bnf.fr/ark:/12148/cb402991186",
-      "note": "BnF verifies attribution, 1784 and six drawings. Library of Congress describes an imaginary cenotaph, but full page retrieval failed; its search record was available. Retain fact_check pending until conceptual/unbuilt status is independently reviewed in a fully accessible institutional account. Do not invent funding failure, structural impossibility, a client or a cancellation date. Cenotaph means an empty memorial, not Newton's actual tomb. No precise diameter claimed in display copy.",
-      "sources": [
-        {
-          "name": "Library of Congress collection record",
-          "url": "https://www.loc.gov/item/2021669836/",
-          "supports": "Imaginary memorial concept; full page inaccessible during this research."
-        },
-        {
-          "name": "BnF individual drawing record",
-          "url": "https://catalogue.bnf.fr/ark:/12148/cb45191199m",
-          "supports": "1784 daytime section drawing."
-        }
-      ],
-      "visual_brief": "Spherical monument on a stepped circular base with cypress trees, derived from the original elevation; keep the complete sphere visible.",
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 3,
-        "visual_strength": 5,
-        "story_strength": 4,
-        "evidence_clarity": 4,
-        "catalogue_fit": 4,
-        "total": 20,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
-      },
-      "researched_on": "2026-10-07"
-    },
-    {
       "id": "inner-thames-estuary-airport",
       "name": "THAMES ESTUARY AIRPORT",
       "proposal_period": "2014 review*",
@@ -559,6 +513,39 @@
         "note": "Excellent primary cancellation evidence and useful dedicated-relay story; lower public recognition and a familiar spacecraft silhouette limit priority."
       },
       "visual_brief": "Future original engraving of the 2005 dedicated Mars relay concept, with large dish and solar wings; explicitly distinguish concept from flown relay orbiters."
+    },
+    {
+      "id": "cardiff-bay-opera-house",
+      "name": "CARDIFF BAY OPERA HOUSE",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "source_name": "Zaha Hadid Foundation",
+      "source_url": "https://www.zhfoundation.com/collections/cardiff-bay-opera-house/",
+      "note": "Checked 30 October 2026. The Foundation explicitly states that the project lost Millennium Commission funding and was never built. Its 1995 paintings and model are design records, not a completed opera house.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "proposal_period": "1994–1995",
+      "proposal_year": "1994",
+      "stage": "Competition",
+      "caption": "The competition was won. The opera house remained a model.",
+      "why_unbuilt": "The project failed to secure Millennium Commission funding.",
+      "what_remains": "Paintings and a 1995 architectural model survive in the Zaha Hadid Foundation collection.",
+      "researched_on": "2026-10-30",
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "provisional",
+        "rated_on": "2026-10-30",
+        "note": "Provisional editorial rating; original artwork and device review required before promotion."
+      }
     }
   ]
 }

@@ -175,3 +175,8 @@ Exports are `chicago-spire-master-2x1.jpg` (1600×800) and `chicago-spire-standa
 ## 17 October 2026 — Atlantropa
 
 Exports are `atlantropa-master-2x1.jpg` (1600×800) and `atlantropa-standard-4x3.jpg` (1200×900). White contain padding preserves the complete Strait of Gibraltar dam concept and the contrast between Atlantic water and the imagined lowered Mediterranean basin. The scene is explicitly counterfactual; archive drawings and later visualisations are not built works. Full prompt and export details: [image update](IMAGE_UPDATE_2026-10-17.md).
+
+
+## 30 October 2026 — NEWTON'S CENOTAPH
+
+Original built-in monochrome artwork. Full prompt and exports: [image record](IMAGE_UPDATE_2026-10-30.md). Inspect all 12 device layouts before merge.
