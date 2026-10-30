@@ -1038,11 +1038,32 @@
       "source_name": "Fondation Le Corbusier",
       "source_url": "https://www.fondationlecorbusier.fr/oeuvre-architecture/projets-plan-voisin-paris-france-1925/",
       "note": "Rechecked 23 October 2026. Fondation Le Corbusier identifies Plan Voisin as a 1925 Paris project and lists it among Le Corbusier’s unrealized projects. MoMA explicitly states that it was never built and describes it as a polemical proposal for transforming central Paris. Drawings, publications and the exhibition diorama are presentation material, not completed buildings, demolition works or an operational prototype. Later modernist districts influenced by similar ideas are not partial completion of this project. Artwork is an original model-like reconstruction, not an exact copy of an archival drawing.",
-      "sources": [{"name": "Museum of Modern Art — Plan Voisin for Paris", "url": "https://www.moma.org/audio/playlist/269/3495", "supports": "1925 proposal, paper medium, polemical intent and explicit statement that the plan was never built."}],
+      "sources": [
+        {
+          "name": "Museum of Modern Art — Plan Voisin for Paris",
+          "url": "https://www.moma.org/audio/playlist/269/3495",
+          "supports": "1925 proposal, paper medium, polemical intent and explicit statement that the plan was never built."
+        }
+      ],
       "researched_on": "2026-10-23",
       "verified_on": "2026-10-23",
-      "review": {"fact_check": "approved", "text_review": "approved", "image_review": "approved", "final_approval": "approved"},
-      "rating": {"recognition": 4, "visual_strength": 5, "story_strength": 5, "evidence_clarity": 5, "catalogue_fit": 5, "total": 24, "status": "reviewed", "rated_on": "2026-10-23", "note": "Canonical unrealised urban vision, explicit institutional unbuilt evidence and original responsive artwork reviewed 23 October 2026; hosted device-layout review remains a mandatory merge gate."},
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-23",
+        "note": "Canonical unrealised urban vision, explicit institutional unbuilt evidence and original responsive artwork reviewed 23 October 2026; hosted device-layout review remains a mandatory merge gate."
+      },
       "visual_brief": "Axonometric interpretation of cruciform glass towers, open parkland and a gridded transport system imposed beside recognisable old Paris; clearly a proposal, not a completed district.",
       "exhibit": "023",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/plan-voisin-standard-4x3.jpg",
@@ -1065,11 +1086,32 @@
       "source_name": "Danish Architecture Center",
       "source_url": "https://dac.dk/en/magazine/nazi-architecture-and-propaganda-hitlers-germania",
       "note": "Rechecked 24 October 2026. The Danish Architecture Center identifies the Volkshalle as the intended centrepiece of Germania, describes its propagandistic purpose and explicitly states that it was never built. Surviving drawings and scale models are presentation material. Berlin’s Schwerbelastungskörper was a separate load-test structure for the proposed triumphal arch, not a prototype or foundation for the hall; built Nazi-era structures elsewhere in Berlin and later film or museum models do not constitute partial completion. The entry treats the architecture critically as totalitarian propaganda. Artwork is an original neutral planning-model interpretation without regime symbols.",
-      "sources": [{"name": "Institution of Engineering and Technology — Hitler’s Impossible City", "url": "https://eandt.theiet.org/2019/04/24/eccentric-engineer-germania-and-hitlers-impossible-city", "supports": "Distinguishes the surviving test structure, plans and models from the unbuilt Great Hall and Germania programme."}],
+      "sources": [
+        {
+          "name": "Institution of Engineering and Technology — Hitler’s Impossible City",
+          "url": "https://eandt.theiet.org/2019/04/24/eccentric-engineer-germania-and-hitlers-impossible-city",
+          "supports": "Distinguishes the surviving test structure, plans and models from the unbuilt Great Hall and Germania programme."
+        }
+      ],
       "researched_on": "2026-10-24",
       "verified_on": "2026-10-24",
-      "review": {"fact_check": "approved", "text_review": "approved", "image_review": "approved", "final_approval": "approved"},
-      "rating": {"recognition": 4, "visual_strength": 5, "story_strength": 5, "evidence_clarity": 5, "catalogue_fit": 5, "total": 24, "status": "reviewed", "rated_on": "2026-10-24", "note": "Explicit institutional unbuilt evidence, careful model-versus-structure qualification, critical framing and original responsive artwork reviewed 24 October 2026; hosted device-layout review remains a mandatory merge gate."},
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "reviewed",
+        "rated_on": "2026-10-24",
+        "note": "Explicit institutional unbuilt evidence, careful model-versus-structure qualification, critical framing and original responsive artwork reviewed 24 October 2026; hosted device-layout review remains a mandatory merge gate."
+      },
       "visual_brief": "Critical monochrome architectural-model view of the immense domed hall at the end of an empty ceremonial axis; no flags, insignia, crowds or celebratory framing.",
       "exhibit": "024",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/volkshalle-standard-4x3.jpg",
@@ -1092,11 +1134,32 @@
       "source_name": "Library of Congress",
       "source_url": "https://www.loc.gov/item/2017645481/",
       "note": "Rechecked 25 October 2026. The Library of Congress identifies Eliel Saarinen’s 1922 Chicago Tribune Tower competition rendering and explicitly records its second-prize status. The Chicago Architecture Center documents the separate Howells and Hood design that won and was built. Saarinen’s rendering and later interpretive models are presentation material, not a completed Saarinen tower or construction prototype. Buildings influenced by its setbacks do not constitute partial completion of this specific entry. Artwork is an original simplified planning-model interpretation rather than a copy of the archival rendering.",
-      "sources": [{"name": "Chicago Architecture Center — Tribune Tower", "url": "https://www.architecture.org/online-resources/buildings-of-chicago/tribune-tower", "supports": "Documents the competition and the distinct winning Howells and Hood design that was constructed."}],
+      "sources": [
+        {
+          "name": "Chicago Architecture Center — Tribune Tower",
+          "url": "https://www.architecture.org/online-resources/buildings-of-chicago/tribune-tower",
+          "supports": "Documents the competition and the distinct winning Howells and Hood design that was constructed."
+        }
+      ],
       "researched_on": "2026-10-25",
       "verified_on": "2026-10-25",
-      "review": {"fact_check": "approved", "text_review": "approved", "image_review": "approved", "final_approval": "approved"},
-      "rating": {"recognition": 4, "visual_strength": 5, "story_strength": 5, "evidence_clarity": 5, "catalogue_fit": 4, "total": 23, "status": "reviewed", "rated_on": "2026-10-25", "note": "Clear institutional competition evidence, explicit distinction from the built winning tower and original responsive artwork reviewed 25 October 2026; hosted device-layout review remains a mandatory merge gate."},
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-10-25",
+        "note": "Clear institutional competition evidence, explicit distinction from the built winning tower and original responsive artwork reviewed 25 October 2026; hosted device-layout review remains a mandatory merge gate."
+      },
       "visual_brief": "Original simplified model interpretation of Saarinen’s broad-base, tapered vertical skyscraper; not the completed neo-Gothic Tribune Tower.",
       "exhibit": "025",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/saarinen-tribune-tower-standard-4x3.jpg",
@@ -1205,6 +1268,64 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/london-garden-bridge-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/london-garden-bridge-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/london-garden-bridge-standard-4x3.jpg"
+    },
+    {
+      "id": "newtons-cenotaph",
+      "name": "NEWTON'S CENOTAPH",
+      "proposal_period": "1784",
+      "proposal_year": "1784",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Paper concept",
+      "caption": "A vast sphere imagined for Newton. The monument existed in drawings, not stone.",
+      "why_unbuilt": "A visionary paper project, not a documented construction programme; no specific cancellation is established.",
+      "what_remains": "Six original ink-and-wash drawings are catalogued and digitised by the Bibliothèque nationale de France.",
+      "source_name": "Bibliothèque nationale de France",
+      "source_url": "https://catalogue.bnf.fr/ark:/12148/cb402991186",
+      "note": "Rechecked 30 October 2026. BnF catalogues the 1784 paper project and original drawings; the scholarly Design Arts Medias account explicitly identifies the cenotaph designs as never constructed. No funding failure, engineering impossibility, client or cancellation date is invented. This is an empty memorial concept, not Newton's tomb. Later models and this artistic reconstruction are not a completed monument.",
+      "sources": [
+        {
+          "name": "Library of Congress collection record",
+          "url": "https://www.loc.gov/item/2021669836/",
+          "supports": "Imaginary memorial concept; full page inaccessible during this research."
+        },
+        {
+          "name": "BnF individual drawing record",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb45191199m",
+          "supports": "1784 daytime section drawing."
+        },
+        {
+          "name": "Design Arts Medias — Landscape cemetery study",
+          "url": "https://www.journal.dampress.org/issues/faire-avec-le-milieu-art-design-et-medialite-du-paysage/le-cimetiere-paysager-contemporain-entre-etats-d%27ame-et-apprehension-de-l%27architecture-comme-espace-sensible",
+          "supports": "Explicitly identifies the 1784 cenotaph designs as never built."
+        }
+      ],
+      "visual_brief": "Spherical monument on a stepped circular base with cypress trees, derived from the original elevation; keep the complete sphere visible.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 4,
+        "catalogue_fit": 4,
+        "total": 20,
+        "status": "reviewed",
+        "rated_on": "2026-10-30",
+        "note": "Editorial score out of 25. Institutional sources researched; qualifications and promotion blockers are recorded in note. Artwork and final review remain pending."
+      },
+      "researched_on": "2026-10-30",
+      "exhibit": "028",
+      "verified_on": "2026-10-30",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/newtons-cenotaph-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/newtons-cenotaph-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/newtons-cenotaph-standard-4x3.jpg",
+      "image_alt": "Original interpretive monochrome illustration of newton's cenotaph, not archival photography.",
+      "image_kind": "ai_artistic_reconstruction"
     }
   ]
 }
