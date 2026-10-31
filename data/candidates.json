@@ -515,37 +515,45 @@
       "visual_brief": "Future original engraving of the 2005 dedicated Mars relay concept, with large dish and solar wings; explicitly distinguish concept from flown relay orbiters."
     },
     {
-      "id": "cardiff-bay-opera-house",
-      "name": "CARDIFF BAY OPERA HOUSE",
+      "id": "the-peak",
+      "name": "THE PEAK",
+      "proposal_period": "1982–1983",
+      "proposal_year": "1982",
       "category": "Architecture",
       "category_key": "architecture",
-      "source_name": "Zaha Hadid Foundation",
-      "source_url": "https://www.zhfoundation.com/collections/cardiff-bay-opera-house/",
-      "note": "Checked 30 October 2026. The Foundation explicitly states that the project lost Millennium Commission funding and was never built. Its 1995 paintings and model are design records, not a completed opera house.",
+      "stage": "Competition",
+      "caption": "A fractured club would hover above Hong Kong. The winning design remained drawings and a model.",
+      "why_unbuilt": "The competition-winning private club was never realised.",
+      "what_remains": "The Zaha Hadid Foundation preserves paintings, drawings, a sketchbook and the 1983 presentation model.",
+      "source_name": "Zaha Hadid Foundation — The Peak",
+      "source_url": "https://zhfoundation.com/collections/the-peak",
+      "note": "Checked 31 October 2026. The Foundation calls The Peak an unbuilt club and identifies its 1983 competition win. MoMA independently describes the winning design as never built. Paintings, drawings and the presentation model are design records, not a completed private club or full-scale structural prototype. Later built projects by Zaha Hadid are separate works. No unsupported cancellation cause is asserted.",
+      "sources": [
+        {
+          "name": "Museum of Modern Art — The Peak Project",
+          "url": "https://www.moma.org/collection/works/202",
+          "supports": "Describes the competition-winning private-club design as never built and distinguishes the painting as a design tool."
+        }
+      ],
+      "researched_on": "2026-10-31",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
         "image_review": "not_started",
         "final_approval": "pending"
       },
-      "proposal_period": "1994–1995",
-      "proposal_year": "1994",
-      "stage": "Competition",
-      "caption": "The competition was won. The opera house remained a model.",
-      "why_unbuilt": "The project failed to secure Millennium Commission funding.",
-      "what_remains": "Paintings and a 1995 architectural model survive in the Zaha Hadid Foundation collection.",
-      "researched_on": "2026-10-30",
       "rating": {
         "recognition": 4,
         "visual_strength": 5,
         "story_strength": 4,
         "evidence_clarity": 5,
-        "catalogue_fit": 5,
-        "total": 23,
+        "catalogue_fit": 3,
+        "total": 21,
         "status": "provisional",
-        "rated_on": "2026-10-30",
-        "note": "Provisional editorial rating; original artwork and device review required before promotion."
-      }
+        "rated_on": "2026-10-31",
+        "note": "Iconic paper-architecture image and excellent museum evidence; architecture and Zaha Hadid are already well represented, reducing catalogue novelty."
+      },
+      "visual_brief": "Layered cantilevered plates and artificial geology above a steep Hong Kong hillside; treat paintings and the model as proposal records, not a built club."
     }
   ]
 }

@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 31 October 2026 — Cardiff Bay Opera House
+
+Original built-in generated artwork: `cardiff-bay-opera-house-master-2x1.jpg` (1600×800) and `cardiff-bay-opera-house-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. The standard asset uses a white contain export to preserve the complete presentation-model silhouette. Complete prompt and export decisions: [image update](IMAGE_UPDATE_2026-10-31.md).
+
 ## 27 October 2026 — London Garden Bridge
 
 Original built-in generated artwork: `london-garden-bridge-master-2x1.jpg` (1600×800) and `london-garden-bridge-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`. Complete prompt, scope review and crop/export decisions: [image update](IMAGE_UPDATE_2026-10-27.md).
