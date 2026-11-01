@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 1 November 2026 — The Peak
+
+Original built-in generated artwork: `the-peak-master-2x1.jpg` (1600×800) and `the-peak-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. A white contain export preserves the complete model terrain and longest cantilevers. The original geometry and viewpoint interpret the proposal as a museum model without copying a Foundation painting, drawing or model photograph. Complete prompt and export decisions: [image update](IMAGE_UPDATE_2026-11-01.md).
+
 ## 31 October 2026 — Cardiff Bay Opera House
 
 Original built-in generated artwork: `cardiff-bay-opera-house-master-2x1.jpg` (1600×800) and `cardiff-bay-opera-house-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. The standard asset uses a white contain export to preserve the complete presentation-model silhouette. Complete prompt and export decisions: [image update](IMAGE_UPDATE_2026-10-31.md).

@@ -515,27 +515,27 @@
       "visual_brief": "Future original engraving of the 2005 dedicated Mars relay concept, with large dish and solar wings; explicitly distinguish concept from flown relay orbiters."
     },
     {
-      "id": "the-peak",
-      "name": "THE PEAK",
-      "proposal_period": "1982–1983",
-      "proposal_year": "1982",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Competition",
-      "caption": "A fractured club would hover above Hong Kong. The winning design remained drawings and a model.",
-      "why_unbuilt": "The competition-winning private club was never realised.",
-      "what_remains": "The Zaha Hadid Foundation preserves paintings, drawings, a sketchbook and the 1983 presentation model.",
-      "source_name": "Zaha Hadid Foundation — The Peak",
-      "source_url": "https://zhfoundation.com/collections/the-peak",
-      "note": "Checked 31 October 2026. The Foundation calls The Peak an unbuilt club and identifies its 1983 competition win. MoMA independently describes the winning design as never built. Paintings, drawings and the presentation model are design records, not a completed private club or full-scale structural prototype. Later built projects by Zaha Hadid are separate works. No unsupported cancellation cause is asserted.",
+      "id": "british-rail-space-vehicle",
+      "name": "BRITISH RAIL SPACE VEHICLE",
+      "proposal_period": "1970–1973",
+      "proposal_year": "1970",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Patent",
+      "caption": "British Rail patented a fusion-powered saucer. It never left the page, let alone the planet.",
+      "why_unbuilt": "The laser-ignited fusion propulsion described in the patent was never developed into a craft.",
+      "what_remains": "Patent GB1310990A preserves the platform, passenger cabin, laser, magnet and fusion-zone diagrams.",
+      "source_name": "UK patent GB1310990A",
+      "source_url": "https://patents.google.com/patent/GB1310990A/en",
+      "note": "Checked 1 November 2026. British Railways Board filed the “Space vehicle” application on 11 December 1970; it was published on 21 March 1973 and later lapsed. The patent describes a passenger platform propelled by laser-ignited thermonuclear fusion. The patent document and diagrams are proposal records, not evidence of a built vehicle, working propulsion prototype or flight test. The colloquial “flying saucer” label is not the patent title.",
       "sources": [
         {
-          "name": "Museum of Modern Art — The Peak Project",
-          "url": "https://www.moma.org/collection/works/202",
-          "supports": "Describes the competition-winning private-club design as never built and distinguishes the painting as a design tool."
+          "name": "UK Intellectual Property Office — historical note",
+          "url": "https://www.linkedin.com/posts/uk-ipo_did-you-know-that-in-the-1970s-british-activity-7334851263404113920-9cih",
+          "supports": "The UK IPO identifies the British Railways Board application and states that it never left the drawing board."
         }
       ],
-      "researched_on": "2026-10-31",
+      "researched_on": "2026-11-01",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -543,17 +543,17 @@
         "final_approval": "pending"
       },
       "rating": {
-        "recognition": 4,
+        "recognition": 3,
         "visual_strength": 5,
-        "story_strength": 4,
+        "story_strength": 5,
         "evidence_clarity": 5,
-        "catalogue_fit": 3,
-        "total": 21,
+        "catalogue_fit": 5,
+        "total": 23,
         "status": "provisional",
-        "rated_on": "2026-10-31",
-        "note": "Iconic paper-architecture image and excellent museum evidence; architecture and Zaha Hadid are already well represented, reducing catalogue novelty."
+        "rated_on": "2026-11-01",
+        "note": "Exceptional archival evidence, visual clarity and institutional incongruity; broad recognition is limited and the catalogue already includes speculative spacecraft."
       },
-      "visual_brief": "Layered cantilevered plates and artificial geology above a steep Hong Kong hillside; treat paintings and the model as proposal records, not a built club."
+      "visual_brief": "A clearly model-like saucer platform with small passenger cabin and abstract engine section; avoid presenting the patent as working hardware or drawing an instructional fusion schematic."
     }
   ]
 }
