@@ -1367,6 +1367,54 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/cardiff-bay-opera-house-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/cardiff-bay-opera-house-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/cardiff-bay-opera-house-standard-4x3.jpg"
+    },
+    {
+      "id": "the-peak",
+      "name": "THE PEAK",
+      "proposal_period": "1982–1983",
+      "proposal_year": "1982",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Competition",
+      "caption": "A fractured club would hover above Hong Kong. The winning design remained drawings and a model.",
+      "why_unbuilt": "The competition-winning private club was never realised.",
+      "what_remains": "The Zaha Hadid Foundation preserves paintings, drawings, a sketchbook and the 1983 presentation model.",
+      "source_name": "Zaha Hadid Foundation — The Peak",
+      "source_url": "https://zhfoundation.com/collections/the-peak",
+      "note": "Rechecked 1 November 2026. The Zaha Hadid Foundation calls The Peak the competition-winning unbuilt club of 1982–1983; MoMA independently describes the private-club design as never built. Paintings, drawings, a sketchbook and the 1983 presentation model are design records, not a completed club or full-scale structural prototype. Later built Zaha Hadid projects are separate works. Artwork is an original model-like interpretation, not a copy of a Foundation work.",
+      "sources": [
+        {
+          "name": "Museum of Modern Art — The Peak Project",
+          "url": "https://www.moma.org/collection/works/202",
+          "supports": "Describes the competition-winning private-club design as never built and distinguishes the painting as a design tool."
+        }
+      ],
+      "researched_on": "2026-11-01",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 3,
+        "total": 21,
+        "status": "reviewed",
+        "rated_on": "2026-11-01",
+        "note": "Iconic paper-architecture image and excellent museum evidence; architecture and Zaha Hadid are already well represented, reducing catalogue novelty."
+      },
+      "visual_brief": "Layered cantilevered plates and artificial geology above a steep Hong Kong hillside; treat paintings and the model as proposal records, not a built club.",
+      "verified_on": "2026-11-01",
+      "image_alt": "Original monochrome architectural-model interpretation of the unbuilt Peak leisure club as stacked cantilevered plates in steep terrain.",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-peak-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-peak-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/the-peak.jpg",
+      "exhibit": "030"
     }
   ]
 }
