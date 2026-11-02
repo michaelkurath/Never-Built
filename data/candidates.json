@@ -320,39 +320,6 @@
       "researched_on": "2026-10-07"
     },
     {
-      "id": "jupiter-icy-moons-orbiter",
-      "name": "JUPITER ICY MOONS ORBITER",
-      "proposal_period": "Study before 2006*",
-      "proposal_year": "2000s",
-      "category": "Space",
-      "category_key": "space",
-      "stage": "Design study",
-      "caption": "A nuclear-electric ship for three icy moons. Its voyage remained on paper.",
-      "why_unbuilt": "NASA cancelled the proposed mission before flight; the cited engineering report records the cancellation.",
-      "what_remains": "NASA technical studies preserve its nuclear power, heat-rejection and electric-propulsion concepts.",
-      "source_name": "NASA Technical Reports Server",
-      "source_url": "https://ntrs.nasa.gov/citations/20060008914",
-      "note": "The 2006 NASA report explicitly describes JIMO as proposed and recently cancelled. It studied Callisto, Ganymede and Europa, with a nuclear heat source and Brayton power conversion for electric thrusters. *The period is deliberately approximate; this source is not used to establish an exact cancellation day or first proposal year. Engineering subsystem research is not a completed JIMO spacecraft. Do not confuse it with ESA’s built JUICE mission.",
-      "researched_on": "2026-10-08",
-      "review": {
-        "fact_check": "approved",
-        "text_review": "pending",
-        "image_review": "pending",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 3,
-        "visual_strength": 5,
-        "story_strength": 5,
-        "evidence_clarity": 5,
-        "catalogue_fit": 3,
-        "total": 21,
-        "status": "provisional",
-        "rated_on": "2026-10-08",
-        "note": "Editorial rating after checking the linked primary source. Image and device review remain pending."
-      }
-    },
-    {
       "id": "lockheed-l-2000",
       "name": "LOCKHEED L-2000",
       "proposal_period": "1966 competition*",
@@ -554,6 +521,47 @@
         "note": "Exceptional archival evidence, visual clarity and institutional incongruity; broad recognition is limited and the catalogue already includes speculative spacecraft."
       },
       "visual_brief": "A clearly model-like saucer platform with small passenger cabin and abstract engine section; avoid presenting the patent as working hardware or drawing an instructional fusion schematic."
+    },
+    {
+      "id": "disney-mineral-king",
+      "name": "DISNEY MINERAL KING",
+      "proposal_period": "1966–1978*",
+      "proposal_year": "1966",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Master plan",
+      "caption": "A vast alpine resort was planned for Mineral King. The valley entered a national park instead.",
+      "why_unbuilt": "Litigation, road-funding refusal and opposition preceded Disney dropping the resort plan.",
+      "what_remains": "Planning records, the approved master plan and court proceedings preserve the unrealised resort.",
+      "source_name": "National Park Service — Mineral King planning history",
+      "source_url": "https://parkplanning.nps.gov/showFile.cfm?projectID=11110&sfid=29634",
+      "note": "Checked 2 November 2026. The National Park Service records a 1966 preliminary planning permit for a year-round resort, later litigation and Disney dropping the plans before Mineral King was added to Sequoia National Park in 1978. Survey permits, approved plans and concept work are proposal records, not a constructed resort, operating ski lift or full-scale building prototype. *The period runs from the preliminary permit to the park addition, not continuous construction.",
+      "sources": [
+        {
+          "name": "Sierra Club v. Morton — US Supreme Court record",
+          "url": "https://www.law.cornell.edu/supremecourt/text/405/727",
+          "supports": "Records the selected Disney proposal, survey permit and 1969 approved master plan."
+        }
+      ],
+      "researched_on": "2026-11-02",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 3,
+        "total": 22,
+        "status": "provisional",
+        "rated_on": "2026-11-02",
+        "note": "Excellent institutional record and memorable conservation outcome; architecture is already heavily represented and any artwork must avoid inventing a definitive plan."
+      },
+      "visual_brief": "Model-like alpine village, ski lifts and parking only after consulting the documented plan; label it as a proposal and do not imply construction began."
     }
   ]
 }
