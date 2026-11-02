@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 2 November 2026 — Jupiter Icy Moons Orbiter
+
+Original built-in generated and accuracy-corrected artwork: `jupiter-icy-moons-orbiter-master-2x1.jpg` (1600×800) and `jupiter-icy-moons-orbiter-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. A white contain export preserves the complete model. The correction replaced solar-cell-like panel textures with light coolant radiators and visible serpentine piping, consistent with a nuclear-electric study. Complete prompts and export decisions: [image update](IMAGE_UPDATE_2026-11-02.md).
+
 ## 1 November 2026 — The Peak
 
 Original built-in generated artwork: `the-peak-master-2x1.jpg` (1600×800) and `the-peak-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. A white contain export preserves the complete model terrain and longest cantilevers. The original geometry and viewpoint interpret the proposal as a museum model without copying a Foundation painting, drawing or model photograph. Complete prompt and export decisions: [image update](IMAGE_UPDATE_2026-11-01.md).

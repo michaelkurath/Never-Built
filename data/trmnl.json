@@ -1415,6 +1415,46 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-peak-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/the-peak.jpg",
       "exhibit": "030"
+    },
+    {
+      "id": "jupiter-icy-moons-orbiter",
+      "name": "JUPITER ICY MOONS ORBITER",
+      "proposal_period": "Study before 2006*",
+      "proposal_year": "2000s",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Design study",
+      "caption": "A nuclear-electric ship for three icy moons. Its voyage remained on paper.",
+      "why_unbuilt": "NASA cancelled the proposed mission before flight; the cited engineering report records the cancellation.",
+      "what_remains": "NASA technical studies preserve its nuclear power, heat-rejection and electric-propulsion concepts.",
+      "source_name": "NASA Technical Reports Server",
+      "source_url": "https://ntrs.nasa.gov/citations/20060008914",
+      "note": "Rechecked 2 November 2026. NASA Technical Memorandum 2005-214034, published in 2006, explicitly calls JIMO a proposed and recently cancelled mission to Callisto, Ganymede and Europa. It documents a nuclear heat source, Brayton power conversion and electric thrusters. Engineering studies and component simulations are not a completed spacecraft, flight prototype or launch. JIMO must not be confused with ESA’s built JUICE spacecraft. Artwork is an original model-like interpretation with radiators shown as coolant panels, not solar arrays.",
+      "researched_on": "2026-11-02",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 3,
+        "total": 21,
+        "status": "reviewed",
+        "rated_on": "2026-11-02",
+        "note": "Editorial rating after checking the linked primary source. Image and device review remain pending."
+      },
+      "image_alt": "Original monochrome museum-model interpretation of the cancelled Jupiter Icy Moons Orbiter with a long truss, coolant radiators, separated power module and electric thrusters.",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/jupiter-icy-moons-orbiter-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/jupiter-icy-moons-orbiter-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/jupiter-icy-moons-orbiter.jpg",
+      "exhibit": "031",
+      "verified_on": "2026-11-02"
     }
   ]
 }
