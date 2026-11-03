@@ -1455,6 +1455,53 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/jupiter-icy-moons-orbiter.jpg",
       "exhibit": "031",
       "verified_on": "2026-11-02"
+    },
+    {
+      "id": "british-rail-space-vehicle",
+      "name": "BRITISH RAIL SPACE VEHICLE",
+      "proposal_period": "1970–1973",
+      "proposal_year": "1970",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Patent",
+      "caption": "British Rail patented a fusion-powered saucer. It never left the drawing board.",
+      "why_unbuilt": "The laser-ignited fusion propulsion described in the patent was never developed into a craft.",
+      "what_remains": "Patent GB1310990A preserves the platform, passenger cabin, laser, magnet and fusion-zone diagrams.",
+      "source_name": "UK patent GB1310990A",
+      "source_url": "https://patents.google.com/patent/GB1310990A/en",
+      "note": "Rechecked 3 November 2026. British Railways Board filed the “Space vehicle” application on 11 December 1970; it was published on 21 March 1973 and later lapsed. The patent describes a platform, passenger cabin and laser-ignited thermonuclear fusion concept. The UK Intellectual Property Office states that it never left the drawing board. Patent sheets and this original museum-model interpretation are proposal records, not a built vehicle, working propulsion prototype or flight test.",
+      "researched_on": "2026-11-03",
+      "verified_on": "2026-11-03",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-11-03",
+        "note": "Exceptional patent evidence, visual clarity and institutional incongruity; broad recognition is limited and the catalogue already includes speculative spacecraft."
+      },
+      "sources": [
+        {
+          "name": "UK Intellectual Property Office — historical note",
+          "url": "https://www.linkedin.com/posts/uk-ipo_did-you-know-that-in-the-1970s-british-activity-7334851263404113920-9cih",
+          "supports": "Identifies the British Railways Board application and states that it never left the drawing board."
+        }
+      ],
+      "image_alt": "Original monochrome museum-model interpretation of the unbuilt British Rail space vehicle patent, shown as one non-functional saucer model on a plinth.",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/british-rail-space-vehicle-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/british-rail-space-vehicle-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/british-rail-space-vehicle.jpg",
+      "exhibit": "032"
     }
   ]
 }

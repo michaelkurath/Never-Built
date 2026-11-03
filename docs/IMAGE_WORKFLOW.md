@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 3 November 2026 — British Rail Space Vehicle
+
+Original built-in generated and corrected artwork: `british-rail-space-vehicle-master-2x1.jpg` (1600×800) and `british-rail-space-vehicle-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. White contain exports preserve the complete non-functional model and plinth. The first generation was rejected because it introduced two secondary saucers; the final version shows exactly one speculative presentation model and no copied patent drawing. Complete prompts and export decisions: [image update](IMAGE_UPDATE_2026-11-03.md).
+
 ## 2 November 2026 — Jupiter Icy Moons Orbiter
 
 Original built-in generated and accuracy-corrected artwork: `jupiter-icy-moons-orbiter-master-2x1.jpg` (1600×800) and `jupiter-icy-moons-orbiter-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. A white contain export preserves the complete model. The correction replaced solar-cell-like panel textures with light coolant radiators and visible serpentine piping, consistent with a nuclear-electric study. Complete prompts and export decisions: [image update](IMAGE_UPDATE_2026-11-02.md).
