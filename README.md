@@ -81,7 +81,7 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **31 live exhibits and 13 candidates**. See [2 November review](docs/PROMOTION_2026-11-02.md).
+Latest collection update: **32 live exhibits and 13 candidates**. British Rail Space Vehicle is exhibit 032; new candidate Tetrahedron City scored 23/25. See [3 November review](docs/PROMOTION_2026-11-03.md).
 
 
 30 October update: NEWTON'S CENOTAPH (028) promoted; new candidate CARDIFF BAY OPERA HOUSE (23/25). Source and artwork record: [review](docs/PROMOTION_2026-10-30.md).
