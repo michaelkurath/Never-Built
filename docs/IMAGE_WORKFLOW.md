@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 4 November 2026 — Tetrahedron City
+
+Original built-in generated artwork: `tetrahedron-city-master-2x1.jpg` (1600×800) and `tetrahedron-city-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. White contain exports preserve the complete lattice tetrahedron, base, harbor opening and neutral model plinth. The original viewpoint does not copy MoMA’s aerial perspective and clearly presents an unbuilt concept model. Complete prompt and export decisions: [image update](IMAGE_UPDATE_2026-11-04.md).
+
 ## 3 November 2026 — British Rail Space Vehicle
 
 Original built-in generated and corrected artwork: `british-rail-space-vehicle-master-2x1.jpg` (1600×800) and `british-rail-space-vehicle-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. White contain exports preserve the complete non-functional model and plinth. The first generation was rejected because it introduced two secondary saucers; the final version shows exactly one speculative presentation model and no copied patent drawing. Complete prompts and export decisions: [image update](IMAGE_UPDATE_2026-11-03.md).
