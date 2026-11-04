@@ -523,27 +523,27 @@
       "visual_brief": "Model-like alpine village, ski lifts and parking only after consulting the documented plan; label it as a proposal and do not imply construction began."
     },
     {
-      "id": "tetrahedron-city",
-      "name": "TETRAHEDRON CITY",
-      "proposal_period": "c. 1968",
-      "proposal_year": "1968",
+      "id": "contemporary-city-three-million",
+      "name": "CONTEMPORARY CITY FOR THREE MILLION",
+      "proposal_period": "1922",
+      "proposal_year": "1922",
       "category": "Architecture",
       "category_key": "architecture",
-      "stage": "Urban proposal",
-      "caption": "A million-person city climbed four triangular faces. The megastructure stayed on paper.",
-      "why_unbuilt": "The immense tetrahedral urban structure remained a radical planning proposal rather than a commissioned city.",
-      "what_remains": "MoMA preserves Fuller and Sadao’s aerial perspective for the Yomiuriland proposal.",
-      "source_name": "MoMA — Tetrahedron City Project",
-      "source_url": "https://www.moma.org/collection/works/863",
+      "stage": "Urban study",
+      "caption": "Three million people, cruciform towers and strict geometry. The manifesto city stayed on paper.",
+      "why_unbuilt": "Le Corbusier made it as a theoretical 1922 urban study, without a real site or construction commission.",
+      "what_remains": "Fondation Le Corbusier preserves plans, drawings and records of the large exhibition diorama.",
+      "source_name": "Fondation Le Corbusier — Contemporary city",
+      "source_url": "https://www.fondationlecorbusier.fr/en/work-architecture/projects-contemporary-city-of-three-million-inhabitants-not-located-1922/",
       "sources": [
         {
-          "name": "SFMOMA — The Utopian Impulse",
-          "url": "https://www.sfmoma.org/event/the-love-song-of-r-buckminster-fuller/",
-          "supports": "Identifies Fuller's related proposed floating tetrahedral city for San Francisco Bay as a visionary project."
+          "name": "Fondation Le Corbusier — Unrealized projects",
+          "url": "https://www.fondationlecorbusier.fr/en/le-corbusier/works/architecture/unrealized-projects/",
+          "supports": "Classifies the Contemporary City among theoretical and otherwise unrealized projects."
         }
       ],
-      "note": "Checked 3 November 2026. MoMA explicitly calls Fuller and Sadao’s radical Yomiuriland urban proposal unbuilt. The museum object is an aerial perspective; related drawings and models are presentation records, not a completed tetrahedral city, inhabited prototype or constructed floating megastructure. Similar later floating-island work is not implementation of this project.",
-      "researched_on": "2026-11-03",
+      "note": "Checked 4 November 2026. The Foundation labels the project “Not located, 1922” and “Projet non réalisé.” The 27-metre Salon d’Automne stand and 100-square-metre diorama were exhibition material, not a built city, inhabited district or full-scale prototype. It must not be conflated with the later Plan Voisin, already in the live catalogue.",
+      "researched_on": "2026-11-04",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -551,17 +551,17 @@
         "final_approval": "pending"
       },
       "rating": {
-        "recognition": 3,
-        "visual_strength": 5,
-        "story_strength": 5,
+        "recognition": 4,
+        "visual_strength": 4,
+        "story_strength": 4,
         "evidence_clarity": 5,
         "catalogue_fit": 5,
-        "total": 23,
+        "total": 22,
         "status": "provisional",
-        "rated_on": "2026-11-03",
-        "note": "Exceptional megastructure silhouette and explicit museum evidence; broad recognition is lower, but it adds a distinct geometric urban-scale proposal."
+        "rated_on": "2026-11-04",
+        "note": "Major modernist urban manifesto with explicit archive classification and strong plan/model imagery; the title is long and must be shortened carefully if promoted."
       },
-      "visual_brief": "An original model-like tetrahedral megastructure rising from a plain presentation base; do not copy MoMA’s perspective or depict an inhabited completed city."
+      "visual_brief": "An original neutral presentation model of cruciform towers, lower housing blocks and strict axial geometry; distinguish it from Plan Voisin and do not copy Foundation drawings."
     }
   ]
 }

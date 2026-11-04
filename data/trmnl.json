@@ -1502,6 +1502,54 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/british-rail-space-vehicle-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/british-rail-space-vehicle.jpg",
       "exhibit": "032"
+    },
+    {
+      "id": "tetrahedron-city",
+      "name": "TETRAHEDRON CITY",
+      "proposal_period": "c. 1968",
+      "proposal_year": "1968",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Urban proposal",
+      "caption": "A million-person city climbed four triangular faces. The megastructure stayed on paper.",
+      "why_unbuilt": "The immense tetrahedral urban structure remained a radical planning proposal rather than a commissioned city.",
+      "what_remains": "MoMA preserves Fuller and Sadao’s aerial perspective for the Yomiuriland proposal.",
+      "source_name": "MoMA — Tetrahedron City Project",
+      "source_url": "https://www.moma.org/collection/works/863",
+      "sources": [
+        {
+          "name": "SFMOMA — The Utopian Impulse",
+          "url": "https://www.sfmoma.org/event/the-love-song-of-r-buckminster-fuller/",
+          "supports": "Identifies Fuller's related proposed floating tetrahedral city for San Francisco Bay as a visionary project."
+        }
+      ],
+      "note": "Rechecked 4 November 2026. MoMA explicitly calls Fuller and Sadao’s c. 1968 Yomiuriland urban proposal unbuilt and describes a two-mile-edge tetrahedron for one million residents with an interior harbor. The museum object is an aerial perspective; related drawings and models are presentation records, not a completed city, inhabited prototype or constructed floating megastructure. The original artwork is a neutral concept-model interpretation and does not copy the museum image.",
+      "researched_on": "2026-11-04",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-11-04",
+        "note": "Exceptional megastructure silhouette and explicit museum evidence; broad recognition is lower, but the project adds a distinct geometric urban-scale proposal."
+      },
+      "visual_brief": "An original model-like tetrahedral megastructure rising from a plain presentation base; do not copy MoMA’s perspective or depict an inhabited completed city.",
+      "verified_on": "2026-11-04",
+      "image_alt": "Original monochrome architectural engraving of one complete tetrahedral floating-city concept model with truss lattice, harbor opening and plain plinth.",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tetrahedron-city-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tetrahedron-city-master-2x1.jpg",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/tetrahedron-city.jpg",
+      "exhibit": "033"
     }
   ]
 }
