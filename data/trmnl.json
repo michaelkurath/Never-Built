@@ -1550,6 +1550,63 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tetrahedron-city-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/tetrahedron-city.jpg",
       "exhibit": "033"
+    },
+    {
+      "id": "disney-mineral-king",
+      "name": "DISNEY MINERAL KING",
+      "proposal_period": "1966–1978*",
+      "proposal_year": "1966",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Master plan",
+      "caption": "A vast alpine resort was planned for Mineral King. The valley entered a national park instead.",
+      "why_unbuilt": "Litigation, road-funding refusal and opposition preceded Disney dropping the resort plan.",
+      "what_remains": "Planning records, the approved master plan and court proceedings preserve the unrealised resort.",
+      "source_name": "National Park Service — Mineral King planning history",
+      "source_url": "https://parkplanning.nps.gov/showFile.cfm?projectID=11110&sfid=29634",
+      "note": "Verified 5 November 2026. The NPS cultural landscape inventory explicitly states that the ski resort was never constructed. The Supreme Court record describes a survey permit and an approved plan, not a completed resort. Pre-existing cabins and roads, land purchases and planning material are not a working prototype. Congress added Mineral King to Sequoia National Park in 1978. *The period starts with the preliminary planning permit and ends with the park addition.",
+      "sources": [
+        {
+          "name": "NPS — Mineral King Road Cultural Landscape Inventory",
+          "url": "https://npshistory.com/publications/seki/cli-mineral-king-2008.pdf",
+          "supports": "Explicitly records that the resort was never constructed."
+        },
+        {
+          "name": "Sierra Club v. Morton — US Supreme Court record",
+          "url": "https://www.law.cornell.edu/supremecourt/text/405/727",
+          "supports": "Documents the selected proposal, survey permit and approved master plan."
+        },
+        {
+          "name": "NPS — enabling legislation",
+          "url": "https://www.nps.gov/seki/learn/management/enabling-legislation.htm",
+          "supports": "Dates the addition of Mineral King to Sequoia National Park to 10 November 1978."
+        }
+      ],
+      "researched_on": "2026-11-05",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 3,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-11-05",
+        "note": "Excellent institutional record and memorable conservation outcome; architecture is already heavily represented and any artwork must avoid inventing a definitive plan."
+      },
+      "image_alt": "Original monochrome interpretation of the unbuilt Mineral King resort as a small alpine planning diorama.",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-11-05",
+      "exhibit": "034",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/disney-mineral-king.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/disney-mineral-king-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/disney-mineral-king-master-2x1.jpg"
     }
   ]
 }

@@ -482,47 +482,6 @@
       "visual_brief": "Future original engraving of the 2005 dedicated Mars relay concept, with large dish and solar wings; explicitly distinguish concept from flown relay orbiters."
     },
     {
-      "id": "disney-mineral-king",
-      "name": "DISNEY MINERAL KING",
-      "proposal_period": "1966–1978*",
-      "proposal_year": "1966",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Master plan",
-      "caption": "A vast alpine resort was planned for Mineral King. The valley entered a national park instead.",
-      "why_unbuilt": "Litigation, road-funding refusal and opposition preceded Disney dropping the resort plan.",
-      "what_remains": "Planning records, the approved master plan and court proceedings preserve the unrealised resort.",
-      "source_name": "National Park Service — Mineral King planning history",
-      "source_url": "https://parkplanning.nps.gov/showFile.cfm?projectID=11110&sfid=29634",
-      "note": "Checked 2 November 2026. The National Park Service records a 1966 preliminary planning permit for a year-round resort, later litigation and Disney dropping the plans before Mineral King was added to Sequoia National Park in 1978. Survey permits, approved plans and concept work are proposal records, not a constructed resort, operating ski lift or full-scale building prototype. *The period runs from the preliminary permit to the park addition, not continuous construction.",
-      "sources": [
-        {
-          "name": "Sierra Club v. Morton — US Supreme Court record",
-          "url": "https://www.law.cornell.edu/supremecourt/text/405/727",
-          "supports": "Records the selected Disney proposal, survey permit and 1969 approved master plan."
-        }
-      ],
-      "researched_on": "2026-11-02",
-      "review": {
-        "fact_check": "approved",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "rating": {
-        "recognition": 4,
-        "visual_strength": 5,
-        "story_strength": 5,
-        "evidence_clarity": 5,
-        "catalogue_fit": 3,
-        "total": 22,
-        "status": "provisional",
-        "rated_on": "2026-11-02",
-        "note": "Excellent institutional record and memorable conservation outcome; architecture is already heavily represented and any artwork must avoid inventing a definitive plan."
-      },
-      "visual_brief": "Model-like alpine village, ski lifts and parking only after consulting the documented plan; label it as a proposal and do not imply construction began."
-    },
-    {
       "id": "contemporary-city-three-million",
       "name": "CONTEMPORARY CITY FOR THREE MILLION",
       "proposal_period": "1922",
@@ -562,6 +521,52 @@
         "note": "Major modernist urban manifesto with explicit archive classification and strong plan/model imagery; the title is long and must be shortened carefully if promoted."
       },
       "visual_brief": "An original neutral presentation model of cruciform towers, lower housing blocks and strict axial geometry; distinguish it from Plan Voisin and do not copy Foundation drawings."
+    },
+    {
+      "id": "comet-rendezvous-asteroid-flyby",
+      "name": "COMET RENDEZVOUS / ASTEROID FLYBY",
+      "proposal_period": "1989–1992",
+      "proposal_year": "1989",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Mission study",
+      "caption": "A planned comet escort lost its ride. The companion Cassini mission went on alone.",
+      "why_unbuilt": "NASA ended CRAF in 1992 under budget pressure after instrument cuts and schedule delays.",
+      "what_remains": "NASA mission-design studies and a GAO review record the plan and cancellation.",
+      "source_name": "NASA JPL — 1992 termination announcement",
+      "source_url": "https://www.jpl.nasa.gov/news/budget-reductions-to-two-planetary-exploration-projects/",
+      "sources": [
+        {
+          "name": "NASA NTRS — CRAF mission study",
+          "url": "https://ntrs.nasa.gov/citations/19930010071",
+          "supports": "Records congressional approval in 1989 and the planned Mariner Mark II design."
+        },
+        {
+          "name": "US GAO — CRAF and Cassini review",
+          "url": "https://www.gao.gov/assets/nsiad-94-24.pdf",
+          "supports": "Describes early cancellation and the later Cassini-specific redesign."
+        }
+      ],
+      "note": "Checked 5 November 2026. CRAF was terminated early in development; there was no completed CRAF flight spacecraft or mission. Design studies and any component development are not a finished spacecraft. Cassini flew as a separate, rescoped mission. Fix the proposal revision before depicting specific targets or instruments.",
+      "researched_on": "2026-11-05",
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 4,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 21,
+        "note": "Clear official cancellation and a compelling contrast with Cassini; CRAF itself is less widely recognized.",
+        "status": "provisional",
+        "rated_on": "2026-11-05"
+      },
+      "visual_brief": "Use an identified CRAF design revision as an original monochrome concept model, not a portrait of the flown Cassini spacecraft.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      }
     }
   ]
 }
