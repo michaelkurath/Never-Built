@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 5 November 2026 — Disney Mineral King
+
+Original monochrome artwork, contained on white at 1600×800 and 1200×900 to preserve the subject in compact layouts. The legacy JPEG mirrors the standard export. See the [prompt and export record](IMAGE_UPDATE_2026-11-05.md).
+
 ## 4 November 2026 — Tetrahedron City
 
 Original built-in generated artwork: `tetrahedron-city-master-2x1.jpg` (1600×800) and `tetrahedron-city-standard-4x3.jpg` (1200×900) under `assets/exhibits/responsive-v2/`; the legacy path mirrors the standard export. White contain exports preserve the complete lattice tetrahedron, base, harbor opening and neutral model plinth. The original viewpoint does not copy MoMA’s aerial perspective and clearly presents an unbuilt concept model. Complete prompt and export decisions: [image update](IMAGE_UPDATE_2026-11-04.md).
