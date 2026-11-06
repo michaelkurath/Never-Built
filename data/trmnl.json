@@ -1607,6 +1607,58 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/disney-mineral-king.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/disney-mineral-king-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/disney-mineral-king-master-2x1.jpg"
+    },
+    {
+      "id": "comet-rendezvous-asteroid-flyby",
+      "name": "COMET RENDEZVOUS (CRAF)",
+      "proposal_period": "1989–1992",
+      "proposal_year": "1989",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Mission study",
+      "caption": "A planned comet escort lost its ride. The companion Cassini mission went on alone.",
+      "why_unbuilt": "NASA ended CRAF in 1992 under budget pressure after instrument cuts and schedule delays.",
+      "what_remains": "NASA mission-design studies and a GAO review record the plan and cancellation.",
+      "source_name": "NASA JPL — 1992 termination announcement",
+      "source_url": "https://www.jpl.nasa.gov/news/budget-reductions-to-two-planetary-exploration-projects/",
+      "sources": [
+        {
+          "name": "NASA NTRS — CRAF mission study",
+          "url": "https://ntrs.nasa.gov/citations/19930010071",
+          "supports": "Records congressional approval in 1989 and the planned Mariner Mark II design."
+        },
+        {
+          "name": "US GAO — CRAF and Cassini review",
+          "url": "https://www.gao.gov/assets/nsiad-94-24.pdf",
+          "supports": "Describes early cancellation and the later Cassini-specific redesign."
+        }
+      ],
+      "note": "Verified 6 November 2026. JPL announced CRAF’s termination in February 1992. GAO records preliminary design and cancellation of the shared Mariner Mark II design. Design records and component development do not constitute a completed CRAF flight spacecraft. Cassini flew separately on a redesigned spacecraft. The artwork is an interpretive model based on GAO figure 1.1, not a documented physical artifact.",
+      "researched_on": "2026-11-06",
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 4,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 21,
+        "note": "Clear official cancellation and a compelling contrast with Cassini; CRAF itself is less widely recognized.",
+        "status": "reviewed",
+        "rated_on": "2026-11-06"
+      },
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "image_kind": "ai_artistic_reconstruction",
+      "exhibit": "035",
+      "verified_on": "2026-11-06",
+      "image_alt": "Original monochrome interpretation of the CRAF Mariner Mark II concept as a display model, with dish antenna and magnetometer boom.",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/comet-rendezvous-asteroid-flyby.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/comet-rendezvous-asteroid-flyby-standard-4x3.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/comet-rendezvous-asteroid-flyby-master-2x1.jpg"
     }
   ]
 }
