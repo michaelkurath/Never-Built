@@ -25,9 +25,9 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | Sea Dragon | 1962–1963 | Design study |
 | Project Habbakuk | 1942–1943 | Prototype test |
 
-Thirty-five live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Thirty-six live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Washington Monument Colonnade proposal (23/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements; models, drawings, exhibition material and partial tests are explicitly distinguished from completed projects.
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Lutyens’s Liverpool Cathedral proposal (23/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements; models, drawings, exhibition material and partial tests are explicitly distinguished from completed projects.
 
 ## TRMNL setup
 
