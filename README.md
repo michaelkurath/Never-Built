@@ -81,7 +81,7 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **35 live exhibits and 13 candidates**. Comet Rendezvous / Asteroid Flyby is exhibit 035; new candidate Washington Monument Colonnade scored 23/25. See [6 November review](docs/PROMOTION_2026-11-06.md).
+Latest collection update: **36 live exhibits and 13 candidates**. Mills’s Colonnade is exhibit 036; new candidate Lutyens’s Liverpool Cathedral scored 23/25. See [7 November review](docs/PROMOTION_2026-11-07.md).
 
 
 30 October update: NEWTON'S CENOTAPH (028) promoted; new candidate CARDIFF BAY OPERA HOUSE (23/25). Source and artwork record: [review](docs/PROMOTION_2026-10-30.md).
