@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 7 November 2026 — Mills’s Colonnade
+
+Original monochrome artwork, exact prompt, crop-safe exports and review gate: [image record](IMAGE_UPDATE_2026-11-07.md).
+
 ## 6 November 2026 — Comet Rendezvous / Asteroid Flyby
 
 Original monochrome artwork, contained on white at 1600×800 and 1200×900. The legacy JPEG mirrors the standard export. See the [prompt and export record](IMAGE_UPDATE_2026-11-06.md).

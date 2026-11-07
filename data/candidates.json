@@ -523,44 +523,44 @@
       "visual_brief": "An original neutral presentation model of cruciform towers, lower housing blocks and strict axial geometry; distinguish it from Plan Voisin and do not copy Foundation drawings."
     },
     {
-      "id": "washington-monument-colonnade",
-      "name": "WASHINGTON MONUMENT COLONNADE",
-      "proposal_period": "1845 design",
-      "proposal_year": "1845",
+      "id": "lutyens-liverpool-cathedral",
+      "name": "LUTYENS’S CATHEDRAL",
+      "proposal_period": "1930–1950s*",
+      "proposal_year": "1930",
       "category": "Architecture",
       "category_key": "architecture",
-      "stage": "Original design",
-      "caption": "A ring of columns was to surround the obelisk. The shaft went up without it.",
-      "why_unbuilt": "Funding shortfalls deferred the rotunda, and the monument was completed under a simplified design.",
-      "what_remains": "Mills’s design survives in prints; the completed obelisk stands without the proposed colonnade.",
-      "source_name": "National Park Service — construction timeline",
-      "source_url": "https://home.nps.gov/wamo/learn/historyculture/monumentconstruction.htm",
-      "note": "Checked 6 November 2026. The candidate is Robert Mills’s unbuilt colonnaded rotunda only, not the Washington Monument as a whole. The obelisk was completed in a revised form in 1884. The Library of Congress print represents the proposal, not evidence of construction.",
-      "researched_on": "2026-11-06",
+      "stage": "Partial build",
+      "caption": "The crypt was built. The vast cathedral above it was not.",
+      "why_unbuilt": "War interrupted construction; the unaffordable original scheme was later replaced by a different design.",
+      "what_remains": "The completed Lutyens Crypt survives beneath the distinct cathedral designed by Frederick Gibberd.",
+      "source_name": "Liverpool Metropolitan Cathedral — history",
+      "source_url": "https://liverpoolmetrocathedral.org.uk/history/",
+      "sources": [
+        {
+          "name": "Liverpool Metropolitan Cathedral — Lutyens Crypt",
+          "url": "https://liverpoolmetrocathedral.org.uk/visit/the-lutyens-crypt/",
+          "supports": "Describes the surviving crypt as all that remains of the unrealised cathedral design."
+        },
+        {
+          "name": "Cathedral — Grade I listing, 17 June 2025",
+          "url": "https://liverpoolmetrocathedral.org.uk/news/liverpool-metropolitan-cathedral-upgraded-to-grade-i-listed-status/",
+          "supports": "Distinguishes Lutyens’s earlier crypt from the later completed cathedral."
+        }
+      ],
+      "note": "Verified 7 November 2026. Scope is the main superstructure of Edwin Lutyens’s 1930 cathedral scheme. Foundation stone laid 1933; the crypt was actually built and completed, not merely a model or prototype. War and costs prevented the full design. Gibberd’s 1967 cathedral is a different realised project. *Period spans commissioning through the 1950s abandonment of the full scheme.",
+      "researched_on": "2026-11-07",
       "rating": {
-        "recognition": 5,
+        "recognition": 4,
         "visual_strength": 5,
-        "story_strength": 4,
+        "story_strength": 5,
         "evidence_clarity": 5,
         "catalogue_fit": 4,
         "total": 23,
-        "note": "A recognizable landmark with a clearly bounded unbuilt element. Scope must stay explicit.",
+        "note": "Strong official account and a compelling surviving crypt; scope must exclude both the completed crypt and Gibberd’s cathedral.",
         "status": "provisional",
-        "rated_on": "2026-11-06"
+        "rated_on": "2026-11-07"
       },
-      "sources": [
-        {
-          "name": "Library of Congress — original design print",
-          "url": "https://www.loc.gov/item/2003656330/",
-          "supports": "Shows Mills’s original proposed colonnade and explains the distinction from the completed monument."
-        },
-        {
-          "name": "NPS — The Washington Monument in Its Setting",
-          "url": "https://www.nps.gov/parkhistory/online_books/wamo/stones.pdf",
-          "supports": "Explicitly states the grand colonnade was never built."
-        }
-      ],
-      "visual_brief": "Show an interpretive presentation model of the circular colonnade around the obelisk, clearly distinguished from the completed monument.",
+      "visual_brief": "Interpret Lutyens’s unbuilt domed main cathedral as a proposal model, distinguishing it from the real crypt and Gibberd’s completed building.",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
