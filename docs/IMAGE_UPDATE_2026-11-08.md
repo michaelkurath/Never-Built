@@ -15,4 +15,3 @@ Use case: stylized-concept. Asset: NEVER BUILT museum exhibit. Original high-con
 Identity review against NASA-CR-187801 figure 1 (PDF page 26): blunt lifting body, cockpit, paired canted rear fins and central vertical tail. Stand, surface detail, perspective and proportions are artistic. The image is a conceptual presentation model, not the original full-size mockup, a flight vehicle or a modern Dream Chaser.
 
 Merge gate: successful repository checks and trmnlp lint, inspection of both exports, and visual review of all four layouts on OG, X landscape and X portrait. Exact-head artifact and final review evidence are recorded in the PR.
-
