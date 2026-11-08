@@ -1711,6 +1711,58 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/washington-monument-colonnade.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/washington-monument-colonnade-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/washington-monument-colonnade-master-2x1.jpg"
+    },
+    {
+      "id": "hl-20-personnel-launch-system",
+      "name": "HL-20",
+      "proposal_period": "1989–1993*",
+      "proposal_year": "1989",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Full-size mockup",
+      "caption": "A cabin mockup. No flight spacecraft.",
+      "why_unbuilt": "The programme remained a research study; NASA records no flight hardware built during its 1989–1993 study period.",
+      "what_remains": "NASA reports and a full-size human-factors mockup document the study; later Dream Chaser designs are distinct.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/image-article/hl-20/",
+      "note": "Verified 8 November 2026. *1989–1993 is the study period stated in NASA’s HL-20 image article, not all related lifting-body research. A full-scale non-flying engineering mockup was built in 1990 for human-factors evaluation. No HL-20 flight hardware was built. HL-42 and Dream Chaser are separate later designs. No specific funding failure is inferred. Artwork interprets the early configuration as a display model, not an exact historic artifact.",
+      "sources": [
+        {
+          "name": "NASA Langley HL-20 overview",
+          "url": "https://www.nasa.gov/hl-20-2/",
+          "supports": "Full-scale mockup, human-factors testing, archived study and later design transfer."
+        },
+        {
+          "name": "NASA research-model report",
+          "url": "https://ntrs.nasa.gov/citations/19910006695",
+          "supports": "Construction of the full-scale engineering model for systems and human-factors evaluation."
+        }
+      ],
+      "rating": {
+        "recognition": 2,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 21,
+        "status": "reviewed",
+        "rated_on": "2026-11-08",
+        "note": "Clear NASA distinction between a real full-size mockup and the unbuilt flight system; strong silhouette and catalogue variety despite niche recognition."
+      },
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "researched_on": "2026-11-08",
+      "exhibit": "037",
+      "verified_on": "2026-11-08",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Original monochrome interpretation of the HL-20 lifting-body concept on a display stand, with two canted rear fins and a central tail fin.",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/hl-20-personnel-launch-system.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hl-20-personnel-launch-system-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hl-20-personnel-launch-system-standard-4x3.jpg"
     }
   ]
 }
