@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 8 November 2026 — HL-20
+
+Original monochrome artwork, exact prompt, crop-safe exports and device-review gate: [image record](IMAGE_UPDATE_2026-11-08.md).
+
 ## 7 November 2026 — Mills’s Colonnade
 
 Original monochrome artwork, exact prompt, crop-safe exports and review gate: [image record](IMAGE_UPDATE_2026-11-07.md).

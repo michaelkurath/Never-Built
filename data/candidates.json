@@ -131,52 +131,6 @@
       "researched_on": "2026-10-07"
     },
     {
-      "id": "hl-20-personnel-launch-system",
-      "name": "HL-20 PERSONNEL LAUNCH SYSTEM",
-      "proposal_period": "1989–1993*",
-      "proposal_year": "1989",
-      "category": "Space",
-      "category_key": "space",
-      "stage": "Full-size mockup",
-      "caption": "A small lifting body for trips to a space station. Its cabin was tested; its spacecraft never flew.",
-      "why_unbuilt": "The HL-20 remained a research study; no flight hardware was built during the 1989–1993 programme.",
-      "what_remains": "NASA reports and photographs document the mockup; the concept later informed Dream Chaser.",
-      "source_name": "NASA",
-      "source_url": "https://www.nasa.gov/image-article/hl-20/",
-      "note": "*1989–1993 is NASA's stated study period, not the start of lifting-body research. A full-scale mockup was built in 1990 for human-factors tests, so never say no model or prototype existed without qualifying flight hardware. NASA describes HL-20 as an archived study. No specific funding or technical failure is inferred here. HL-42 and Dream Chaser are distinct later designs, not built HL-20 vehicles.",
-      "sources": [
-        {
-          "name": "NASA Langley HL-20 overview",
-          "url": "https://www.nasa.gov/hl-20-2/",
-          "supports": "Full-scale mockup, human-factors testing, archived study and later design transfer."
-        },
-        {
-          "name": "NASA research-model report",
-          "url": "https://ntrs.nasa.gov/citations/19910006695",
-          "supports": "Construction of the full-scale engineering model for systems and human-factors evaluation."
-        }
-      ],
-      "visual_brief": "Compact HL-20 lifting body with its documented fins, derived from original NASA concept art; label reconstruction and avoid modern Dream Chaser details.",
-      "rating": {
-        "recognition": 2,
-        "visual_strength": 5,
-        "story_strength": 4,
-        "evidence_clarity": 5,
-        "catalogue_fit": 5,
-        "total": 21,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Primary sources researched; scope qualifications are recorded in note. Artwork and final review remain pending."
-      },
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "researched_on": "2026-10-07"
-    },
-    {
       "id": "swissmetro",
       "name": "SWISSMETRO",
       "proposal_period": "1992–2009*",
@@ -561,6 +515,57 @@
         "rated_on": "2026-11-07"
       },
       "visual_brief": "Interpret Lutyens’s unbuilt domed main cathedral as a proposal model, distinguishing it from the real crypt and Gibberd’s completed building.",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      }
+    },
+    {
+      "id": "x-38-operational-crew-return-vehicle",
+      "name": "X-38 CREW RETURN SYSTEM",
+      "proposal_period": "1995–2002*",
+      "proposal_year": "1995",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Flight tests",
+      "caption": "The prototypes flew. The station’s lifeboat never entered service.",
+      "why_unbuilt": "NASA shut down the X-38/CRV project in 2002 after changing agency priorities.",
+      "what_remains": "Atmospheric flight demonstrators, an unfinished orbital vehicle and engineering records survive.",
+      "source_name": "NASA NTRS — X-38 avionics programme account",
+      "source_url": "https://ntrs.nasa.gov/citations/20100033681",
+      "sources": [
+        {
+          "name": "NASA — X-38 prototype",
+          "url": "https://www.nasa.gov/aeronautics/nasa-aircraft/x-38-prototype/",
+          "supports": "Documents real approach/landing flight demonstrators, not an operational station rescue service."
+        },
+        {
+          "name": "NASA Lessons Learned — shutdown plan, 17 June 2002",
+          "url": "https://llis.nasa.gov/lesson/1248",
+          "supports": "Records the orderly shutdown and cancellation of CRV procurement."
+        },
+        {
+          "name": "NASA NTRS — parafoil test account",
+          "url": "https://ntrs.nasa.gov/citations/20060056201",
+          "supports": "Documents successful atmospheric prototype flights; this later paper describes cancellation as 2003."
+        }
+      ],
+      "note": "Verified 8 November 2026. Scope is the unrealised operational ISS crew-return system, not a claim that no X-38 existed. Atmospheric prototypes were built and flown; the orbital vehicle remained unfinished and never demonstrated crew rescue from orbit. *1995–2002 follows the avionics programme account and the June 2002 shutdown record. A later parafoil paper uses 2003; preserve that closeout-date discrepancy rather than inventing a single exact day. These tests were hardware development, not a completed operational system.",
+      "researched_on": "2026-11-08",
+      "visual_brief": "Interpret an orbital CRV proposal model; clearly distinguish the real atmospheric test demonstrators.",
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 22,
+        "status": "provisional",
+        "rated_on": "2026-11-08",
+        "note": "Strong NASA hardware-versus-service distinction and rescue narrative; cancellation-year variation is qualified."
+      },
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
