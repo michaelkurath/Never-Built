@@ -1763,6 +1763,63 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/hl-20-personnel-launch-system.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hl-20-personnel-launch-system-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hl-20-personnel-launch-system-standard-4x3.jpg"
+    },
+    {
+      "id": "superconducting-super-collider",
+      "name": "SUPER COLLIDER",
+      "proposal_period": "1983–1993*",
+      "proposal_year": "1983",
+      "category": "Infrastructure",
+      "category_key": "infrastructure",
+      "stage": "Partial build",
+      "caption": "The tunnels began. The collider never did.",
+      "why_unbuilt": "Congress ended construction in October 1993 amid rising costs and management problems.",
+      "what_remains": "DOE records document partial construction, real hardware and closure.",
+      "source_name": "US Department of Energy",
+      "source_url": "https://www.energy.gov/sites/default/files/2015/09/f26/DOE-OIG-0389.pdf",
+      "note": "Verified 9 November 2026. Scope is the never-completed Superconducting Super Collider (SSC) in Texas, not a claim that nothing was built. Real tunnels, laboratories and partially constructed accelerator hardware existed. DOE records termination on 28 October 1993 and multiple internal/external causes. *1983 marks the advisory-panel recommendation, not groundbreaking. No present site condition or successful medical reuse is asserted. Artwork is a counterfactual planning diorama of the proposed complete ring, not the actual built site or an exact technical plan.",
+      "sources": [
+        {
+          "name": "DOE environmental decision, 1995",
+          "url": "https://www.energy.gov/index.php/nepa/articles/ea-1090-finding-no-significant-impact",
+          "supports": "Law mandated termination of construction; partially constructed linear accelerator existed."
+        },
+        {
+          "name": "Smithsonian — SSC magnet sections",
+          "url": "https://www.si.edu/object/sections-magnets-superconducting-super-collider:nmah_1452617",
+          "supports": "Records magnet-component display sections and the planned oval underground ring."
+        },
+        {
+          "name": "DOE OIG — planned ring geometry",
+          "url": "https://www.energy.gov/documents/doe-oig-0389pdf",
+          "supports": "Describes the 54-mile racetrack-shaped tunnel and planned superconducting magnets."
+        }
+      ],
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 3,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 21,
+        "status": "reviewed",
+        "rated_on": "2026-11-09",
+        "note": "Strong official cancellation record and partial-build distinction; the vast underground ring is less immediately recognisable without a qualified diorama."
+      },
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "researched_on": "2026-11-09",
+      "exhibit": "038",
+      "verified_on": "2026-11-09",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Original monochrome planning-diorama interpretation of the proposed complete SSC racetrack tunnel ring with parallel magnet paths, shafts and service buildings.",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/superconducting-super-collider.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/superconducting-super-collider-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/superconducting-super-collider-standard-4x3.jpg"
     }
   ]
 }
