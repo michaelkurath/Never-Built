@@ -90,47 +90,6 @@
       "researched_on": "2026-10-07"
     },
     {
-      "id": "superconducting-super-collider",
-      "name": "SUPERCONDUCTING SUPER COLLIDER",
-      "proposal_period": "1983–1993*",
-      "proposal_year": "1983",
-      "category": "Infrastructure",
-      "category_key": "infrastructure",
-      "stage": "Partial build",
-      "caption": "An accelerator to probe matter's deepest secrets. Construction stopped before it could collide.",
-      "why_unbuilt": "Congress terminated the project in October 1993 after rising cost estimates and management problems.",
-      "what_remains": "DOE audit reports and project records document the unfinished accelerator and its closure.",
-      "source_name": "US Department of Energy",
-      "source_url": "https://www.energy.gov/sites/prod/files/2015/09/f26/DOE-OIG-0389.pdf",
-      "note": "*1983 marks the High Energy Physics Advisory Panel recommendation, not groundbreaking. Congress terminated the project on 28 October 1993. DOE's audit records escalating estimates and multiple internal/external factors; do not reduce cancellation to one cause. Partly constructed hardware existed: the candidate is the never-completed collider, not a claim that nothing was built. No current physical-site condition or successful medical reuse is asserted.",
-      "sources": [
-        {
-          "name": "DOE environmental decision, 1995",
-          "url": "https://www.energy.gov/index.php/nepa/articles/ea-1090-finding-no-significant-impact",
-          "supports": "Law mandated termination of construction; partially constructed linear accelerator existed."
-        }
-      ],
-      "visual_brief": "Planned collider ring in a restrained cutaway or map, checked against original project plans; distinguish the planned facility from completed hardware.",
-      "rating": {
-        "recognition": 4,
-        "visual_strength": 3,
-        "story_strength": 5,
-        "evidence_clarity": 5,
-        "catalogue_fit": 4,
-        "total": 21,
-        "status": "provisional",
-        "rated_on": "2026-10-07",
-        "note": "Editorial score out of 25. Primary sources researched; scope qualifications are recorded in note. Artwork and final review remain pending."
-      },
-      "review": {
-        "fact_check": "pending",
-        "text_review": "pending",
-        "image_review": "not_started",
-        "final_approval": "pending"
-      },
-      "researched_on": "2026-10-07"
-    },
-    {
       "id": "swissmetro",
       "name": "SWISSMETRO",
       "proposal_period": "1992–2009*",
@@ -565,6 +524,47 @@
         "status": "provisional",
         "rated_on": "2026-11-08",
         "note": "Strong NASA hardware-versus-service distinction and rescue narrative; cancellation-year variation is qualified."
+      },
+      "review": {
+        "fact_check": "approved",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      }
+    },
+    {
+      "id": "babbage-analytical-engine",
+      "name": "ANALYTICAL ENGINE",
+      "proposal_period": "1834–1871*",
+      "proposal_year": "1834",
+      "category": "Technology",
+      "category_key": "technology",
+      "stage": "Trial mechanism",
+      "caption": "The trial pieces existed. The whole engine did not.",
+      "why_unbuilt": "Babbage kept revising the design but lacked funds to construct the complete machine.",
+      "what_remains": "Design papers and a trial portion of the mill with printing mechanism survive in museum collections.",
+      "source_name": "Science Museum Group — Charles Babbage",
+      "source_url": "https://collection.sciencemuseumgroup.org.uk/people/ap8",
+      "sources": [
+        {
+          "name": "Science Museum Group — Analytical Engine trial model",
+          "url": "https://collection.sciencemuseumgroup.org.uk/objects/co62245/babbages-analytical-engine-1834-1871-trial-model",
+          "supports": "Documents a real partial mill and printing mechanism, not a completed Analytical Engine."
+        }
+      ],
+      "note": "Verified 9 November 2026. Scope is Babbage’s complete programmable Analytical Engine, not a claim that no physical mechanism was built. The museum holds a real trial portion of its mill with printing mechanism. The complete machine was never finished. The Science Museum’s working 1991 Difference Engine No.2 is a different design, not completion of the Analytical Engine. *1834–1871 covers conception through Babbage’s death and the museum’s trial-model period, not one frozen final design.",
+      "researched_on": "2026-11-09",
+      "visual_brief": "Interpret a proposed mechanical computing engine, clearly separating it from the surviving partial mill and completed Difference Engine No.2.",
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 24,
+        "status": "provisional",
+        "rated_on": "2026-11-09",
+        "note": "Strong museum evidence and computing significance; complete engine versus built trial pieces and Difference Engine No.2 must stay explicit."
       },
       "review": {
         "fact_check": "approved",

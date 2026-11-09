@@ -25,9 +25,9 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | Sea Dragon | 1962–1963 | Design study |
 | Project Habbakuk | 1942–1943 | Prototype test |
 
-Thirty-seven live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Thirty-eight live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
-Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new operational X-38 Crew Return System (22/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements; models, drawings, exhibition material and partial tests are explicitly distinguished from completed projects.
+Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Analytical Engine proposal (24/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements; models, drawings, exhibition material and partial tests are explicitly distinguished from completed projects.
 
 ## TRMNL setup
 
@@ -81,7 +81,7 @@ See [editorial process](docs/EDITORIAL_PROCESS.md), [source review](docs/STARTER
 
 [LICENSE.md](LICENSE.md): CC BY 4.0 and TRMNL Community Plugin terms. Original and adapted work by Michael Kurath.
 
-Latest collection update: **37 live exhibits and 13 candidates**. HL-20 is exhibit 037; new candidate X-38 Crew Return System scored 22/25. See [8 November review](docs/PROMOTION_2026-11-08.md).
+Latest collection update: **38 live exhibits and 13 candidates**. Superconducting Super Collider is exhibit 038; new candidate Analytical Engine scored 24/25. See [9 November review](docs/PROMOTION_2026-11-09.md).
 
 
 30 October update: NEWTON'S CENOTAPH (028) promoted; new candidate CARDIFF BAY OPERA HOUSE (23/25). Source and artwork record: [review](docs/PROMOTION_2026-10-30.md).

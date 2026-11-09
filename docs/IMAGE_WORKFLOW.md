@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 9 November 2026 — Superconducting Super Collider
+
+Original monochrome artwork, complete prompt, scope and crop-safe exports: [image record](IMAGE_UPDATE_2026-11-09.md).
+
 ## 8 November 2026 — HL-20
 
 Original monochrome artwork, exact prompt, crop-safe exports and device-review gate: [image record](IMAGE_UPDATE_2026-11-08.md).
