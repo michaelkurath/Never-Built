@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 10 November 2026 — Analytical Engine
+
+Original interpretive monochrome artwork of partial trial hardware, complete prompt and crop-safe exports: [image record](IMAGE_UPDATE_2026-11-10.md). This is not the complete unbuilt engine or Difference Engine No.2.
+
 ## 9 November 2026 — Superconducting Super Collider
 
 Original monochrome artwork, complete prompt, scope and crop-safe exports: [image record](IMAGE_UPDATE_2026-11-09.md).
