@@ -533,28 +533,33 @@
       }
     },
     {
-      "id": "falkenstein-ludwig-castle",
-      "name": "LUDWIG'S FALKENSTEIN",
-      "proposal_period": "1883–1886",
-      "proposal_year": "1883",
+      "id": "le-corbusier-venice-hospital",
+      "name": "VENICE HOSPITAL",
+      "proposal_period": "1964–1965*",
+      "proposal_year": "1964",
       "category": "Architecture",
       "category_key": "architecture",
       "stage": "Designs",
-      "caption": "The medieval ruin was real. Ludwig's new castle remained on paper.",
-      "why_unbuilt": "Ludwig II's death in June 1886 ended the proposed replacement castle.",
-      "what_remains": "The earlier medieval ruin and detailed nineteenth-century designs survive.",
-      "source_name": "Bavarian Palace Administration",
-      "source_url": "https://schloesserblog.bayern.de/geheimnisse/falkenstein-ein-projekt-ludwigs-ii",
+      "caption": "A hospital imagined as low wards and courtyards, not a tower.",
+      "why_unbuilt": "The commission remained unrealized after further design work.",
+      "what_remains": "The Fondation Le Corbusier preserves plans and project illustrations.",
+      "source_name": "Fondation Le Corbusier",
+      "source_url": "https://www.fondationlecorbusier.fr/en/work-architecture/projects-hospital-venice-italy-1964/",
       "sources": [
         {
-          "name": "Haus der Bayerischen Geschichte — Falkenstein ruin",
-          "url": "https://hdbg.eu/burgen/detail/burgruine-falkenstein/6",
-          "supports": "Distinguishes the medieval castle from Ludwig’s 1883 proposal, ended by his death in June 1886."
+          "name": "University of Bologna — In Quest of Modernity",
+          "url": "https://cris.unibo.it/handle/11585/520390",
+          "supports": "Identifies the proposed New Civic Hospital as unbuilt."
+        },
+        {
+          "name": "EPFL — Venice hospital project exhibition",
+          "url": "https://www.epfl.ch/schools/enac/fr/services-et-plateformes/acm/page-26702-fr-html/",
+          "supports": "Documents development in 1964 and presentation in April 1965."
         }
       ],
-      "note": "Verified 10 November 2026. Scope is Ludwig II’s proposed new Falkenstein castle above Pfronten, NOT the surviving medieval castle, and not another Falkenstein. The Palace Administration explicitly says none of the new castle was built. Existing ruins and any preparatory access works must not be described as Ludwig’s completed castle. Several designs existed: choose and source a specific documented variant before image generation; drawings, later models or visualisations are not a completed building.",
-      "researched_on": "2026-11-10",
-      "visual_brief": "Choose one documented 1883–1885 castle design; label the reconstruction as unbuilt and never substitute the medieval ruin.",
+      "note": "Verified 11 November 2026. Scope is Le Corbusier’s unbuilt new civic hospital for Venice, not an operating hospital. *1964–1965 marks early design and presentation, not final abandonment: work continued after his death. Plans, illustrations and any exhibition models are not a constructed hospital. Verify a specific dated design iteration before illustrating it; no precise cancellation date or single cause is asserted.",
+      "researched_on": "2026-11-11",
+      "visual_brief": "Choose a documented design iteration and show the low modular wards and courtyards as a conceptual maquette, not a photograph.",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -563,14 +568,14 @@
       },
       "rating": {
         "recognition": 4,
-        "visual_strength": 5,
-        "story_strength": 5,
+        "visual_strength": 4,
+        "story_strength": 4,
         "evidence_clarity": 5,
-        "catalogue_fit": 4,
-        "total": 23,
+        "catalogue_fit": 5,
+        "total": 22,
         "status": "provisional",
-        "rated_on": "2026-11-10",
-        "note": "Strong official evidence and striking surviving designs; variant selection and distinction from the real medieval ruin remain promotion gates."
+        "rated_on": "2026-11-11",
+        "note": "Strong archive evidence and distinctive low modular hospital; architectural detail needs care on small displays."
       }
     }
   ]
