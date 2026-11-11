@@ -1872,6 +1872,53 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/babbage-analytical-engine.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/babbage-analytical-engine-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/babbage-analytical-engine-standard-4x3.jpg"
+    },
+    {
+      "id": "falkenstein-ludwig-castle",
+      "name": "LUDWIG'S FALKENSTEIN",
+      "proposal_period": "1883–1886",
+      "proposal_year": "1883",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Designs",
+      "caption": "The ruin was real. The new castle stayed on paper.",
+      "why_unbuilt": "Ludwig II died in June 1886 before his new castle was built.",
+      "what_remains": "The medieval ruin and drawings for the new castle survive.",
+      "source_name": "Bavarian Palace Administration",
+      "source_url": "https://schloesserblog.bayern.de/geheimnisse/falkenstein-ein-projekt-ludwigs-ii",
+      "sources": [
+        {
+          "name": "Haus der Bayerischen Geschichte — Falkenstein ruin",
+          "url": "https://hdbg.eu/burgen/detail/burgruine-falkenstein/6",
+          "supports": "Distinguishes the medieval castle from Ludwig’s 1883 proposal, ended by his death in June 1886."
+        }
+      ],
+      "note": "Verified 11 November 2026. The new castle was never built. The medieval ruin predates Ludwig II. The illustration is an imagined maquette interpreting Christian Jank’s 1883 ideal design, not a photograph of a physical model or the ruin, and not the later Schultze scheme.",
+      "researched_on": "2026-11-11",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 5,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-11-11",
+        "note": "Official unbuilt status and period artwork support a striking, clearly bounded interpretation of the 1883 concept."
+      },
+      "exhibit": "040",
+      "verified_on": "2026-11-11",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/falkenstein-ludwig-castle.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/falkenstein-ludwig-castle-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/falkenstein-ludwig-castle-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Imagined monochrome maquette of Christian Jank’s 1883 Falkenstein concept, with a tall round tower and Gothic gables on a rock pinnacle."
     }
   ]
 }
