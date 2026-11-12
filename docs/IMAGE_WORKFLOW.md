@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 12 November 2026 — Venice Hospital
+
+Original monochrome interpretation of the early study maquette, with full prompt and crop-safe exports: [image record](IMAGE_UPDATE_2026-11-12.md).
+
 ## 11 November 2026 — Ludwig’s Falkenstein
 
 Original monochrome artwork, complete prompt and crop-safe exports: [image record](IMAGE_UPDATE_2026-11-11.md).
