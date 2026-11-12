@@ -533,33 +533,33 @@
       }
     },
     {
-      "id": "le-corbusier-venice-hospital",
-      "name": "VENICE HOSPITAL",
-      "proposal_period": "1964–1965*",
-      "proposal_year": "1964",
-      "category": "Architecture",
-      "category_key": "architecture",
-      "stage": "Designs",
-      "caption": "A hospital imagined as low wards and courtyards, not a tower.",
-      "why_unbuilt": "The commission remained unrealized after further design work.",
-      "what_remains": "The Fondation Le Corbusier preserves plans and project illustrations.",
-      "source_name": "Fondation Le Corbusier",
-      "source_url": "https://www.fondationlecorbusier.fr/en/work-architecture/projects-hospital-venice-italy-1964/",
+      "id": "hermes-spaceplane",
+      "name": "HERMÈS SPACEPLANE",
+      "proposal_period": "1987–1992*",
+      "proposal_year": "1987",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Mockup",
+      "caption": "A full-size model stood on Earth. The orbital shuttle never flew.",
+      "why_unbuilt": "ESA cites delays and missed cost and performance goals in its cancellation history.",
+      "what_remains": "A 1987 full-scale CNES display mockup survives at Le Bourget.",
+      "source_name": "European Space Agency",
+      "source_url": "https://www.esa.int/articles/about-us/who-we-are/history/history-hermes-spaceplane-1987",
       "sources": [
         {
-          "name": "University of Bologna — In Quest of Modernity",
-          "url": "https://cris.unibo.it/handle/11585/520390",
-          "supports": "Identifies the proposed New Civic Hospital as unbuilt."
+          "name": "ESA — Ariane 5 and Hermes artwork",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2009/12/Artist_s_impression_of_Ariane_5_launch_carrying_the_Hermes_spaceplane",
+          "supports": "Explicitly says the crewed Hermes spaceplane was never built."
         },
         {
-          "name": "EPFL — Venice hospital project exhibition",
-          "url": "https://www.epfl.ch/schools/enac/fr/services-et-plateformes/acm/page-26702-fr-html/",
-          "supports": "Documents development in 1964 and presentation in April 1965."
+          "name": "Musée de l’Air et de l’Espace — Hermès full-scale mockup",
+          "url": "https://www.museeairespace.fr/aller-plus-haut/collections/maquette-de-la-navette-hermes-a-lechelle-1/",
+          "supports": "Catalogues the surviving 1987 CNES mockup and its materials; it was not a flight vehicle."
         }
       ],
-      "note": "Verified 11 November 2026. Scope is Le Corbusier’s unbuilt new civic hospital for Venice, not an operating hospital. *1964–1965 marks early design and presentation, not final abandonment: work continued after his death. Plans, illustrations and any exhibition models are not a constructed hospital. Verify a specific dated design iteration before illustrating it; no precise cancellation date or single cause is asserted.",
-      "researched_on": "2026-11-11",
-      "visual_brief": "Choose a documented design iteration and show the low modular wards and courtyards as a conceptual maquette, not a photograph.",
+      "note": "Verified 12 November 2026. Scope is ESA’s proposed crewed Hermès orbital spaceplane, not the full-scale CNES display model or a claim that no hardware was made. *The period uses ESA’s 1987 programme milestone and 1992 cancellation account, not the earlier French studies or a separate closeout date. Ariane 5 flew without Hermès; do not confuse later European demonstrators with a completed Hermès. Choose one documented design revision before art.",
+      "researched_on": "2026-11-12",
+      "visual_brief": "Document one ESA or CNES configuration and label any scale-model interpretation as a concept; distinguish display mockup and operational vehicle.",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -568,14 +568,14 @@
       },
       "rating": {
         "recognition": 4,
-        "visual_strength": 4,
+        "visual_strength": 5,
         "story_strength": 4,
         "evidence_clarity": 5,
-        "catalogue_fit": 5,
+        "catalogue_fit": 4,
         "total": 22,
         "status": "provisional",
-        "rated_on": "2026-11-11",
-        "note": "Strong archive evidence and distinctive low modular hospital; architectural detail needs care on small displays."
+        "rated_on": "2026-11-12",
+        "note": "Distinct shuttle silhouette, direct agency cancellation and museum mockup evidence; somewhat overlaps the existing spaceplane collection."
       }
     }
   ]

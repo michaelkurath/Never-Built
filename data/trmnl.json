@@ -1919,6 +1919,58 @@
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/falkenstein-ludwig-castle-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
       "image_alt": "Imagined monochrome maquette of Christian Jank’s 1883 Falkenstein concept, with a tall round tower and Gothic gables on a rock pinnacle."
+    },
+    {
+      "id": "le-corbusier-venice-hospital",
+      "name": "VENICE HOSPITAL",
+      "proposal_period": "1964–1965*",
+      "proposal_year": "1964",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Designs",
+      "caption": "Low wards and courtyards, not a tower.",
+      "why_unbuilt": "Design work continued after Le Corbusier’s death; the hospital was never built.",
+      "what_remains": "Plans and photographs of study models survive.",
+      "source_name": "Fondation Le Corbusier",
+      "source_url": "https://www.fondationlecorbusier.fr/en/work-architecture/projects-hospital-venice-italy-1964/",
+      "sources": [
+        {
+          "name": "University of Bologna — In Quest of Modernity",
+          "url": "https://cris.unibo.it/handle/11585/520390",
+          "supports": "Identifies the proposed New Civic Hospital as unbuilt."
+        },
+        {
+          "name": "EPFL — Venice hospital project exhibition",
+          "url": "https://www.epfl.ch/schools/enac/fr/services-et-plateformes/acm/page-26702-fr-html/",
+          "supports": "Documents development in 1964 and presentation in April 1965."
+        }
+      ],
+      "note": "Verified 12 November 2026. This is Le Corbusier’s proposed new civic hospital, not an operating hospital. *1964–1965 dates the early design and presentation, not the end of the commission. The Fondation labels it unrealized. The image interprets the archive’s photographed study maquette; it is neither a completed building nor a precise plan. No specific cancellation date or single cause is claimed.",
+      "researched_on": "2026-11-12",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 4,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-11-12",
+        "note": "Strong archive evidence and distinctive low modular hospital; architectural detail needs care on small displays."
+      },
+      "exhibit": "041",
+      "verified_on": "2026-11-12",
+      "image_kind": "ai_artistic_reconstruction",
+      "image_alt": "Interpretive monochrome model of Le Corbusier’s unbuilt Venice Hospital, with low connected wards, open courts and a slim model base.",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/le-corbusier-venice-hospital.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/le-corbusier-venice-hospital-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/le-corbusier-venice-hospital-standard-4x3.jpg"
     }
   ]
 }
