@@ -533,33 +533,21 @@
       }
     },
     {
-      "id": "hermes-spaceplane",
-      "name": "HERMÈS SPACEPLANE",
-      "proposal_period": "1987–1992*",
-      "proposal_year": "1987",
-      "category": "Space",
-      "category_key": "space",
-      "stage": "Mockup",
-      "caption": "A full-size model stood on Earth. The orbital shuttle never flew.",
-      "why_unbuilt": "ESA cites delays and missed cost and performance goals in its cancellation history.",
-      "what_remains": "A 1987 full-scale CNES display mockup survives at Le Bourget.",
-      "source_name": "European Space Agency",
-      "source_url": "https://www.esa.int/articles/about-us/who-we-are/history/history-hermes-spaceplane-1987",
-      "sources": [
-        {
-          "name": "ESA — Ariane 5 and Hermes artwork",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2009/12/Artist_s_impression_of_Ariane_5_launch_carrying_the_Hermes_spaceplane",
-          "supports": "Explicitly says the crewed Hermes spaceplane was never built."
-        },
-        {
-          "name": "Musée de l’Air et de l’Espace — Hermès full-scale mockup",
-          "url": "https://www.museeairespace.fr/aller-plus-haut/collections/maquette-de-la-navette-hermes-a-lechelle-1/",
-          "supports": "Catalogues the surviving 1987 CNES mockup and its materials; it was not a flight vehicle."
-        }
-      ],
-      "note": "Verified 12 November 2026. Scope is ESA’s proposed crewed Hermès orbital spaceplane, not the full-scale CNES display model or a claim that no hardware was made. *The period uses ESA’s 1987 programme milestone and 1992 cancellation account, not the earlier French studies or a separate closeout date. Ariane 5 flew without Hermès; do not confuse later European demonstrators with a completed Hermès. Choose one documented design revision before art.",
-      "researched_on": "2026-11-12",
-      "visual_brief": "Document one ESA or CNES configuration and label any scale-model interpretation as a concept; distinguish display mockup and operational vehicle.",
+      "id": "gordon-strong-automobile-objective",
+      "name": "GORDON STRONG AUTO OBJECTIVE",
+      "proposal_period": "1924–1925",
+      "proposal_year": "1924",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Designs",
+      "caption": "Wright imagined a summit attraction reached by spiral ramps.",
+      "why_unbuilt": "Gordon Strong rejected the design and built a conventional park instead.",
+      "what_remains": "The Library of Congress documents drawings and a later exhibition model.",
+      "source_name": "Library of Congress",
+      "source_url": "https://www.loc.gov/exhibits/flw/flw02.html",
+      "note": "Verified 13 November 2026. Scope is Wright’s unbuilt Sugarloaf Mountain scheme, not the park Strong built. The Library of Congress model was made for a later exhibition, not a construction prototype. Choose a particular design revision before illustration; early and late roof and spire treatments differ.",
+      "visual_brief": "Choose one dated drawing and illustrate the spiral ramps on a study plinth; do not substitute the Guggenheim or the park.",
+      "researched_on": "2026-11-13",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -571,11 +559,11 @@
         "visual_strength": 5,
         "story_strength": 4,
         "evidence_clarity": 5,
-        "catalogue_fit": 4,
-        "total": 22,
+        "catalogue_fit": 5,
+        "total": 23,
         "status": "provisional",
-        "rated_on": "2026-11-12",
-        "note": "Distinct shuttle silhouette, direct agency cancellation and museum mockup evidence; somewhat overlaps the existing spaceplane collection."
+        "rated_on": "2026-11-13",
+        "note": "Clear rejection record and distinctive spiral architecture; drawings and later study model establish visual scope."
       }
     }
   ]
