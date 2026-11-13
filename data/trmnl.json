@@ -1971,6 +1971,58 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/le-corbusier-venice-hospital.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/le-corbusier-venice-hospital-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/le-corbusier-venice-hospital-standard-4x3.jpg"
+    },
+    {
+      "id": "hermes-spaceplane",
+      "name": "HERMÈS SPACEPLANE",
+      "proposal_period": "1987–1992*",
+      "proposal_year": "1987",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Mockup",
+      "caption": "A full-size mockup. No orbital shuttle.",
+      "why_unbuilt": "ESA cancelled Hermès after delays and missed cost and performance goals.",
+      "what_remains": "A 1987 full-scale CNES display mockup survives at Le Bourget.",
+      "source_name": "European Space Agency",
+      "source_url": "https://www.esa.int/articles/about-us/who-we-are/history/history-hermes-spaceplane-1987",
+      "sources": [
+        {
+          "name": "ESA — Ariane 5 and Hermes artwork",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2009/12/Artist_s_impression_of_Ariane_5_launch_carrying_the_Hermes_spaceplane",
+          "supports": "Explicitly says the crewed Hermes spaceplane was never built."
+        },
+        {
+          "name": "Musée de l’Air et de l’Espace — Hermès full-scale mockup",
+          "url": "https://www.museeairespace.fr/aller-plus-haut/collections/maquette-de-la-navette-hermes-a-lechelle-1/",
+          "supports": "Catalogues the surviving 1987 CNES mockup and its materials; it was not a flight vehicle."
+        }
+      ],
+      "note": "Verified 13 November 2026. ESA confirms the crewed orbital shuttle was never built. The artwork depicts the museum’s 1987 CNES full-scale display mockup, not a flight prototype; its stands and plinth are illustrative. *1987–1992 follows ESA’s programme milestone and cancellation account, not the earlier French studies.",
+      "researched_on": "2026-11-13",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-11-13",
+        "note": "Distinct shuttle silhouette, direct agency cancellation and museum mockup evidence; somewhat overlaps the existing spaceplane collection."
+      },
+      "exhibit": "042",
+      "verified_on": "2026-11-13",
+      "image_alt": "Original monochrome interpretation of the 1987 CNES Hermès full-scale nonflying display mockup on stands.",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/hermes-spaceplane.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hermes-spaceplane-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hermes-spaceplane-standard-4x3.jpg",
+      "image_kind": "ai_artistic_reconstruction"
     }
   ]
 }
