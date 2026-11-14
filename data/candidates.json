@@ -533,21 +533,21 @@
       }
     },
     {
-      "id": "gordon-strong-automobile-objective",
-      "name": "GORDON STRONG AUTO OBJECTIVE",
-      "proposal_period": "1924–1925",
-      "proposal_year": "1924",
+      "id": "crystal-heights",
+      "name": "CRYSTAL HEIGHTS",
+      "proposal_period": "1939–1940",
+      "proposal_year": "1940",
       "category": "Architecture",
       "category_key": "architecture",
       "stage": "Designs",
-      "caption": "Wright imagined a summit attraction reached by spiral ramps.",
-      "why_unbuilt": "Gordon Strong rejected the design and built a conventional park instead.",
-      "what_remains": "The Library of Congress documents drawings and a later exhibition model.",
+      "caption": "Wright imagined a cluster of towers for Washington.",
+      "why_unbuilt": "Wright’s development did not proceed; the site later became the Washington Hilton.",
+      "what_remains": "The Library of Congress holds an aerial rendering and an elevation.",
       "source_name": "Library of Congress",
-      "source_url": "https://www.loc.gov/exhibits/flw/flw02.html",
-      "note": "Verified 13 November 2026. Scope is Wright’s unbuilt Sugarloaf Mountain scheme, not the park Strong built. The Library of Congress model was made for a later exhibition, not a construction prototype. Choose a particular design revision before illustration; early and late roof and spire treatments differ.",
-      "visual_brief": "Choose one dated drawing and illustrate the spiral ramps on a study plinth; do not substitute the Guggenheim or the park.",
-      "researched_on": "2026-11-13",
+      "source_url": "https://www.loc.gov/item/2011648058/",
+      "note": "Verified 14 November 2026. Columbia’s Avery exhibition identifies Crystal City as unbuilt. Crystal Heights and Crystal City name the same Roy S. Thurman commission, not the later Crystal City in Virginia. DC’s historic context study identifies the later Hilton on the proposed site.",
+      "visual_brief": "Use the archived tower arrangement and stepped base; do not depict the existing hotel.",
+      "researched_on": "2026-11-14",
       "review": {
         "fact_check": "approved",
         "text_review": "pending",
@@ -559,11 +559,11 @@
         "visual_strength": 5,
         "story_strength": 4,
         "evidence_clarity": 5,
-        "catalogue_fit": 5,
-        "total": 23,
+        "catalogue_fit": 4,
+        "total": 22,
         "status": "provisional",
-        "rated_on": "2026-11-13",
-        "note": "Clear rejection record and distinctive spiral architecture; drawings and later study model establish visual scope."
+        "rated_on": "2026-11-14",
+        "note": "Strong archive and identifiable towers; overlaps the existing Wright architecture group."
       }
     }
   ]

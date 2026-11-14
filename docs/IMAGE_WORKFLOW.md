@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 14 November 2026 — Gordon Strong Automobile Objective
+
+Original monochrome artwork, exact prompt, and responsive exports: [image record](IMAGE_UPDATE_2026-11-14.md).
+
 ## 13 November 2026 — Hermès Spaceplane
 
 Original monochrome artwork, complete prompt and crop-safe exports: [image record](IMAGE_UPDATE_2026-11-13.md).
