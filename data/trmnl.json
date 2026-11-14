@@ -2023,6 +2023,58 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hermes-spaceplane-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hermes-spaceplane-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction"
+    },
+    {
+      "id": "gordon-strong-automobile-objective",
+      "name": "GORDON STRONG AUTO OBJECTIVE",
+      "proposal_period": "1924–1925",
+      "proposal_year": "1924",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Designs",
+      "caption": "Spiral roads to a summit planetarium.",
+      "why_unbuilt": "Gordon Strong rejected the design and built a conventional park instead.",
+      "what_remains": "Drawings and a 1995–96 exhibition model, not a construction prototype.",
+      "source_name": "Library of Congress",
+      "source_url": "https://wwws.loc.gov/exhibits/flw/flw02.html",
+      "note": "Verified 14 November 2026. Strong rejected Wright’s Sugarloaf Mountain scheme. The artwork is a simplified model-style interpretation of the planetarium and spiral ramps, not a depiction of the built park or a reproduction of the later exhibition model.",
+      "researched_on": "2026-11-14",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 5,
+        "total": 23,
+        "status": "reviewed",
+        "rated_on": "2026-11-14",
+        "note": "Direct rejection and model evidence support the distinctive spiral scheme."
+      },
+      "sources": [
+        {
+          "name": "Library of Congress — Gordon Strong presentation",
+          "url": "https://wwws.loc.gov/exhibits/flw/flw02.html#obj16",
+          "supports": "Documents the 1925 planetarium design and a later exhibition model."
+        },
+        {
+          "name": "Library of Congress — Imagination Gallery",
+          "url": "https://wwws.loc.gov/exhibits/treasures/tr33a.html",
+          "supports": "Records the rejection of Wright’s design and the conventional park built instead."
+        }
+      ],
+      "image_alt": "Original monochrome model-style interpretation of Wright’s unbuilt summit planetarium and spiral roads.",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-11-14",
+      "exhibit": "043",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/gordon-strong-automobile-objective.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/gordon-strong-automobile-objective-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/gordon-strong-automobile-objective-standard-4x3.jpg"
     }
   ]
 }
