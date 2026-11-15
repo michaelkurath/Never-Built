@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 15 November 2026 — Crystal Heights
+
+Original monochrome artwork, exact prompt and responsive exports: [image record](IMAGE_UPDATE_2026-11-15.md).
+
 ## 14 November 2026 — Gordon Strong Automobile Objective
 
 Original monochrome artwork, exact prompt, and responsive exports: [image record](IMAGE_UPDATE_2026-11-14.md).

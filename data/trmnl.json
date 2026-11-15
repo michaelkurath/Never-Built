@@ -2075,6 +2075,63 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/gordon-strong-automobile-objective.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/gordon-strong-automobile-objective-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/gordon-strong-automobile-objective-standard-4x3.jpg"
+    },
+    {
+      "id": "crystal-heights",
+      "name": "CRYSTAL HEIGHTS",
+      "proposal_period": "1940–1941",
+      "proposal_year": "1940",
+      "category": "Architecture",
+      "category_key": "architecture",
+      "stage": "Designs",
+      "caption": "Towers above a city within the city.",
+      "why_unbuilt": "DC planners turned down Wright’s development over zoning violations.",
+      "what_remains": "Drawings and later scale models, not a completed complex.",
+      "source_name": "Library of Congress",
+      "source_url": "https://www.loc.gov/item/2011648058/",
+      "note": "Verified 15 November 2026. The Library of Congress dates the selected design sheet to 1940; Columbia’s Buell exhibition dates the project to 1940–41 and calls it unbuilt. Crystal City is another name for this Washington, DC scheme, not the development in Virginia. The Washington Hilton later occupied the site. The artwork interprets the tower group and terraced base; it is not an archival model.",
+      "researched_on": "2026-11-15",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "approved",
+        "image_review": "approved",
+        "final_approval": "approved"
+      },
+      "rating": {
+        "recognition": 4,
+        "visual_strength": 5,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 22,
+        "status": "reviewed",
+        "rated_on": "2026-11-15",
+        "note": "Strong archive and identifiable towers; overlaps the existing Wright architecture group."
+      },
+      "sources": [
+        {
+          "name": "Columbia University — Living in America",
+          "url": "https://buellcenter.columbia.edu/sites/default/files/2023-02/Living%20In%20America%20Full%20Pamphlet.pdf",
+          "supports": "Identifies the unbuilt scheme, towers on a multilevel plinth, and zoning objections."
+        },
+        {
+          "name": "DC Office of Planning — DC Modern",
+          "url": "https://planning.dc.gov/sites/default/files/dc/sites/op/publication/attachments/DC%20Modern%20Historic%20Context%20Study.pdf",
+          "supports": "Identifies the Washington Hilton on the site of the proposed development."
+        },
+        {
+          "name": "Guggenheim — Frank Lloyd Wright: From Within Outward",
+          "url": "https://www.guggenheim.org/wp-content/uploads/2017/03/gen-press-frank-lloyd-wright-outward-within-kit.pdf",
+          "supports": "Documents a later exhibition model, not construction."
+        }
+      ],
+      "image_alt": "Original model-style engraving of Wright’s proposed Crystal Heights towers on a terraced base.",
+      "image_kind": "ai_artistic_reconstruction",
+      "verified_on": "2026-11-15",
+      "exhibit": "044",
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/crystal-heights.jpg",
+      "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/crystal-heights-master-2x1.jpg",
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/crystal-heights-standard-4x3.jpg"
     }
   ]
 }

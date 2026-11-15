@@ -1,0 +1,7 @@
+# Collection review — 15 November 2026
+
+Exhibit 044: Crystal Heights — reviewed 22/25. Verified 15 November 2026. The Library of Congress dates the selected design sheet to 1940; Columbia’s Buell exhibition dates the project to 1940–41 and calls it unbuilt. Crystal City is another name for this Washington, DC scheme, not the development in Virginia. The Washington Hilton later occupied the site. The artwork interprets the tower group and terraced base; it is not an archival model. [Primary source](https://www.loc.gov/item/2011648058/). [Columbia’s exhibition](https://buellcenter.columbia.edu/sites/default/files/2023-02/Living%20In%20America%20Full%20Pamphlet.pdf).
+
+New candidate: Pittsburgh Point Park Civic Center — provisional 21/25. Verified 15 November 2026. Scope is unbuilt scheme 1 (Avery project 4821), not the 1948 second scheme or the completed Point State Park. The Guggenheim lists a model, not a construction prototype. No specific rejection cause is asserted. [Primary source](https://www.jstor.org/stable/community.36561661). [Guggenheim model record](https://www.guggenheim.org/wp-content/uploads/2017/03/gen-press-frank-lloyd-wright-outward-within-kit.pdf) · [Pennsylvania’s Point State Park](https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/point-state-park).
+
+44 live / 13 candidates. See the [artwork and export record](IMAGE_UPDATE_2026-11-15.md). Exact-head checks and visual review are recorded on the pull request.
