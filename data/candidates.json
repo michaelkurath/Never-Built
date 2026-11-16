@@ -565,6 +565,40 @@
         "rated_on": "2026-11-15",
         "note": "Dramatic riverfront design and unambiguous archives; some overlap with other Wright studies."
       }
+    },
+    {
+      "id": "terrestrial-planet-finder-coronagraph",
+      "name": "TERRESTRIAL PLANET FINDER (TPF-C)",
+      "proposal_period": "2000s concept",
+      "proposal_year": "2004",
+      "category": "Space",
+      "category_key": "space",
+      "stage": "Testbeds",
+      "caption": "A proposed telescope to image Earth-like worlds.",
+      "why_unbuilt": "NASA studied the coronagraph architecture, but it was never selected as a flight mission.",
+      "what_remains": "Design reports and laboratory optics testbeds, not a flight observatory.",
+      "source_name": "National Academies — Exoplanet Science Strategy",
+      "source_url": "https://www.nationalacademies.org/read/25187/chapter/6",
+      "note": "Verified 16 November 2026. The National Academies explicitly says TPF-C was never selected as a mission. Scope is the visible-light coronagraph concept, not TPF-I, Roman, or the separate laboratory testbeds described by JPL (https://ntrs.nasa.gov/citations/20080017929). 2004 dates the referenced JPL development plan.",
+      "visual_brief": "Illustrate the TPF-C telescope concept using a dated JPL study rather than the distinct interferometer array or Roman.",
+      "researched_on": "2026-11-16",
+      "review": {
+        "fact_check": "approved",
+        "text_review": "pending",
+        "image_review": "not_started",
+        "final_approval": "pending"
+      },
+      "rating": {
+        "recognition": 3,
+        "visual_strength": 4,
+        "story_strength": 4,
+        "evidence_clarity": 5,
+        "catalogue_fit": 4,
+        "total": 20,
+        "status": "provisional",
+        "rated_on": "2026-11-16",
+        "note": "Clear non-selection and development records; a compelling direct-imaging story with a less familiar silhouette."
+      }
     }
   ]
 }
