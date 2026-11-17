@@ -43,6 +43,8 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/ford-nucleon-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/ford-nucleon-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/ford-nucleon-master-2x1.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/ford-nucleon-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/ford-nucleon-portrait.jpg",
       "image_alt": "Artistic reconstruction of FORD NUCLEON in monochrome engraving style.",
       "image_kind": "ai_artistic_reconstruction",
       "verified_on": "2026-10-07"
@@ -179,6 +181,8 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/fun-palace-master-2x1.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/fun-palace-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/fun-palace-standard-4x3.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/fun-palace-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/fun-palace-portrait.jpg",
       "image_alt": "Artistic reconstruction of Fun Palace: open steel framework, gantry crane and movable cultural spaces."
     },
     {
@@ -308,6 +312,8 @@
       "exhibit": "008",
       "image_kind": "ai_artistic_reconstruction",
       "verified_on": "2026-10-09",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/tatlins-tower-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/tatlins-tower-portrait.jpg",
       "image_alt": "Artistic reconstruction of Tatlin’s unbuilt tower: inclined spiral framework and suspended geometric volumes.",
       "additional_sources": [
         {
@@ -561,6 +567,8 @@
       "exhibit": "013",
       "verified_on": "2026-10-13",
       "image_kind": "ai_artistic_reconstruction",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/sea-dragon-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/sea-dragon-portrait.jpg",
       "image_alt": "Artistic reconstruction of the proposed Sea Dragon super-heavy rocket floating vertically at sea beside tiny support vessels.",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/sea-dragon-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/sea-dragon-master-2x1.jpg",
