@@ -1283,6 +1283,8 @@
     },
     {
       "id": "newtons-cenotaph",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/newtons-cenotaph-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/newtons-cenotaph-portrait.jpg",
       "name": "NEWTON'S CENOTAPH",
       "proposal_period": "1784",
       "proposal_year": "1784",
