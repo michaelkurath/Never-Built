@@ -19,6 +19,8 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-illinois-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-illinois-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/the-illinois-master-2x1.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/the-illinois-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/the-illinois-portrait.jpg",
       "image_alt": "Artistic reconstruction of THE ILLINOIS in monochrome engraving style.",
       "image_kind": "ai_artistic_reconstruction",
       "verified_on": "2026-10-07"
@@ -122,6 +124,8 @@
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/boeing-2707-master-2x1.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/boeing-2707-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/boeing-2707-standard-4x3.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/boeing-2707-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/boeing-2707-portrait.jpg",
       "image_alt": "Artistic reconstruction of the fixed-wing Boeing 2707-300, with four underwing engines and separate tailplanes.",
       "image_kind": "ai_artistic_reconstruction",
       "verified_on": "2026-10-07"

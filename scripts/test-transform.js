@@ -53,6 +53,19 @@ async function main() {
   assert.equal(output.selected_entry.id, "space-one");
   assert.deepEqual(output.trmnl_state.histories.space, ["space-one"]);
   assert.equal(output.items, undefined);
+  assert.equal(output.selected_entry.image_url_frame_landscape, undefined);
+  assert.equal(output.selected_entry.image_url_frame_portrait, undefined);
+
+  const frame = await run({
+    items: [{
+      ...items[0],
+      image_url_frame_landscape: "https://example.com/frame-landscape.jpg",
+      image_url_frame_portrait: "https://example.com/frame-portrait.jpg",
+    }],
+  });
+  assert.equal(frame.selected_entry.image_url_frame_landscape, "https://example.com/frame-landscape.jpg");
+  assert.equal(frame.selected_entry.image_url_frame_portrait, "https://example.com/frame-portrait.jpg");
+  assert.deepEqual(frame.trmnl_state.histories.all, ["tech-one"]);
 
   const originalFetch = global.fetch;
   try {

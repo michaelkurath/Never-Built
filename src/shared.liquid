@@ -31,3 +31,89 @@
     </g>
   </svg>
 {% endcapture %}
+
+{% assign display_edition = trmnl.plugin_settings.custom_fields_values.display_edition | default: "auto" %}
+{% if selected and display_edition != "classic" and display_edition != "frame" %}
+  {% assign frame_visibility = " never-built-frame--auto" %}
+  {% assign classic_visibility = " never-built-classic--auto" %}
+{% endif %}
+
+{% capture frame_exhibit %}
+  {% assign frame_landscape = selected.image_url_frame_landscape | default: selected.image_url_wide | default: selected.image_url %}
+  {% assign frame_portrait = selected.image_url_frame_portrait | default: selected.image_url_standard | default: selected.image_url %}
+  {% assign frame_caption = trmnl.plugin_settings.custom_fields_values.frame_caption %}
+  {% assign frame_show_title = trmnl.plugin_settings.custom_fields_values.frame_show_title | append: "" %}
+  <style>
+    .trmnl .screen--frame:has(> .view--full > .never-built-frame),
+    .trmnl .screen:has(> .view--full > .never-built-frame:not(.never-built-frame--auto)) {
+      padding: 0;
+    }
+    .trmnl .screen--frame > .view--full:has(> .never-built-frame),
+    .trmnl .screen > .view--full:has(> .never-built-frame:not(.never-built-frame--auto)) {
+      width: var(--screen-w);
+      height: var(--screen-h);
+      padding: 0;
+    }
+    .trmnl .layout.never-built-frame {
+      position: relative;
+      width: var(--screen-w);
+      height: var(--screen-h);
+      padding: 0;
+      background: #fff;
+    }
+    .never-built-frame__art {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+    .screen--frame .never-built-frame__art--colour { object-fit: cover; }
+    .trmnl .screen:not(.screen--frame) .layout.never-built-frame--auto,
+    .trmnl .screen--frame .never-built-classic--auto,
+    .never-built-frame__art--portrait { display: none; }
+    .screen--portrait .never-built-frame__art--landscape { display: none; }
+    .screen--portrait .never-built-frame__art--portrait { display: block; }
+    .never-built-frame__label {
+      position: absolute;
+      z-index: 1;
+      inset-block-start: 2.5cqmin;
+      inset-inline-end: 2.5cqmin;
+      box-sizing: border-box;
+      width: 23cqw;
+      padding: 0.75em 0.85em;
+      border: 1px solid #181818;
+      background: #fff;
+      color: #181818;
+      font: clamp(12px, 1.05cqw, 28px)/1.3 system-ui, sans-serif;
+      overflow-wrap: anywhere;
+    }
+    .screen--portrait .never-built-frame__label {
+      width: 40cqw;
+      font-size: clamp(12px, 1.8cqw, 26px);
+    }
+    .never-built-frame__label--title { width: fit-content; max-width: 40cqw; }
+    .screen--portrait .never-built-frame__label--title { width: fit-content; }
+    .never-built-frame__name { margin: 0; font: bold 1.4em/1.1 Georgia, serif; }
+    .never-built-frame__meta { font-size: 0.78em; }
+    .never-built-frame__description { margin: 0.45em 0; }
+  </style>
+  <div class="layout never-built-frame{{ frame_visibility }}">
+    <img class="image image-dither never-built-frame__art never-built-frame__art--landscape{% if selected.image_url_frame_landscape %} never-built-frame__art--colour{% endif %}"
+      loading="lazy" src="{{ frame_landscape | escape }}" alt="Artistic reconstruction of {{ selected.name | escape }}">
+    <img class="image image-dither never-built-frame__art never-built-frame__art--portrait{% if selected.image_url_frame_portrait %} never-built-frame__art--colour{% endif %}"
+      loading="lazy" src="{{ frame_portrait | escape }}" alt="Artistic reconstruction of {{ selected.name | escape }}">
+    {% if frame_caption == "overlay" %}
+      <aside class="never-built-frame__label">
+        <h1 class="never-built-frame__name">{{ selected.name | escape }}</h1>
+        <div class="never-built-frame__meta">{{ selected.proposal_period | escape }} · {{ selected.stage | escape }}</div>
+        <p class="never-built-frame__description">{{ selected.why_unbuilt | escape }}</p>
+        <div class="never-built-frame__meta">Artistic reconstruction</div>
+      </aside>
+    {% elsif frame_show_title == "true" %}
+      <aside class="never-built-frame__label never-built-frame__label--title">
+        <h1 class="never-built-frame__name">{{ selected.name | escape }}</h1>
+      </aside>
+    {% endif %}
+  </div>
+{% endcapture %}

@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 17 November 2026 — TRMNL Frame pilot
+
+The Illinois and Boeing 2707 have separate colour compositions for landscape and portrait. See the [Frame pilot](FRAME_PILOT.md) for prompts, exports and fallback behaviour.
+
 ## 15 November 2026 — Crystal Heights
 
 Original monochrome artwork, exact prompt and responsive exports: [image record](IMAGE_UPDATE_2026-11-15.md).
