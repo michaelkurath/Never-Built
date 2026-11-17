@@ -665,10 +665,12 @@
       "exhibit": "015",
       "verified_on": "2026-10-15",
       "image_kind": "ai_artistic_reconstruction",
-      "image_alt": "Artistic monochrome reconstruction of the proposed Palace of the Soviets above its incomplete riverside foundations.",
+      "image_alt": "Artistic colour reconstruction of the proposed Palace of the Soviets, distinct from its incomplete riverside foundations.",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-master-2x1.jpg",
-      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-standard-4x3.jpg"
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/palace-of-the-soviets-standard-4x3.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/palace-of-the-soviets-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/palace-of-the-soviets-portrait.jpg"
     },
     {
       "id": "chicago-spire",
