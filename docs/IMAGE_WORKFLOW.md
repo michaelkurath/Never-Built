@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 17 November 2026 — four more Frame exhibits
+
+Fun Palace, Ford Nucleon, Sea Dragon and Tatlin’s Tower have separate colour compositions for both orientations. See the [artwork record](FRAME_ART_2026-11-17.md) for references, export sizes and generation prompts.
+
 ## 17 November 2026 — TRMNL Frame pilot
 
 The Illinois and Boeing 2707 have separate colour compositions for landscape and portrait. See the [Frame pilot](FRAME_PILOT.md) for prompts, exports and fallback behaviour.

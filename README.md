@@ -25,9 +25,13 @@ Adapted from [GOODBYE](https://github.com/michaelkurath/TRMNL-Goodbye) at commit
 | Sea Dragon | 1962–1963 | Design study |
 | Project Habbakuk | 1942–1943 | Prototype test |
 
-Forty-two live entries have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
+Live exhibits have monochrome artistic interpretations in 4:3 and 2:1 exports. These are illustrative reconstructions, not archival photos or exact technical drawings. Whole subjects are preserved with white padding.
 
 Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Gordon Strong Automobile Objective proposal (23/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements; models, drawings, exhibition material and partial tests are explicitly distinguished from completed projects.
+
+## TRMNL Frame
+
+Six exhibits have separate 16:9 landscape and 9:16 portrait colour illustrations. **Artwork only** is the default, with an optional title. **Caption overlay** adds a short exhibit label in the upper-right corner. Exhibits awaiting colour artwork use the grayscale fallback. [Frame artwork workflow](docs/IMAGE_WORKFLOW.md)
 
 ## TRMNL setup
 
