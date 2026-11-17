@@ -12,6 +12,8 @@ const DISPLAY_FIELDS = [
   "image_url",
   "image_url_standard",
   "image_url_wide",
+  "image_url_frame_landscape",
+  "image_url_frame_portrait",
   "image_alt",
   "why_unbuilt",
   "what_remains",

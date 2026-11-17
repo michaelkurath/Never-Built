@@ -33,6 +33,16 @@ custom_fields:
   default: all
   description: Choose from all entries or one category. Every entry is shown once before the rotation repeats.
   optional: true
+- keyname: display_edition
+  name: Display edition
+  field_type: select
+  options:
+  - Automatic: auto
+  - Classic: classic
+  - Frame: frame
+  default: auto
+  description: Automatic uses the gallery layout on TRMNL Frame. Choose Classic or Frame to override the full-screen layout.
+  optional: true
 name: NEVER BUILT
 description: One unbuilt future, every refresh.
 refresh_interval: 15

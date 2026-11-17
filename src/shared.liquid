@@ -31,3 +31,94 @@
     </g>
   </svg>
 {% endcapture %}
+
+{% assign display_edition = trmnl.plugin_settings.custom_fields_values.display_edition | default: "auto" %}
+{% if selected and display_edition != "classic" and display_edition != "frame" %}
+  {% assign frame_visibility = " never-built-frame--auto" %}
+  {% assign classic_visibility = " never-built-classic--auto" %}
+{% endif %}
+
+{% capture frame_exhibit %}
+  {% assign frame_landscape = selected.image_url_frame_landscape | default: selected.image_url_wide | default: selected.image_url %}
+  {% assign frame_portrait = selected.image_url_frame_portrait | default: selected.image_url_standard | default: selected.image_url %}
+  <style>
+    .trmnl .layout.never-built-frame {
+      box-sizing: border-box;
+      display: grid;
+      grid-template-columns: minmax(0, 2.5fr) minmax(0, 1fr);
+      grid-template-rows: minmax(0, 1fr);
+      align-items: center;
+      gap: 2.1cqw;
+      width: 100%;
+      height: 100%;
+      padding: 2.2cqw;
+      background: #fff;
+      color: #181818;
+    }
+    .never-built-frame__art {
+      min-width: 0;
+      width: 100%;
+      height: 100%;
+      min-height: 0;
+      object-fit: contain;
+    }
+    .trmnl .screen:not(.screen--frame) .layout.never-built-frame--auto,
+    .trmnl .screen--frame .never-built-classic--auto { display: none; }
+    .never-built-frame__art--portrait { display: none; }
+    .never-built-frame__label {
+      display: flex;
+      flex-direction: column;
+      gap: 0.65em;
+      min-width: 0;
+      padding-block: 0.8em;
+      border-block: 0.09em solid currentColor;
+      font-family: system-ui, sans-serif;
+      font-size: clamp(12px, 1.2cqw, 34px);
+      line-height: 1.25;
+      overflow-wrap: anywhere;
+    }
+    .never-built-frame__meta,
+    .never-built-frame__credit {
+      font-size: 0.73em;
+      font-weight: 600;
+      letter-spacing: 0.075em;
+      text-transform: uppercase;
+    }
+    .never-built-frame__name {
+      margin: 0;
+      font-family: Georgia, serif;
+      font-size: 2.35em;
+      font-weight: 700;
+      line-height: 1.02;
+    }
+    .never-built-frame__details {
+      margin: 0;
+      font-size: 0.88em;
+    }
+    .trmnl .screen--portrait .layout.never-built-frame {
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-rows: minmax(0, 1fr) auto;
+    }
+    .screen--portrait .never-built-frame__label {
+      gap: 0.45em;
+      font-size: clamp(12px, 2.2cqw, 34px);
+    }
+    .screen--portrait .never-built-frame__art--landscape { display: none; }
+    .screen--portrait .never-built-frame__art--portrait { display: block; }
+  </style>
+  <div class="layout never-built-frame{{ frame_visibility }}">
+    <img class="image image-dither never-built-frame__art never-built-frame__art--landscape"
+      loading="lazy" src="{{ frame_landscape | escape }}" alt="Artistic reconstruction of {{ selected.name | escape }}">
+    <img class="image image-dither never-built-frame__art never-built-frame__art--portrait"
+      loading="lazy" src="{{ frame_portrait | escape }}" alt="Artistic reconstruction of {{ selected.name | escape }}">
+    <div class="never-built-frame__label">
+      <div class="never-built-frame__meta">NEVER BUILT · EXHIBIT {{ selected.exhibit | escape }}</div>
+      <h1 class="never-built-frame__name">{{ selected.name | escape }}</h1>
+      <div class="never-built-frame__meta">{{ selected.proposal_period | escape }} · {{ selected.stage | escape }}</div>
+      <strong>{{ selected.caption | escape }}</strong>
+      <p class="never-built-frame__details">{{ selected.why_unbuilt | escape }}</p>
+      <p class="never-built-frame__details"><b>What remains</b><br>{{ selected.what_remains | escape }}</p>
+      <div class="never-built-frame__credit">Artistic reconstruction</div>
+    </div>
+  </div>
+{% endcapture %}

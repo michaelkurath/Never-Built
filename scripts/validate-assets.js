@@ -14,6 +14,11 @@ function dimensions(file) {
   }
   throw new Error(`${file}: JPEG dimensions missing`);
 }
+const frameVariants = [
+  ['image_url_frame_landscape', [2560, 1440, 3]],
+  ['image_url_frame_portrait', [1440, 2560, 3]],
+];
+let frameImages = 0;
 for (const item of data.items) {
   for (const [field, expected] of [['image_url_standard', [1200, 900, 1]], ['image_url_wide', [1600, 800, 1]]]) {
     const url = new URL(item[field]);
@@ -22,6 +27,16 @@ for (const item of data.items) {
     const file = url.pathname.replace('/michaelkurath/Never-Built/main/', '');
     assert.deepEqual(dimensions(file), expected, `${item.id}: ${field} dimensions/grayscale`);
   }
+  if (frameVariants.some(([field]) => Object.hasOwn(item, field))) {
+    const base = 'https://raw.githubusercontent.com/michaelkurath/Never-Built/main/';
+    for (const [field, expected] of frameVariants) {
+      const orientation = field.split('_').at(-1);
+      const file = `assets/exhibits/frame/${item.id}-${orientation}.jpg`;
+      assert.equal(item[field], base + file, `${item.id}: ${field} URL`);
+      assert.deepEqual(dimensions(file), expected, `${item.id}: ${field} dimensions/RGB`);
+      frameImages++;
+    }
+  }
   assert.equal(item.image_kind, 'ai_artistic_reconstruction');
 }
-console.log(`Validated ${data.items.length * 2} responsive grayscale images.`);
+console.log(`Validated ${data.items.length * 2} responsive grayscale images and ${frameImages} RGB Frame images.`);
