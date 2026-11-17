@@ -65,12 +65,12 @@ custom_fields:
 - keyname: exhibit_ids
   name: My exhibits
   field_type: string
-  description: '<a href="https://michaelkurath.github.io/Never-Built/picker.html?recipe=Never-Built">Choose exhibits</a>, then paste your selection here.'
+  description: <a href="https://michaelkurath.github.io/Never-Built/picker.html?recipe=Never-Built">Choose exhibits</a>, then paste your selection here.
   optional: true
 - keyname: frame_exhibit_ids
   name: My Frame exhibits
   field_type: string
-  description: '<a href="https://michaelkurath.github.io/Never-Built/picker.html?recipe=Never-Built&amp;edition=frame">Choose Frame artwork</a>, then paste your selection here.'
+  description: <a href="https://michaelkurath.github.io/Never-Built/picker.html?recipe=Never-Built&amp;edition=frame">Choose Frame artwork</a>, then paste your selection here.
   optional: true
 - keyname: frame_caption
   name: Frame presentation
