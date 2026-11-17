@@ -31,7 +31,7 @@ Thirteen separate candidates remain in the [research queue](data/candidates.json
 
 ## TRMNL Frame
 
-Six exhibits have separate 16:9 landscape and 9:16 portrait colour illustrations. **Artwork only** is the default, with an optional title. **Caption overlay** adds a short exhibit label in the upper-right corner. Exhibits awaiting colour artwork use the grayscale fallback. [Frame artwork workflow](docs/IMAGE_WORKFLOW.md)
+Seven exhibits have separate 16:9 landscape and 9:16 portrait colour illustrations. **Artwork only** is the default, with an optional title. **Caption overlay** adds a short exhibit label in the upper-right corner. Exhibits awaiting colour artwork use the grayscale fallback. [Frame artwork workflow](docs/IMAGE_WORKFLOW.md)
 
 ## TRMNL setup
 
