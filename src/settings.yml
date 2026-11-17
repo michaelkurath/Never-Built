@@ -43,11 +43,14 @@ custom_fields:
   default: auto
   conditional_validation:
   - when: auto
-    visible: [exhibit_ids]
+    visible:
+    - exhibit_ids
   - when: classic
-    visible: [exhibit_ids]
+    visible:
+    - exhibit_ids
   - when: frame
-    visible: [frame_exhibit_ids]
+    visible:
+    - frame_exhibit_ids
   description: Automatic uses the gallery layout on TRMNL Frame. Choose Classic or Frame to override the full-screen layout.
   optional: true
 - keyname: exhibit_mode
