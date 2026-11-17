@@ -11,5 +11,6 @@ for (const item of data.items) {
   const file = new URL(item.image_url_standard).pathname.split('/').pop();
   fs.copyFileSync(path.join('assets/exhibits/responsive-v2', file), path.join(out, 'assets', file));
 }
+require('./build-exhibit-options')(data.items, out);
 fs.writeFileSync(path.join(out, '.nojekyll'), '');
 console.log(`Built website with ${data.items.length} live exhibits.`);

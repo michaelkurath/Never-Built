@@ -29,6 +29,10 @@ Live exhibits have monochrome artistic interpretations in 4:3 and 2:1 exports. T
 
 Thirteen separate candidates remain in the [research queue](data/candidates.json), including the new Gordon Strong Automobile Objective proposal (23/25). Candidates stay outside the live rotation and website until promoted. Ratings are provisional editorial judgements; models, drawings, exhibition material and partial tests are explicitly distinguished from completed projects.
 
+## Choose exhibits
+
+Set **Exhibit rotation** to **My Selection** and choose one or more titles in **My exhibits**. A single title stays on screen. Several titles use the normal refresh and rotation rules. Your selection can span categories. **Full Collection** is the default, and it also applies when no selected titles are available. Choose **Frame** under **Display edition** to limit the picker to exhibits with both colour orientations. The companion website marks those titles as Frame-ready.
+
 ## TRMNL Frame
 
 Seven exhibits have separate 16:9 landscape and 9:16 portrait colour illustrations. **Artwork only** is the default, with an optional title. **Caption overlay** adds a short exhibit label in the upper-right corner. Exhibits awaiting colour artwork use the grayscale fallback. [Frame artwork workflow](docs/IMAGE_WORKFLOW.md)
