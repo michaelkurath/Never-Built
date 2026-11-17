@@ -9,6 +9,7 @@ on:
       - "scripts/build-website.js"
       - "assets/icon/never-built-icon.svg"
       - "assets/exhibits/responsive-v2/*-standard-4x3.jpg"
+      - "assets/exhibits/frame/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
