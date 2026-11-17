@@ -11,8 +11,8 @@ The Design Museum identifies Boris Iofan's winning design among Moscow's unbuilt
 
 ## Exports
 
-- `assets/exhibits/frame/palace-of-the-soviets-landscape.jpg` — sRGB JPEG, 2560 × 1440, quality 86, 4:4:4
-- `assets/exhibits/frame/palace-of-the-soviets-portrait.jpg` — sRGB JPEG, 1440 × 2560, quality 86, 4:4:4
+- `assets/exhibits/frame/palace-of-the-soviets-landscape.jpg` — sRGB JPEG, 2560 × 1440, quality 68, 4:4:4
+- `assets/exhibits/frame/palace-of-the-soviets-portrait.jpg` — sRGB JPEG, 1440 × 2560, quality 68, 4:4:4
 
 The orientations are separately composed, with quiet upper-right sky for the Frame overlay. Physical Spectra 6 colour review remains pending.
 
