@@ -157,3 +157,10 @@ footer a { justify-self: end; }
 .image-disclaimer { position:absolute; bottom:12px; left:16px; padding:4px 7px; background:white; font-size:.6rem; letter-spacing:.1em; font-weight:800; }
 .proposal_period.is-range { font-size:clamp(2rem,4.2vw,4.8rem); }
 @media(max-width:620px) { .brand { font-size:1.5rem; letter-spacing:-.04em; } }
+
+.feature-image[data-frame] { position: absolute; inset: 0; }
+.feature-image[data-frame], .archive-image[data-frame] { filter: none; object-fit: contain; }
+.frame-artwork { margin-top: 1.25rem; font-size: .85rem; }
+.frame-artwork h2 { margin: 0 0 .35rem; font-size: inherit; }
+#frame-versions { display: flex; flex-wrap: wrap; gap: .35rem 1rem; }
+.frame-version a { text-underline-offset: 3px; }
