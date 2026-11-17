@@ -33,6 +33,19 @@ function getPool(items, category) {
   return filtered.length > 0 ? filtered : items;
 }
 
+function getSelectedPool(items, settings) {
+  if (settings?.exhibit_mode !== "selected") return [];
+
+  const ids = Array.isArray(settings.exhibit_ids)
+    ? settings.exhibit_ids
+    : String(settings.exhibit_ids ?? "").split(",");
+  const selectedIds = new Set(ids.map((id) => String(id).trim()));
+  return items.filter((item) => selectedIds.has(item.id) && (
+    settings.display_edition !== "frame" ||
+    (item.image_url_frame_landscape && item.image_url_frame_portrait)
+  ));
+}
+
 function validHistory(history, poolIds) {
   if (!Array.isArray(history)) return [];
 
@@ -51,13 +64,15 @@ function selectEntry(input, randomValue = Math.random()) {
   }
 
   const category = normalizeCategory(input);
-  const pool = getPool(items, category);
+  const selectedPool = getSelectedPool(items, input?.trmnl?.plugin_settings?.custom_fields_values);
+  const pool = selectedPool.length ? selectedPool : getPool(items, category);
+  const historyKey = selectedPool.length ? "my_selection" : category;
   const state = input?.trmnl?.state;
   const histories = state?.histories && typeof state.histories === "object"
     ? { ...state.histories }
     : {};
   const poolIds = new Set(pool.map((item) => item.id));
-  let history = validHistory(histories[category], poolIds);
+  let history = validHistory(histories[historyKey], poolIds);
   let available = pool.filter((item) => !history.includes(item.id));
 
   if (available.length === 0) {
@@ -69,7 +84,7 @@ function selectEntry(input, randomValue = Math.random()) {
     ? Math.min(Math.max(randomValue, 0), 0.9999999999999999)
     : 0;
   const selectedEntry = available[Math.floor(boundedRandom * available.length)];
-  histories[category] = [...history, selectedEntry.id];
+  histories[historyKey] = [...history, selectedEntry.id];
 
   return { selectedEntry, category, histories };
 }
