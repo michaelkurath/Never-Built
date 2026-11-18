@@ -38,9 +38,29 @@
   {% assign classic_visibility = " never-built-classic--auto" %}
 {% endif %}
 
+{% assign frame_landscape = selected.image_url_frame_landscape | default: selected.image_url_frame_portrait %}
+{% assign frame_portrait = selected.image_url_frame_portrait | default: selected.image_url_frame_landscape %}
+{% capture frame_panel_art %}
+  {% if frame_landscape %}
+    <img class="image image--contain image-dither w--full h--full rounded never-built-panel-colour never-built-panel-colour--landscape" src="{{ frame_landscape | escape }}" alt="{{ selected.image_alt | escape }}">
+    <img class="image image--contain image-dither w--full h--full rounded never-built-panel-colour never-built-panel-colour--portrait" src="{{ frame_portrait | escape }}" alt="{{ selected.image_alt | escape }}">
+  {% else %}
+    <span class="label never-built-panel-colour">Colour artwork unavailable</span>
+  {% endif %}
+{% endcapture %}
+
+{% capture frame_panel_styles %}
+  <style>
+    .trmnl .never-built-panel-colour,
+    .trmnl .screen--frame .never-built-panel-classic { display: none; }
+    .trmnl .screen--frame .never-built-panel-colour { display: block; }
+    .trmnl .screen--frame .never-built-panel-colour--portrait,
+    .trmnl .screen--frame.screen--portrait .never-built-panel-colour--landscape { display: none; }
+    .trmnl .screen--frame.screen--portrait .never-built-panel-colour--portrait { display: block; }
+  </style>
+{% endcapture %}
+
 {% capture frame_exhibit %}
-  {% assign frame_landscape = selected.image_url_frame_landscape | default: selected.image_url_wide | default: selected.image_url %}
-  {% assign frame_portrait = selected.image_url_frame_portrait | default: selected.image_url_standard | default: selected.image_url %}
   {% assign frame_caption = trmnl.plugin_settings.custom_fields_values.frame_caption %}
   {% assign frame_show_title = trmnl.plugin_settings.custom_fields_values.frame_show_title | append: "" %}
   <style>
@@ -99,20 +119,23 @@
     .never-built-frame__description { margin: 0.45em 0; }
   </style>
   <div class="layout never-built-frame{{ frame_visibility }}">
-    <img class="image image-dither never-built-frame__art never-built-frame__art--landscape{% if selected.image_url_frame_landscape %} never-built-frame__art--colour{% endif %}"
-      loading="lazy" src="{{ frame_landscape | escape }}" alt="Artistic reconstruction of {{ selected.name | escape }}">
-    <img class="image image-dither never-built-frame__art never-built-frame__art--portrait{% if selected.image_url_frame_portrait %} never-built-frame__art--colour{% endif %}"
-      loading="lazy" src="{{ frame_portrait | escape }}" alt="Artistic reconstruction of {{ selected.name | escape }}">
+    {% if frame_landscape %}
+      <img class="image image-dither never-built-frame__art never-built-frame__art--landscape never-built-frame__art--colour"
+        loading="lazy" src="{{ frame_landscape | escape }}" alt="Artistic reconstruction of {{ selected.name | escape }}">
+      <img class="image image-dither never-built-frame__art never-built-frame__art--portrait never-built-frame__art--colour"
+        loading="lazy" src="{{ frame_portrait | escape }}" alt="Artistic reconstruction of {{ selected.name | escape }}">
+    {% endif %}
     {% if frame_caption == "overlay" %}
       <aside class="never-built-frame__label">
         <h1 class="never-built-frame__name">{{ selected.name | escape }}</h1>
         <div class="never-built-frame__meta">{{ selected.proposal_period | escape }} · {{ selected.stage | escape }}</div>
         <p class="never-built-frame__description">{{ selected.why_unbuilt | escape }}</p>
-        <div class="never-built-frame__meta">Artistic reconstruction</div>
+        <div class="never-built-frame__meta">{% if frame_landscape %}Artistic reconstruction{% else %}Colour artwork unavailable{% endif %}</div>
       </aside>
-    {% elsif frame_show_title == "true" %}
+    {% elsif frame_show_title == "true" or frame_landscape == nil %}
       <aside class="never-built-frame__label never-built-frame__label--title">
         <h1 class="never-built-frame__name">{{ selected.name | escape }}</h1>
+        {% unless frame_landscape %}<p class="never-built-frame__meta">Colour artwork unavailable</p>{% endunless %}
       </aside>
     {% endif %}
   </div>
