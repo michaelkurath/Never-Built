@@ -723,7 +723,9 @@
       "image_alt": "Artistic monochrome reconstruction of the unbuilt twisting Chicago Spire above its lakefront foundation excavation.",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-master-2x1.jpg",
-      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-standard-4x3.jpg"
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/chicago-spire-standard-4x3.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/chicago-spire-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/chicago-spire-portrait.jpg"
     },
     {
       "id": "atlantropa",
