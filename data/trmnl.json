@@ -336,10 +336,10 @@
       "stage": "Design study",
       "caption": "A mirror a hundred metres wide. The giant telescope became a study for a smaller successor.",
       "why_unbuilt": "A 2005 review recommended a smaller telescope because of substantial technical risks.",
-      "what_remains": "The OWL Blue Book, concept drawings, and research that informed ESO's ELT.",
+      "what_remains": "The OWL Blue Book, concept drawings, optical demonstrators and research that informed ESO’s ELT.",
       "source_name": "European Southern Observatory",
       "source_url": "https://elt.eso.org/about/road/",
-      "note": "ESO dates the completed concept study to 1998–2005. An international review recommended a smaller telescope due to substantial technical risks; the 100-metre OWL was not built. OWL is distinct from the later 39-metre ELT. Artwork interprets the 2004 open structure, shallow segmented optical mirror and secondary support from ESO’s archived configuration; perspective, trusswork and segment counts are illustrative. No precise site, build cost or cancellation day is asserted.",
+      "note": "ESO dates the completed concept study to 1998–2005. An international review recommended a smaller telescope due to substantial technical risks; the 100-metre OWL was not built. OWL is distinct from the later 39-metre ELT. Artwork interprets the 2004 open structure, shallow segmented optical mirror and secondary support from ESO’s archived configuration; perspective, trusswork and segment counts are illustrative. No precise site, build cost or cancellation day is asserted. The OWL Blue Book documents optical demonstrator blanks. These component tests did not constitute a full telescope or an OWL construction site.",
       "visual_brief": "Broad segmented mirror and exposed telescope support structure, using OWL drawings rather than the ELT dome; retain scale cues.",
       "rating": {
         "recognition": 2,
@@ -382,7 +382,9 @@
       ],
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-standard-4x3.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-master-2x1.jpg",
-      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-standard-4x3.jpg"
+      "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/owl-100-metre-telescope-standard-4x3.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/owl-100-metre-telescope-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/owl-100-metre-telescope-portrait.jpg"
     },
     {
       "id": "x-20-dyna-soar",
