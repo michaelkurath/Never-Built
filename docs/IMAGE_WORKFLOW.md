@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 20 November 2026 — Broadacre City Frame artwork
+
+See the [artwork record](FRAME_ART_BROADACRE_CITY_2026-11-20.md) for source verification, generation prompts and both colour exports.
+
 ## 19 November 2026 — OWL 100-Metre Telescope Frame artwork
 
 See the [artwork record](FRAME_ART_OWL_100_METRE_TELESCOPE_2026-11-19.md) for verified references, generation prompts and both colour exports.
