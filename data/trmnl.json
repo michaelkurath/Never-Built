@@ -1040,7 +1040,9 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/broadacre-city-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/broadacre-city-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
-      "image_alt": "Artistic monochrome relief-model interpretation of Broadacre City's dispersed farms, highways, civic clusters and isolated towers."
+      "image_alt": "Artistic monochrome relief-model interpretation of Broadacre City's dispersed farms, highways, civic clusters and isolated towers.",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/broadacre-city-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/broadacre-city-portrait.jpg"
     },
     {
       "id": "plan-voisin",
