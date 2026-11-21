@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 21 November 2026 — Project Habbakuk Frame artwork
+
+See the [artwork record](FRAME_ART_PROJECT_HABBAKUK_2026-11-21.md) for source verification, generation prompts and both colour exports.
+
 ## 20 November 2026 — Broadacre City Frame artwork
 
 See the [artwork record](FRAME_ART_BROADACRE_CITY_2026-11-20.md) for source verification, generation prompts and both colour exports.
