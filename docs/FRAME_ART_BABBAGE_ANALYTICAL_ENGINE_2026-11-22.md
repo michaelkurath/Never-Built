@@ -1,0 +1,30 @@
+# Analytical Engine on TRMNL Frame
+
+Verified 22 November 2026.
+
+The complete Analytical Engine was never built. Science Museum Group documents that Babbage continued revising its design but lacked the funding to complete it. Real partial hardware survives: museum object 1878-3 is a portion of the mill with a printing mechanism, under construction at Babbage’s death in 1871. It is a trial mechanism, not the completed programmable engine. Design papers also survive. Plan 28’s 9 November 2026 research report still discusses unresolved overall framework and control linkages; its reconstruction research is distinct from a completed original engine. The Science Museum’s working Difference Engine No.2, constructed in 1991, is another design. These artworks interpret partial trial mill/printing hardware with stacked number wheels, support rods, gears and a wood base. Component counts, gear engagement, framework, printing details, viewpoints and materials rendering are illustrative, not a mechanically exact reconstruction or photograph of the museum object. No complete engine, full memory bank or working computation is asserted.
+
+- [Science Museum Group, Babbage and the never-completed engine](https://collection.sciencemuseumgroup.org.uk/people/ap8)
+- [Science Museum Group, partial trial mill and printing mechanism, object 1878-3](https://collection.sciencemuseumgroup.org.uk/objects/co62245/babbages-analytical-engine-1834-1871-trial-model)
+- [Plan 28, Framework of the Analytical Engine, 9 November 2026](https://blog.plan28.org/2026/11/)
+
+No source photograph is embedded or reused. Reference sources inform subject and status; these are original generated illustrations and no third-party photo credit applies.
+
+Both images are original AI-generated artistic reconstructions, independently composed using the built-in image generator. The upper-right area is kept quiet for the optional title and caption. Each colour PNG master was fitted to its target aspect ratio with a minimal centre trim and Lanczos resizing, then exported as an sRGB JPEG, quality 83, 4:4:4 chroma sampling.
+
+- landscape, 2560 × 1440, 515,797 bytes
+- portrait, 1440 × 2560, 643,100 bytes
+
+Physical Spectra 6 colour and wall-distance review remain pending.
+
+The first landscape generation was rejected because the wooden base approached the lower edge. The accepted generation uses the composition correction recorded in the landscape prompt below.
+
+## Generation prompts
+
+### Landscape
+
+Use case: historical-scene. Asset type: original colour gallery illustration for a 31.5-inch Spectra 6 Frame. Original artistic reconstruction interpreting the SURVIVING PARTIAL trial mill and printing mechanism for Charles Babbage's Analytical Engine, NOT a complete computer and NOT Difference Engine No.2. A compact incomplete Victorian experimental mechanism on a low rectangular dark wood base: open steel-and-brass framework, one tall stack of many brass toothed number wheels held between dark slender upright rods on the left, a shorter gear assembly beside it, low gears and a small printing assembly at the foot. Entire mechanism open to view, no enclosure, no huge complete memory bank, no speculative finished factory machine. Brass, dark iron, warm brown wood, ivory background. Mechanism is illustrative rather than a precise engineering reconstruction. Original mid-century engineering museum colour lithograph with crisp mechanical silhouettes, subtle gouache and ink texture and broad tonal separation. No electronic parts, keyboard, screen or steam engine. Wide 16:9 landscape, target 2560×1440. Wide three-quarter view; main visual mass in left and lower centre, generous margins around identifying details. Upper-right quarter quiet and softly lit, with minimal detail for an optional external caption. Strong wall-distance legibility. Original illustration, not an archival photograph or copied source composition. Artwork only edge to edge. No lettering, numbers, labels, logo, watermark, border or frame. Composition correction: reduce the entire mechanism and its complete wooden base to no more than 65 percent of the image width and 75 percent of its height. Every foot and corner of the base must be fully visible. Keep at least 12 percent empty ivory margin BELOW the complete base and above the topmost shaft, and at least 10 percent empty margin at left. Never crop any part of the object. Background fills remaining space.
+
+### Portrait
+
+Use case: historical-scene. Asset type: original colour gallery illustration for a 31.5-inch Spectra 6 Frame. Original artistic reconstruction interpreting the SURVIVING PARTIAL trial mill and printing mechanism for Charles Babbage's Analytical Engine, NOT a complete computer and NOT Difference Engine No.2. A compact incomplete Victorian experimental mechanism on a low rectangular dark wood base: open steel-and-brass framework, one tall stack of many brass toothed number wheels held between dark slender upright rods on the left, a shorter gear assembly beside it, low gears and a small printing assembly at the foot. Entire mechanism open to view, no enclosure, no huge complete memory bank, no speculative finished factory machine. Brass, dark iron, warm brown wood, ivory background. Mechanism is illustrative rather than a precise engineering reconstruction. Original mid-century engineering museum colour lithograph with crisp mechanical silhouettes, subtle gouache and ink texture and broad tonal separation. No electronic parts, keyboard, screen or steam engine. Tall 9:16 portrait, target 1440×2560. Independently composed near-front three-quarter view emphasizing height, main visual mass lower-left to centre. Keep every extremity of the bird or mechanism fully inside central 65 percent of canvas width and within the frame, generous breathing room. Upper-right quarter quiet and softly lit, with minimal detail for an optional external caption. Strong wall-distance legibility. Original illustration, not an archival photograph or copied source composition. Artwork only edge to edge. No lettering, numbers, labels, logo, watermark, border or frame.
