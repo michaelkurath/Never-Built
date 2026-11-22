@@ -1892,10 +1892,12 @@
       "exhibit": "039",
       "verified_on": "2026-11-10",
       "image_kind": "ai_artistic_reconstruction",
-      "image_alt": "Original interpretive monochrome engraving of a partial Analytical Engine trial mill mechanism with stacked wheels and a small printing assembly, not a completed engine.",
+      "image_alt": "Artistic reconstruction interpreting the partial trial mill and printing mechanism for Babbage’s Analytical Engine, not a complete machine.",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/babbage-analytical-engine.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/babbage-analytical-engine-master-2x1.jpg",
-      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/babbage-analytical-engine-standard-4x3.jpg"
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/babbage-analytical-engine-standard-4x3.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/babbage-analytical-engine-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/babbage-analytical-engine-portrait.jpg"
     },
     {
       "id": "falkenstein-ludwig-castle",

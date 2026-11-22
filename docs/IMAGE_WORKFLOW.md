@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 22 November 2026 — Analytical Engine Frame artwork
+
+See the [artwork record](FRAME_ART_BABBAGE_ANALYTICAL_ENGINE_2026-11-22.md) for source verification, generation prompts and both colour exports.
+
 ## 21 November 2026 — Project Habbakuk Frame artwork
 
 See the [artwork record](FRAME_ART_PROJECT_HABBAKUK_2026-11-21.md) for source verification, generation prompts and both colour exports.
