@@ -1993,10 +1993,12 @@
       "exhibit": "041",
       "verified_on": "2026-11-12",
       "image_kind": "ai_artistic_reconstruction",
-      "image_alt": "Interpretive monochrome model of Le Corbusier’s unbuilt Venice Hospital, with low connected wards, open courts and a slim model base.",
+      "image_alt": "Artistic reconstruction interpreting a study model for Le Corbusier’s unbuilt Venice Hospital, with low connected wards and open courts.",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/le-corbusier-venice-hospital.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/le-corbusier-venice-hospital-master-2x1.jpg",
-      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/le-corbusier-venice-hospital-standard-4x3.jpg"
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/le-corbusier-venice-hospital-standard-4x3.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/le-corbusier-venice-hospital-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/le-corbusier-venice-hospital-portrait.jpg"
     },
     {
       "id": "hermes-spaceplane",

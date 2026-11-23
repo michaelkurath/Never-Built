@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 23 November 2026 — Venice Hospital Frame artwork
+
+See the [artwork record](FRAME_ART_LE_CORBUSIER_VENICE_HOSPITAL_2026-11-23.md) for source verification, generation prompts and both colour exports.
+
 ## 22 November 2026 — Analytical Engine Frame artwork
 
 See the [artwork record](FRAME_ART_BABBAGE_ANALYTICAL_ENGINE_2026-11-22.md) for source verification, generation prompts and both colour exports.
