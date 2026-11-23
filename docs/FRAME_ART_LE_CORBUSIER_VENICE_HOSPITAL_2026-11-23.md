@@ -1,0 +1,28 @@
+# Venice Hospital on TRMNL Frame
+
+Verified 23 November 2026.
+
+Le Corbusier’s proposed Venice Civic Hospital was never built. The Fondation Le Corbusier labels the project unrealized, and the University of Bologna research record independently identifies it as unbuilt. Plans and photographs of study maquettes survive in the archive. The pictured archive maquette is design material, not a hospital prototype or partial construction of the full project; the cited records identify no full-scale prototype or built ward of this scheme. The catalogue’s 1964–1965 period refers to early design and presentation, not a claimed final cancellation date. No single cause of non-construction is asserted. These artworks are new artistic interpretations of low interconnected ward groups, roof strips, courts and pilotis, presented as a study model on a plinth. The courtyard count, exact arrangement, facade details, materials, planted courts, studio surface and viewpoint are invented simplifications, not a precise plan or faithful replica of an archive model. They do not depict an operating hospital in Venice. The Fondation credits its reference photographs © FLC/ADAGP; no source photograph is reproduced.
+
+- [Fondation Le Corbusier, unrealized Venice Hospital and archive imagery](https://www.fondationlecorbusier.fr/en/work-architecture/projects-hospital-venice-italy-1964/)
+- [Fondation, photographed early study maquette, reference only](https://www.fondationlecorbusier.fr/wp-content/uploads/2022/06/projets-hopital-venise-italie-1964-1.jpg)
+- [University of Bologna, In Quest of Modernity, unbuilt project classification](https://cris.unibo.it/handle/11585/520390)
+
+No source photograph is embedded or reused. Reference sources inform subject and status; these are original generated illustrations and no third-party photo credit applies.
+
+Both images are original AI-generated artistic reconstructions, independently composed using the built-in image generator. The upper-right area is kept quiet for the optional title and caption. Each colour PNG master was fitted to its target aspect ratio with a minimal centre trim and Lanczos resizing, then exported as an sRGB JPEG, quality 83, 4:4:4 chroma sampling.
+
+- landscape, 2560 × 1440, 621,726 bytes
+- portrait, 1440 × 2560, 516,689 bytes
+
+Physical Spectra 6 colour and wall-distance review remain pending.
+
+## Generation prompts
+
+### Landscape
+
+Use case: historical-scene. Asset type: original colour artistic reconstruction for a 31.5-inch Spectra 6 Frame. Original architectural museum illustration interpreting an early study MAQUETTE for Le Corbusier's NEVER-BUILT Venice Hospital. Low wide orthogonal mat-building of interconnected white square ward clusters and horizontal roof strips, rectangular open courtyards, short connecting galleries, subtle pilotis under edges. It is a small architectural study model resting on a complete slim pale rectangular plinth, not an operating hospital, exact plan, construction site or completed building. Keep entire model footprint and all corners of plinth visible. No skyscraper, tower, dome, sawtooth industrial roof, lettering or signage. New shallow oblique viewpoint on a quiet muted lagoon-blue studio surface, softly lit warm ivory background. Interpret the massing rather than copy any archival photograph; invented model detailing must remain simple. Original mid-century architectural colour lithograph with subtle print/gouache texture, crisp white geometry, ochre shadow accents and blue-green courts; broad shapes legible at wall distance. Wide 16:9 landscape, target 2560×1440. Three-quarter composition, main subject on left and lower centre, all identifying parts with at least ten percent margin. Quiet upper-right quarter for an optional caption, with minimal detail and gentle tonal variation. No important subject feature in upper-right. Artwork only edge to edge, no text, numbers, labels, logos, watermark, border or decorative frame.
+
+### Portrait
+
+Use case: historical-scene. Asset type: original colour artistic reconstruction for a 31.5-inch Spectra 6 Frame. Original architectural museum illustration interpreting an early study MAQUETTE for Le Corbusier's NEVER-BUILT Venice Hospital. Low wide orthogonal mat-building of interconnected white square ward clusters and horizontal roof strips, rectangular open courtyards, short connecting galleries, subtle pilotis under edges. It is a small architectural study model resting on a complete slim pale rectangular plinth, not an operating hospital, exact plan, construction site or completed building. Keep entire model footprint and all corners of plinth visible. No skyscraper, tower, dome, sawtooth industrial roof, lettering or signage. New shallow oblique viewpoint on a quiet muted lagoon-blue studio surface, softly lit warm ivory background. Interpret the massing rather than copy any archival photograph; invented model detailing must remain simple. Original mid-century architectural colour lithograph with subtle print/gouache texture, crisp white geometry, ochre shadow accents and blue-green courts; broad shapes legible at wall distance. Tall 9:16 portrait, target 1440×2560. Independently composed near-front elevated three-quarter viewpoint. Keep complete spacecraft, animal or model within central 65 percent of canvas width and no more than 75 percent of its height; all extremities with generous margin. Quiet upper-right quarter for an optional caption, with minimal detail and gentle tonal variation. No important subject feature in upper-right. Artwork only edge to edge, no text, numbers, labels, logos, watermark, border or decorative frame.
