@@ -1944,7 +1944,9 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/falkenstein-ludwig-castle-master-2x1.jpg",
       "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/falkenstein-ludwig-castle-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
-      "image_alt": "Imagined monochrome maquette of Christian Jank’s 1883 Falkenstein concept, with a tall round tower and Gothic gables on a rock pinnacle."
+      "image_alt": "Artistic reconstruction of an imagined maquette interpreting Christian Jank’s 1883 Falkenstein concept, not the medieval ruin or a completed castle.",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/falkenstein-ludwig-castle-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/falkenstein-ludwig-castle-portrait.jpg"
     },
     {
       "id": "le-corbusier-venice-hospital",
