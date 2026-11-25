@@ -1,0 +1,28 @@
+# Ludwig’s Falkenstein on TRMNL Frame
+
+Verified 25 November 2026.
+
+Ludwig II’s full proposed new Falkenstein castle was never built. The Bavarian Palace Administration documents Christian Jank’s 1883 ideal design and later designs; the medieval ruin on the site predates Ludwig’s proposal and is not partial construction of it. Deutsche Stiftung Denkmalschutz states that only an access road and water supply had been completed when Ludwig died in 1886: preparatory infrastructure, not a completed new castle. Haus der Bayerischen Geschichte records a physical model by Hermann Josef Lorch, tentatively identified as the never-realized Falkenstein; that identification is qualified in the museum record. No full-scale castle prototype is established by these sources. Our two illustrations are imagined maquettes interpreting Jank’s 1883 design motifs, not photographs or replicas of Lorch’s model, the medieval ruin or the later Schultze scheme. Tower proportions, details, model materials, vegetation, base and viewpoints are interpretive. Reference archive illustrations and museum model photographs are not reproduced.
+
+- [Bavarian Palace Administration, unbuilt proposal and Jank’s 1883 design](https://schloesserblog.bayern.de/geheimnisse/falkenstein-ein-projekt-ludwigs-ii)
+- [Deutsche Stiftung Denkmalschutz, completed access road and water supply](https://www.denkmalschutz.de/denkmal/burgruine-falkenstein.html)
+- [Haus der Bayerischen Geschichte, Hermann Josef Lorch model and tentative identification](https://www.museum.bayern/en/sammlung/geschichten/hermann-josef-lorch.html)
+
+No source photograph is embedded or reused. Reference sources inform subject and status; these are original generated illustrations and no third-party photo credit applies.
+
+Both images are original AI-generated artistic reconstructions, independently composed using the built-in image generator. The upper-right area is kept quiet for the optional title and caption. Each colour PNG master was fitted to its target aspect ratio with a minimal centre trim and Lanczos resizing, then exported as an sRGB JPEG, quality 83, 4:4:4 chroma sampling.
+
+- landscape, 2560 × 1440, 617,608 bytes
+- portrait, 1440 × 2560, 620,320 bytes
+
+Physical Spectra 6 colour and wall-distance review remain pending.
+
+## Generation prompts
+
+### Landscape
+
+Use case: historical-scene. Asset type: original colour artistic reconstruction for a 31.5-inch Spectra 6 Frame. Original architectural museum colour illustration of an IMAGINED study maquette interpreting Christian Jank's 1883 ideal design for Ludwig II's NEVER-BUILT Falkenstein castle. Compact jagged rock pinnacle on a low plain model base, ornate Gothic palace mass with clustered steep gables, a HIGH SLENDER ROUND TOWER with a broad corbelled crown and pointed spire, lower crenellated retaining walls and small pointed gatehouse. Pale warm stone, muted blue-grey roofs, ochre light and restrained dark green vegetation on the rocky model base. It must read as an architectural concept model, not a completed real castle, not the medieval ruin, not Neuschwanstein, not the later Schultze scheme, and not a copy of Hermann Lorch's separately documented physical model. New original three-quarter viewpoint on a quiet ivory studio field. Interpretation of design motifs, not an exact technical reconstruction. Original mid-century architectural museum lithograph with subtle gouache/print texture and strong geometric silhouette. Wide 16:9 landscape, target 2560×1440. Main subject lower-left to centre in a three-quarter side view. Keep the ENTIRE bird, ship or castle model and its base visible, at most 70 percent of width and 75 percent of height, with at least ten percent clear margin around every extremity. Upper-right quarter quiet, pale and low-detail for an optional external caption. Strong wall-distance legibility and tonal separation. Artwork only, edge to edge; no words, labels, numbers, logos, watermark, frame or border.
+
+### Portrait
+
+Use case: historical-scene. Asset type: original colour artistic reconstruction for a 31.5-inch Spectra 6 Frame. Original architectural museum colour illustration of an IMAGINED study maquette interpreting Christian Jank's 1883 ideal design for Ludwig II's NEVER-BUILT Falkenstein castle. Compact jagged rock pinnacle on a low plain model base, ornate Gothic palace mass with clustered steep gables, a HIGH SLENDER ROUND TOWER with a broad corbelled crown and pointed spire, lower crenellated retaining walls and small pointed gatehouse. Pale warm stone, muted blue-grey roofs, ochre light and restrained dark green vegetation on the rocky model base. It must read as an architectural concept model, not a completed real castle, not the medieval ruin, not Neuschwanstein, not the later Schultze scheme, and not a copy of Hermann Lorch's separately documented physical model. New original three-quarter viewpoint on a quiet ivory studio field. Interpretation of design motifs, not an exact technical reconstruction. Original mid-century architectural museum lithograph with subtle gouache/print texture and strong geometric silhouette. Tall 9:16 portrait, target 1440×2560. Independently composed elevated near-front three-quarter view; ship lies on a foreshortened diagonal to fit. Complete main subject including feet/tail, bow/stern or tower/base entirely within central 65 percent of image width, with generous margin above and below. Upper-right quarter quiet, pale and low-detail for an optional external caption. Strong wall-distance legibility and tonal separation. Artwork only, edge to edge; no words, labels, numbers, logos, watermark, frame or border.

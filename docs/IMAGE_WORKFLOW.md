@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 25 November 2026 — Ludwig’s Falkenstein Frame artwork
+
+See the [artwork record](FRAME_ART_FALKENSTEIN_LUDWIG_CASTLE_2026-11-25.md) for source verification, generation prompts and both colour exports.
+
 ## 23 November 2026 — Venice Hospital Frame artwork
 
 See the [artwork record](FRAME_ART_LE_CORBUSIER_VENICE_HOSPITAL_2026-11-23.md) for source verification, generation prompts and both colour exports.
