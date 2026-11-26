@@ -835,7 +835,9 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tokyo-bay-plan-1960-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/tokyo-bay-plan-1960-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
-      "image_alt": "Artistic monochrome interpretation of the unbuilt Tokyo Bay transport spine, civic platforms and branching housing."
+      "image_alt": "Artistic reconstruction of an imagined architectural maquette interpreting Tange’s unbuilt Tokyo Bay Plan 1960, not completed infrastructure.",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/tokyo-bay-plan-1960-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/tokyo-bay-plan-1960-portrait.jpg"
     },
     {
       "id": "walking-city",
