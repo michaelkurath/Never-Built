@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 26 November 2026 — Tokyo Bay Plan 1960 Frame artwork
+
+See the [artwork record](FRAME_ART_TOKYO_BAY_PLAN_1960_2026-11-26.md) for source verification, generation prompts and both colour exports.
+
 ## 25 November 2026 — Ludwig’s Falkenstein Frame artwork
 
 See the [artwork record](FRAME_ART_FALKENSTEIN_LUDWIG_CASTLE_2026-11-25.md) for source verification, generation prompts and both colour exports.
