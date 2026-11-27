@@ -1785,10 +1785,12 @@
       "exhibit": "037",
       "verified_on": "2026-11-08",
       "image_kind": "ai_artistic_reconstruction",
-      "image_alt": "Original monochrome interpretation of the HL-20 lifting-body concept on a display stand, with two canted rear fins and a central tail fin.",
+      "image_alt": "Artistic reconstruction of an imagined display maquette interpreting the early HL-20 lifting-body concept, not a flight spacecraft or exact historic mockup.",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/hl-20-personnel-launch-system.jpg",
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hl-20-personnel-launch-system-master-2x1.jpg",
-      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hl-20-personnel-launch-system-standard-4x3.jpg"
+      "image_url_standard": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/hl-20-personnel-launch-system-standard-4x3.jpg",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/hl-20-personnel-launch-system-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/hl-20-personnel-launch-system-portrait.jpg"
     },
     {
       "id": "superconducting-super-collider",
