@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 27 November 2026 — HL-20 Frame artwork
+
+See the [artwork record](FRAME_ART_HL_20_PERSONNEL_LAUNCH_SYSTEM_2026-11-27.md) for source verification, generation prompts and both colour exports.
+
 ## 26 November 2026 — Tokyo Bay Plan 1960 Frame artwork
 
 See the [artwork record](FRAME_ART_TOKYO_BAY_PLAN_1960_2026-11-26.md) for source verification, generation prompts and both colour exports.
