@@ -1,5 +1,9 @@
 # Exhibit artwork
 
+## 28 November 2026 — Guggenheim Helsinki Frame artwork
+
+See the [artwork record](FRAME_ART_GUGGENHEIM_HELSINKI_2026-11-28.md) for source verification, generation prompts and both colour exports.
+
 ## 27 November 2026 — HL-20 Frame artwork
 
 See the [artwork record](FRAME_ART_HL_20_PERSONNEL_LAUNCH_SYSTEM_2026-11-27.md) for source verification, generation prompts and both colour exports.
