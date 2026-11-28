@@ -943,7 +943,9 @@
       "image_url_wide": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/guggenheim-helsinki-master-2x1.jpg",
       "image_url": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/responsive-v2/guggenheim-helsinki-standard-4x3.jpg",
       "image_kind": "ai_artistic_reconstruction",
-      "image_alt": "Artistic monochrome reconstruction of the unbuilt Guggenheim Helsinki pavilion cluster and taller glazed-crown tower."
+      "image_alt": "Artistic reconstruction of Guggenheim Helsinki’s unbuilt pavilion cluster and glazed-crown tower as an imagined model, not a completed museum.",
+      "image_url_frame_landscape": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/guggenheim-helsinki-landscape.jpg",
+      "image_url_frame_portrait": "https://raw.githubusercontent.com/michaelkurath/Never-Built/main/assets/exhibits/frame/guggenheim-helsinki-portrait.jpg"
     },
     {
       "id": "dome-over-manhattan",
